@@ -1,13 +1,13 @@
 #!/bin/bash
 #variables
 Xenia_emuName="Xenia"
-Xenia_emuType="$emuDeckEmuTypeWindows"
-Xenia_emuPath="${romsPath}/xbox360/xenia_canary.exe"
-Xenia_releaseURL_master="https://github.com/xenia-project/release-builds-windows/releases/latest/download/xenia_master.zip"
+Xenia_emuType="$emuDeckEmuTypeAppImage"
+Xenia_emuPath="$emusFolder/xenia"
+#Xenia_releaseURL_master="https://github.com/xenia-project/release-builds-windows/releases/latest/download/xenia_master.zip"
 #Xenia_releaseURL_canary="https://github.com/xenia-canary/xenia-canary/releases/latest/download/xenia_canary.zip"
-# TODO - https://github.com/xenia-canary/xenia-canary-releases/releases/latest/download/xenia_canary_linux.tar.gz - Linux build, runs on SteamDeck =)
-Xenia_releaseURL_canary="https://github.com/xenia-canary/xenia-canary-releases/releases/download/9132035/xenia_canary_windows.zip"
-Xenia_XeniaSettings="${romsPath}/xbox360/xenia-canary.config.toml"
+Xenia_releaseURL_canary_lin="https://github.com/xenia-canary/xenia-canary-releases/releases/latest/download/xenia_canary_linux.tar.gz"
+#Xenia_releaseURL_canary="https://github.com/xenia-canary/xenia-canary-releases/releases/download/9132035/xenia_canary_windows.zip"
+Xenia_XeniaSettings="$emusFolder/xenia/xenia-canary.config.toml"
 
 #cleanupOlderThings
 Xenia_cleanup(){
@@ -16,7 +16,18 @@ Xenia_cleanup(){
 
 #Install
 Xenia_install(){
-	local version
+    echo "Begin Xenia Install"
+    local showProgress=$1
+    if installEmuBI "$Xenia_emuName" "$(getReleaseURLGH "xenia-canary/xenia-canary-releases" "-linux.tar.gz" "" "" "")" "" "tar.gz" "$showProgress"; then
+        mkdir -p "$emusFolder/xenia"
+        tar -xvf "$emusFolder/xenia_canary_linux.tar.gz" -C "$emusFolder" && rm -rf "$HOME/Applications/xenia_canary_linux.tar.gz"
+        chmod +x "$emusFolder/xenia/xenia_canary"
+    else
+        return 1
+    fi
+
+}
+	#local version
 	version=$1
 	local showProgress="$2"
 
