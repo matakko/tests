@@ -44,9 +44,14 @@ if [[ $fileExtension == "desktop" ]]; then
 
     # this removes everything in Exec= line before first " or ' (quotes), keeps everything after that (including the quotes)
     # given example above, result will be: "/run/media/mmcblk0p1/Emulation/storage/shadps4/games/CUSA01369/eboot.bin"
-    launchParam=$(echo "Exec=$shadps4DesktopExec" | sed "s|^\(Exec=\)[^\"\']*\([\"\']\)|\2|")
+    launchParam=$(echo "$shadps4DesktopExec" | grep -oP '"\K[^"]+(?=")')
     
     # construct launch args and run
+    # fallback : si pas trouvé avec guillemets, prend dernier mot
+    if [[ -z "$launchParam" ]]; then
+    launchParam=$(echo "$shadps4DesktopExec" | awk '{print $NF}')
+fi
+
     launch_args=("-g" "$launchParam")
     echo "Launching: ${exe[*]} ${launch_args[*]}"
     "${exe[@]}" "${launch_args[@]}"
