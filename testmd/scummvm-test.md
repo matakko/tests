@@ -1,4 +1,4 @@
-| Shortcut      | Real Name |
+| Shortcut      | Name |
 | ----------- | ----------- |
 |		| Delphine Software 	|
 |os.scummvm		|  007: James Bond - The Stealth Affair 	|
