@@ -1,4 +1,4 @@
-# List .scummvm name based on the scummvm ID .
+# List .scummvm name based on the ScummVM ID.
 source : https://www.scummvm.org/compatibility/
 
 | Shortcut      | Name |
