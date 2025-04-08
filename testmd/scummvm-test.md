@@ -1,6 +1,6 @@
 | Shortcut      | Real Name |
 | ----------- | ----------- |
-|		| **Delphine Software** 	|
+|		| Delphine Software 	|
 |os.scummvm		|  007: James Bond - The Stealth Affair 	|
 |cruise.scummvm		|Cruise for a Corpse 	|
 |fw.scummvm		|Future Wars: Adventures in Time 	|
@@ -17,7 +17,7 @@
 |quest.scummvm		|Quest Interactive Fiction games 	|
 |scottadams.scummvm		|Scott Adams Interactive Fiction games 	|
 |zcode.scummvm		|ZCode (Infocom and Inform) Interactive Fiction games 	|
-|		| **Coktel Vision** 	|
+|		| Coktel Vision 	|
 |adibou1.scummvm		|Adibou 1 	|
 |adibou2.scummvm		|Adibou 2 	|
 |bargon.scummvm		|Bargon Attack 	|
