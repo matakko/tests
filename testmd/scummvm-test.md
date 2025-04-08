@@ -1,6 +1,5 @@
 | Shortcut      | Real Name |
 | ----------- | ----------- |
-| Shortcut      | Real Name |
 |		 Delphine Software 	|
 |os.scummvm		|007: James Bond - The Stealth Affair 	|
 |cruise.scummvm		|Cruise for a Corpse 	|
