@@ -1,7 +1,7 @@
 | Shortcut      | Real Name |
 | ----------- | ----------- |
 |		| **Delphine Software** 	|
-|os.scummvm		|007: James Bond - The Stealth Affair 	|
+|os.scummvm		|<cenbter>007: James Bond - The Stealth Affair</center> 	|
 |cruise.scummvm		|Cruise for a Corpse 	|
 |fw.scummvm		|Future Wars: Adventures in Time 	|
 |		|Interactive Fiction 	|
