@@ -1,7 +1,11 @@
-## Test  
+# Test  
 
-# Garbage repos for testings / fix
+## This repo is for helping me to read and naviguate more easily 
 
-|test |garbage |
+
+|test |fix |
 |---- | ----|
-| test:test | garb🥖 |
+| test:test | fix 🥖 |
+
+
+
