@@ -2,7 +2,7 @@
 $emusPath = "D:\test2"
 $emulationPath = "C:\test1"
 
-function createFolderSymlink($target, $linkPath) {
+function createSaveLink($target, $linkPath) {
     if (Test-Path $linkPath) {
         Remove-Item -Path $linkPath -Force
     }
@@ -15,7 +15,7 @@ function test_1(){
 $emupathsave = "$emusPath\toto"
 $savelink = "$emulationPath\tata"
 
-createFolderSymlink $emupathsave $savelink
+createSaveLink $emupathsave $savelink
 
 }
 function test_2(){
@@ -23,7 +23,7 @@ function test_2(){
 $emupathsave = "$emusPath\momo"
 $savelink = "$emulationPath\mama"
 
-createFolderSymlink $emupathsave $savelink
+createSaveLink $emupathsave $savelink
 }
 
     test_1
