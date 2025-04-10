@@ -390,7 +390,7 @@ function Xemu_setupSaves() {
 function Xenia_setupSaves() {
 	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
 
-	$simLinkPath = "$emusPath\xenia\content"
+	$simLinkPath = "$emusPath\xenia_canary\content"
 	$emuSavePath = "$emulationPath\saves\xenia\saves"
 	createSaveLink $simLinkPath $emuSavePath
 
