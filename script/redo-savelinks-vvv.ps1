@@ -67,33 +67,33 @@ function createSaveLink($target, $linkPath) {
 
 #Azahar - 3DS
 function Azahar_setupSaves() {
-    if ($verbose) { Write-Host "`n===== Setting up test saves =====" -ForegroundColor Magenta }
+    if ($verbose) { Write-Host "`n===== Setting up azahar saves =====" -ForegroundColor Magenta }
 
-	$simLinkPath = "$emusPath\test\user\sdmc"
-	$emuSavePath = "$emulationPath\saves\test\saves"
+	$simLinkPath = "$emusPath\azahar\user\sdmc"
+	$emuSavePath = "$emulationPath\saves\azahar\saves"
 	createSaveLink $simLinkPath $emuSavePath
 
-	$simLinkPath = "$emusPath\test\user\states"
-	$emuSavePath = "$emulationPath\saves\test\states"
+	$simLinkPath = "$emusPath\azahar\user\states"
+	$emuSavePath = "$emulationPath\saves\azahar\states"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "test save setup complete.`n" -ForegroundColor Green }
+    if ($verbose) { Write-Host "azahar save setup complete.`n" -ForegroundColor Green }
 }
 
 #Cemu - WiiU
 function Cemu_setupSaves(){
-    if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+    if ($verbose) { Write-Host "`n===== Setting up cemu saves =====" -ForegroundColor Magenta }
 
 	$simLinkPath = "$emusPath\cemu\mlc01\usr\save"
 	$emuSavePath = "$emulationPath\saves\Cemu\saves"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }
+    if ($verbose) { Write-Host "cemu save setup complete.`n" -ForegroundColor Green }
 }
 
 # Citra - 3DS
 function Citra_setupSaves(){
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up citra saves =====" -ForegroundColor Magenta }
 
 	$simLinkPath = "$emusPath\citra\user\sdmc"
 	$emuSavePath = "$emulationPath\saves\citra\saves"
@@ -103,12 +103,12 @@ function Citra_setupSaves(){
 	$emuSavePath = "$emulationPath\saves\citra\states"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }
+    if ($verbose) { Write-Host "citra save setup complete.`n" -ForegroundColor Green }
 }
 
 #Citron - Switch
 function Citron_setupSaves(){
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up citron saves =====" -ForegroundColor Magenta }
 
 	$simLinkPath = "$emusPath\citron\user\nand\user\save"
 	$emuSavePath = "$emulationPath\saves\citron\saves"
@@ -118,12 +118,12 @@ function Citron_setupSaves(){
 	$emuSavePath = "$emulationPath\saves\citron\profiles"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "citron save setup complete.`n" -ForegroundColor Green }	
 }
 
 #Dolphin - Gamecube
 function Dolphin_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up Dolphin saves =====" -ForegroundColor Magenta }
 
 	#Saves GC
 	$simLinkPath = "$emusPath\Dolphin-x64\User\GC"
@@ -141,12 +141,12 @@ function Dolphin_setupSaves() {
 	$emuSavePath = "$emulationPath\saves\dolphin\states"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "Dolphin save setup complete.`n" -ForegroundColor Green }	
 }
 
 #Duckstation - PS1
 function Duckstation_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up duckstation saves =====" -ForegroundColor Magenta }
 
 	#Saves
 	$simLinkPath = "$emusPath\duckstation\memcards"
@@ -158,24 +158,24 @@ function Duckstation_setupSaves() {
 	$emuSavePath = "$emulationPath\saves\duckstation\states"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "duckstation save setup complete.`n" -ForegroundColor Green }	
 }
 
 #Flycast - Dreamcast
 function Flycast_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up Flycast saves =====" -ForegroundColor Magenta }
 
 	#Saves
 	$simLinkPath = "$emusPath\flycast\data"
 	$emuSavePath = "$emulationPath\saves\flycast\saves"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "Flycast save setup complete.`n" -ForegroundColor Green }	
 }
 
 #lime3ds - 3DS
 function Lime3DS_setupSaves(){
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up lime3ds saves =====" -ForegroundColor Magenta }
 	
 	$simLinkPath = "$emusPath\lime3ds\user\sdmc"
 	$emuSavePath = "$emulationPath\saves\lime3ds\saves"
@@ -185,7 +185,7 @@ function Lime3DS_setupSaves(){
 	$emuSavePath = "$emulationPath\saves\lime3ds\states"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "lime3ds save setup complete.`n" -ForegroundColor Green }	
 }
 
 #MAME ???
@@ -194,7 +194,7 @@ function Lime3DS_setupSaves(){
 
 #MelonDS - DS
 function MelonDS_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up MelonDS saves =====" -ForegroundColor Magenta }
 
     $simLinkPath = "$emusPath\melonds\saves"
     $emuSavePath = "$emulationPath\saves\melonds\saves"
@@ -204,12 +204,12 @@ function MelonDS_setupSaves() {
     $emuSavePath = "$emulationPath\saves\melonds\states"
     createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "MelonDS save setup complete.`n" -ForegroundColor Green }	
 }
 
 #mGBA - GBA
 function mGBA_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up mGBA saves =====" -ForegroundColor Magenta }
 
     $simLinkPath = "$emusPath\mGBA\saves"
     $emuSavePath = "$emulationPath\saves\mGBA\saves"
@@ -219,13 +219,12 @@ function mGBA_setupSaves() {
     $emuSavePath = "$emulationPath\saves\mGBA\states"
     createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "mGBA save setup complete.`n" -ForegroundColor Green }	
 }
-
 
 #PCSX2 - PS2
 function PCSX2_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up PCSX2 saves =====" -ForegroundColor Magenta }
 
 	#memcards
 	$simLinkPath = "$emusPath\PCSX2-Qt\memcards"
@@ -237,12 +236,12 @@ function PCSX2_setupSaves() {
 	$emuSavePath = "$emulationPath\saves\pcsx2\states"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "PCSX2 save setup complete.`n" -ForegroundColor Green }	
 }
 
 #PPSSPP - PSP
 function PPSSPP_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up PPSSPP saves =====" -ForegroundColor Magenta }
 
 	$simLinkPath = "$emusPath\PPSSPP\memstick\PSP\PPSSPP_STATE"
 	$emuSavePath = "$emulationPath\saves\ppsspp\states"
@@ -252,12 +251,12 @@ function PPSSPP_setupSaves() {
 	$emuSavePath = "$emulationPath\saves\ppsspp\saves"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "PPSSPP save setup complete.`n" -ForegroundColor Green }	
 }
 
 #Primehack - Wii Metroid
 function Primehack_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up Primehack saves =====" -ForegroundColor Magenta }
 
 	$simLinkPath = "$emusPath\primehack\User\GC"
 	$emuSavePath = "$emulationPath\saves\primehack\GC"
@@ -273,12 +272,12 @@ function Primehack_setupSaves() {
 	$emuSavePath = "$emulationPath\saves\primehack\states"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "Primehack save setup complete.`n" -ForegroundColor Green }	
 }
 
 #Retroarch - Multi system 
 function Retroarch_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up Retroarch saves =====" -ForegroundColor Magenta }
 
 	#Saves
 	$simLinkPath = "$emusPath\RetroArch-Win64\saves"
@@ -290,12 +289,12 @@ function Retroarch_setupSaves() {
 	$emuSavePath = "$emulationPath\saves\retroarch\states"
 	createSaveLink "$simLinkPath" "$emuSavePath"
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "Retroarch save setup complete.`n" -ForegroundColor Green }	
 }
 
 #RPCS3 - PS3
 function RPCS3_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up RPCS3 saves =====" -ForegroundColor Magenta }
 
 	$simLinkPath = "$emusPath\rpcs3\dev_hdd0\home\00000001\savedata"
 	$emuSavePath = "$emulationPath\saves\rpcs3\saves"
@@ -305,12 +304,12 @@ function RPCS3_setupSaves() {
 	$emuSavePath = "$emulationPath\saves\rpcs3\trophy"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "RPCS3 save setup complete.`n" -ForegroundColor Green }	
 }
 
 #ryujinx - switch 
 function Ryujinx_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up ryujinx saves =====" -ForegroundColor Magenta }
 
 	$simLinkPath = "$emusPath\Ryujinx\portable\bis\user\save"
 	$emuSavePath = "$emulationPath\saves\ryujinx\saves"
@@ -328,78 +327,78 @@ function Ryujinx_setupSaves() {
 	$emuSavePath = "$emulationPath\saves\ryujinx\system"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "ryujinx save setup complete.`n" -ForegroundColor Green }	
 }
 
 #Scummvm - Scummvm
 function Scummvm_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up Scummvm saves =====" -ForegroundColor Magenta }
 
 	$simLinkPath = "$emusPath\scummvm\Saved games"
 	$emuSavePath = "$emulationPath\saves\scummvm\saves"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "Scummvm save setup complete.`n" -ForegroundColor Green }	
 }
 
 #Shadps4 - PS4
 function Shadps4_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up Shadps4 saves =====" -ForegroundColor Magenta }
 
 	$simLinkPath = "$emusPath\shadPS4\user\savedata"
 	$emuSavePath = "$emulationPath\saves\shadps4\saves"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "Shadps4 save setup complete.`n" -ForegroundColor Green }	
 }
 
 #supermodel - SEGA Model 3
 function Supermodel_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up supermodel saves =====" -ForegroundColor Magenta }
 
     $simLinkPath = "$emusPath\Supermodel\saves"
     $emuSavePath = "$emulationPath\saves\supermodel\saves"
     createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "supermodel save setup complete.`n" -ForegroundColor Green }	
 }
 
 #Vita3K - PSVita
 function Vita3K_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up Vita3K saves =====" -ForegroundColor Magenta }
 
     $simLinkPath = "$emusPath\Vita3K\storage\ux0\user\00\savedata"
     $emuSavePath = "$emulationPath\saves\Vita3K\saves"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "Vita3K save setup complete.`n" -ForegroundColor Green }	
 }
 
 #Xemu - Xbox
 function Xemu_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up Xemu saves =====" -ForegroundColor Magenta }
 
     $simLinkPath = "$emusPath\xemu\storage"
     $emuSavePath = "$emulationPath\saves\xemu\saves"
     createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "Xemu save setup complete.`n" -ForegroundColor Green }	
 }
 
 #Xenia - Xbox 360
 function Xenia_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up Xenia saves =====" -ForegroundColor Magenta }
 
 	$simLinkPath = "$emusPath\xenia_canary\content"
 	$emuSavePath = "$emulationPath\saves\xenia\saves"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "Xenia save setup complete.`n" -ForegroundColor Green }	
 }
 
 #yuzu - Switch 
 function Yuzu_setupSaves() {
-	if ($verbose) { Write-Host "`n===== Setting up Emulator saves =====" -ForegroundColor Magenta }
+	if ($verbose) { Write-Host "`n===== Setting up yuzu saves =====" -ForegroundColor Magenta }
 
 	$simLinkPath = "$emusPath\yuzu\user\nand\user\save"
 	$emuSavePath = "$emulationPath\saves\yuzu\saves"
@@ -409,7 +408,7 @@ function Yuzu_setupSaves() {
 	$emuSavePath = "$emulationPath\saves\yuzu\profiles"
 	createSaveLink $simLinkPath $emuSavePath
 
-    if ($verbose) { Write-Host "Emulator save setup complete.`n" -ForegroundColor Green }	
+    if ($verbose) { Write-Host "yuzu save setup complete.`n" -ForegroundColor Green }	
 }
 
 #Launch all symlink functions:
