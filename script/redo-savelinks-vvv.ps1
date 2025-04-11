@@ -1,6 +1,16 @@
-# Enter your path here.
+# Enter your path here. 
 # $emusPath is for your /Emulators folder that can be in %APPDATA%/EmuDeck/Emulators or directly in EmulationStation-DE/Emulators
-# $emulationPath is for your /Emulation folder where you will have the /save folder
+# $emulationPath is for your /Emulation folder where you will have the /saves folder
+# - This script will check /Emulators folder if emulator Name dosnt exist = do nothing 
+# - if emulator Name exist = check saves path exist ? if no create folder. for ex: Azahar exist yes, but user/sdmc or user/states doesnt exist = create the path /user/sdmc and user/states in Azahar emulator.
+# - Then in /emulation/saves folder it check if destitnation folder exist if yes : Check symlink exist yes = do nothing 
+# - Check symlink exist no ? but conflict names ?! To avoid interaction = create bkp folder in /emulation/saves and move the non linked / conflincting save in  /emulation/saves/bkp respecting the logic . for ex: /emulation/saves/bkp/azahar/states-"yyyyMMdd-HHmmss"
+# - Check symlink exist no ? no conflict ? Do the symlink . 
+# BEFORE USING  - MAIN ISSUE : PATH NAMES CAN DIFFER from mine -  LOGIC can diifer with STORAGE HDD NAND emulators as i keep everything related to storage  / nand / hdd in the emulators folders. 
+# SO SYMLINK will show in /emulations/saves and not inside the emnulators folders.
+# ANOTHER LIMITATION > i find a bug with Xenia  . i think windows only check the 5 first caracter for the first condition : "will check /Emulators folder if emulator Name dosnt exist = do nothing " 
+# For example mine is xenia_canary , and i tried the scrpt with the folder name "xenia" the script still think xenia folder exist despite not existing the name is xenia_canary . So the first condition seems to validate the first 5 caracter without really having it right . 
+# THIS can cause false positive creation of empty folder . 
 
 
 $verbose = $true
