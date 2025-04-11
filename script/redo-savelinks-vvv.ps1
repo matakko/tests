@@ -11,6 +11,7 @@
 # ANOTHER LIMITATION > i find a bug with Xenia  . i think windows only check the 5 first caracter for the first condition : "will check /Emulators folder if emulator Name dosnt exist = do nothing " 
 # For example mine is xenia_canary , and i tried the scrpt with the folder name "xenia" the script still think xenia folder exist despite not existing the name is xenia_canary . So the first condition seems to validate the first 5 caracter without really having it right . 
 # THIS can cause false positive creation of empty folder . 
+# ANOTHER limitation is some emulators need to have the config or the ini to tell them the path saves for ex : MelonDS / mGBA / Supermodel ? might need verification 
 
 
 $verbose = $true
