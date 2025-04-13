@@ -577,7 +577,7 @@
         </rule>
     </emulator>
     <emulator name="SIMCOUPE">
-        <!-- SAM Coupé emulator SimCoupé -->
+        <!-- SAM CoupÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â© emulator SimCoupÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â© -->
         <rule type="staticpath">
             <entry>%ESPATH%\Emulators\SimCoupe\SimCoupe.exe</entry>
             <entry>%ESPATH%\..\Emulators\SimCoupe\SimCoupe.exe</entry>
