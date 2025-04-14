@@ -1,14 +1,15 @@
 # List .scummvm name based on the ScummVM ID.
 source : https://www.scummvm.org/compatibility/
 
-| Shortcut      | Delphine Software |
+# Delphine Software 
+| Shortcut | Name |
 | ----------- | ----------- |
 |os.scummvm		|  007: James Bond - The Stealth Affair 	|
 |cruise.scummvm		|Cruise for a Corpse 	|
 |fw.scummvm		|Future Wars: Adventures in Time 	|
 
 # Interactive Fiction
-| ----------- | ----------- |
+| Shortcut | Name |
 | ----------- | ----------- |
 |adrift.scummvm		|ADRIFT Interactive Fiction games 	|
 |agt.scummvm		|AGT Interactive Fiction games 	|
@@ -23,8 +24,9 @@ source : https://www.scummvm.org/compatibility/
 |scottadams.scummvm		|Scott Adams Interactive Fiction games 	|
 |zcode.scummvm		|ZCode (Infocom and Inform) Interactive Fiction games 	|
 
-
-|		| Coktel Vision 	|
+$ Coktel Vision 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |adibou1.scummvm		|Adibou 1 	|
 |adibou2.scummvm		|Adibou 2 	|
 |bargon.scummvm		|Bargon Attack 	|
@@ -40,7 +42,10 @@ source : https://www.scummvm.org/compatibility/
 |woodruff.scummvm		|The Bizarre Adventures of Woodruff and the Schnibble 	|
 |urban.scummvm		|Urban Runner 	|
 |ween.scummvm		|Ween: The Prophecy 	|
-|		|Living Books 	|
+
+# Living Books 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |tortoise.scummvm		|Aesop's Fables: The Tortoise and the Hare 	|
 |arthurbday.scummvm		|Arthur's Birthday 	|
 |seussabc.scummvm		|Dr. Seuss's ABC 	|
@@ -54,17 +59,26 @@ source : https://www.scummvm.org/compatibility/
 |bearfight.scummvm		|The Berenstain Bears Get in a Fight 	|
 |beardark.scummvm		|The Berenstain Bears In The Dark 	|
 |newkid.scummvm		|The New Kid on the Block 	|
-|		|Synergy Inc. 	|
+
+# Synergy Inc. 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |alice.scummvm		|Alice: An Interactive Museum 	|
 |gadget.scummvm		|Gadget: Invention, Travel and Adventure 	|
 |lzone.scummvm		|L-ZONE 	|
-|		|Stranga Games 	|
+
+# Stranga Games 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |ashinaredwitch.scummvm		|Ashina: The Red Witch 	|
 |justignorethem.scummvm		|Just Ignore Them 	|
 |mybigsister.scummvm		|My Big Sister 	|
 |mybigsisterrm.scummvm		|My Big Sister Remastered 	|
 |redbow.scummvm		|Red Bow 	|
-|		|Sierra 	|
+
+# Sierra 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |astrochicken.scummvm		|Astro Chicken 	|
 |castlebrain.scummvm		|Castle of Dr. Brain 	|
 |iceman.scummvm		|Code-Name: Iceman 	|
@@ -150,7 +164,10 @@ source : https://www.scummvm.org/compatibility/
 |torin.scummvm		|Torin's Passage 	|
 |troll.scummvm		|Troll's Tale 	|
 |winnie.scummvm		|Winnie the Pooh in the Hundred Acre Wood 	|
-|		|Humongous Entertainment 	|
+
+# |Humongous Entertainment 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |baseball.scummvm		|Backyard Baseball 	|
 |baseball2001.scummvm		|Backyard Baseball 2001 	|
 |baseball2003.scummvm		|Backyard Baseball 2003 	|
@@ -200,12 +217,18 @@ source : https://www.scummvm.org/compatibility/
 |spyfox.scummvm		|Spy Fox in "Dry Cereal" 	|
 |mustard.scummvm		|Spy Fox in "Hold the Mustard" 	|
 |spyozon.scummvm		|Spy Fox: "Operation Ozone" 	|
-|		|Revolution 	|
+
+# Revolution 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |sky.scummvm		|Beneath a Steel Sky 	|
 |sword2.scummvm		|Broken Sword II: The Smoking Mirror 	|
 |sword1.scummvm		|Broken Sword: The Shadow of the Templars 	|
 |lure.scummvm		|Lure of the Temptress 	|
-|		|Wadjet Eye Games 	|
+
+# Wadjet Eye Games 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |blackwell2.scummvm		|Blackwell Unbound 	|
 |danewguys2.scummvm		|Da New Guys: Day of the Jackass 	|
 |geminirue.scummvm		|Gemini Rue 	|
@@ -217,7 +240,10 @@ source : https://www.scummvm.org/compatibility/
 |shivah.scummvm		|The Shivah 	|
 |shivahkosher.scummvm		|The Shivah: Kosher Edition 	|
 |unavowed.scummvm		|Unavowed 	|
-|		|Westwood Studios 	|
+
+# Westwood Studios 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |bladerunner.scummvm		|Blade Runner 	|
 |eob.scummvm		|Eye of the Beholder 	|
 |eob2.scummvm		|Eye of the Beholder II: The Legend of Darkmoon 	|
@@ -225,22 +251,34 @@ source : https://www.scummvm.org/compatibility/
 |kyra1.scummvm		|The Legend of Kyrandia 	|
 |kyra3.scummvm		|The Legend of Kyrandia: Book 3 - Malcolm's Revenge 	|
 |kyra2.scummvm		|The Legend of Kyrandia: Hand of Fate 	|
-|		|Tsunami Games 	|
+
+# Tsunami Games 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |blueforce.scummvm		|Blue Force 	|
 |ringworld2.scummvm		|Return to Ringworld 	|
 |ringworld.scummvm		|Ringworld: Revenge of the Patriarch 	|
-|		|Incentive Software 	|
+
+# Incentive Software 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |castlemaster.scummvm		|Castle Master 	|
 |darkside.scummvm		|Dark Side 	|
 |driller.scummvm		|Driller 	|
 |totaleclipse.scummvm		|Total Eclipse 	|
 |totaleclipse2.scummvm		|Total Eclipse 2 	|
-|		|Trilobyte 	|
+
+# Trilobyte 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |clandestiny.scummvm		|Clandestiny 	|
 |11h.scummvm		|The 11th Hour: The Sequel to The 7th Guest 	|
 |t7g.scummvm		|The 7th Guest 	|
 |unclehenry.scummvm		|Uncle Henry's Playhouse 	|
-|		|Magnetic Scrolls 	|
+
+# Magnetic Scrolls 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |corruption.scummvm		|Corruption 	|
 |fish.scummvm		|Fish! 	|
 |jinxter.scummvm		|Jinxter 	|
@@ -248,16 +286,25 @@ source : https://www.scummvm.org/compatibility/
 |guild.scummvm		|The Guild of Thieves 	|
 |pawn.scummvm		|The Pawn 	|
 |wonderland.scummvm		|Wonderland 	|
-|		|Origin Systems 	|
+
+# Origin Systems 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |remorse.scummvm		|Crusader: No Remorse 	|
 |ultima4.scummvm		|Ultima IV: Quest of the Avatar 	|
 |ultima6.scummvm		|Ultima VI: The False Prophet 	|
 |ultima8.scummvm		|Ultima VIII - Pagan 	|
-|		|Little Ark 	|
+
+# Little Ark 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |daniel.scummvm		|Daniel in the Lions' Den 	|
 |noah.scummvm		|Noah's Ark 	|
 |create.scummvm		|The Story of Creation 	|
-|		|Animation Magic 	|
+
+# Animation Magic 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |darby.scummvm		|Darby the Dragon 	|
 |gregory.scummvm		|Gregory and the Hot Air Balloon 	|
 |babayaga.scummvm		|Magic Tales: Baba Yaga and the Magic Geese 	|
@@ -266,7 +313,10 @@ source : https://www.scummvm.org/compatibility/
 |sleepingcub.scummvm		|Magic Tales: Sleeping Cub's Test of Courage 	|
 |littlesamurai.scummvm		|Magic Tales: The Little Samurai 	|
 |princess.scummvm		|Magic Tales: The Princess and the Crab 	|
-|		|Adventure Soft 	|
+
+# Adventure Soft 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |elvira2.scummvm		|Elvira II: The Jaws of Cerberus 	|
 |elvira1.scummvm		|Elvira: Mistress of the Dark 	|
 |pn.scummvm		|Personal Nightmare 	|
@@ -278,7 +328,10 @@ source : https://www.scummvm.org/compatibility/
 |swampy.scummvm		|Simon the Sorcerer's Puzzle Pack: Swampy Adventures 	|
 |feeble.scummvm		|The Feeble Files 	|
 |waxworks.scummvm		|Waxworks 	|
-|		|LucasArts 	|
+
+# LucasArts 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |monkey4.scummvm		|Escape From Monkey Island 	|
 |ft.scummvm		|Full Throttle 	|
 |grim.scummvm		|Grim Fandango 	|
@@ -294,79 +347,127 @@ source : https://www.scummvm.org/compatibility/
 |dig.scummvm		|The Dig 	|
 |monkey.scummvm		|The Secret of Monkey Island 	|
 |zak.scummvm		|Zak McKracken and the Alien Mindbenders 	|
-|		|Off Studio 	|
+
+# Off Studio 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |5ld.scummvm		|Five Lethal Demons 	|
 |5ma.scummvm		|Five Magical Amulets 	|
 |helga.scummvm		|Helga Deep In Trouble 	|
-|		|Cloak and Dagger Games 	|
+
+# Cloak and Dagger Games 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |footballgame.scummvm		|Football Game 	|
 |sumatra.scummvm		|Sumatra: Fate of Yandi 	|
 |excavationhb.scummvm		|The Excavation of Hob's Barrow 	|
-|		|Schnibble Productions 	|
+
+# Schnibble Productions 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |gobliiins5-1.scummvm		|Gobliiins5 - L'Invasion des Morglotons Part1 	|
 |gobliiins5-2.scummvm		|Gobliiins5 - L'Invasion des Morglotons Part2 	|
 |gobliiins5-3.scummvm		|Gobliiins5 - L'Invasion des Morglotons Part3 	|
 |gobliiins5-4.scummvm		|Gobliiins5 - L'Invasion des Morglotons Part4 	|
-|		|The Dreamers Guild 	|
+
+# The Dreamers Guild 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |fta2.scummvm		|Halls of the Dead: Faery Tale Adventure II 	|
 |ihnm.scummvm		|Harlan Ellison: I Have No Mouth, and I Must Scream 	|
 |ite.scummvm		|Inherit the Earth: Quest for the Orb 	|
-|		|ITA-Choco 	|
+
+# ITA-Choco 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |henachoco01.scummvm		|Henachoco #1 	|
 |henachoco02.scummvm		|Henachoco #2 	|
 |henachoco03.scummvm		|Henachoco #3 	|
 |henachoco04.scummvm		|Henachoco #4 	|
 |henachoco05.scummvm		|Yaken Rodem 	|
-|		|Gray Design Associates 	|
+
+# Gray Design Associates 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |hugo2.scummvm		|Hugo II: Whodunit? 	|
 |hugo3.scummvm		|Hugo III: Jungle of Doom 	|
 |hugo1.scummvm		|Hugo's House of Horrors 	|
-|		|Fan game 	|
+
+# Fan game 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |maniacmansiondeluxe.scummvm		|Maniac Mansion Deluxe 	|
 |sqdote.scummvm		|Space Quest Minus 1: Decisions of the Elders 	|
 |sqinc.scummvm		|Space Quest: Incinerations 	|
-|		|K-D Lab 	|
+
+# K-D Lab 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |3mice1.scummvm		|Marvellous Mice Adventures: Meeting Sea Rat 	|
 |3mice2.scummvm		|Marvellous Mice Adventures: Sea Rat's Birthday 	|
 |maski.scummvm		|Mask show 	|
 |shveik.scummvm		|The Adventures of the Good Soldier Schweik 	|
 |nupogodi3.scummvm		|Wait for it! Issue 3. Song for a hare 	|
-|		|New World Computing 	|
+
+# New World Computing 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |mm1.scummvm		|Might and Magic: Book One - Secret of the Inner Sanctum 	|
 |cloudsofxeen.scummvm		|Might and Magic: Clouds of Xeen 	|
 |darksideofxeen.scummvm		|Might and Magic: Darkside of Xeen 	|
 |swordsofxeen.scummvm		|Might and Magic: Swords of Xeen 	|
 |worldofxeen.scummvm		|Might and Magic: World of Xeen 	|
-|		|Activision 	|
+
+# Activision 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |mti.scummvm		|Muppet Treasure Island 	|
 |rtz.scummvm		|Return to Zork 	|
 |znemesis.scummvm		|Zork Nemesis: The Forbidden Lands 	|
 |zgi.scummvm		|Zork: Grand Inquisitor 	|
-|		|Cyan Worlds 	|
+
+# Cyan Worlds 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |myst.scummvm		|Myst 	|
 |riven.scummvm		|Riven: The Sequel to Myst 	|
 |manhole.scummvm		|The Manhole 	|
-|		|Presto Studios 	|
+
+# Presto Studios 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |myst3.scummvm		|Myst III: Exile 	|
 |buried.scummvm		|The Journeyman Project 2: Buried in Time 	|
 |pegasus.scummvm		|The Journeyman Project: Pegasus Prime 	|
-|		|Her Interactive, Inc. 	|
+
+# Her Interactive, Inc. 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |nancy3.scummvm		|Nancy Drew: Message in a Haunted Mansion 	|
 |nancy1.scummvm		|Nancy Drew: Secrets Can Kill 	|
 |nancy2.scummvm		|Nancy Drew: Stay Tuned for Danger 	|
 |nancy5.scummvm		|Nancy Drew: The Final Scene 	|
 |nancy4.scummvm		|Nancy Drew: Treasure in the Royal Tower 	|
 |vampirediaries.scummvm		|The Vampire Diaries 	|
-|		|Polarware 	|
+
+# Polarware 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |ootopos.scummvm		|OO-Topos 	|
 |crimsoncrown.scummvm		|The Crimson Crown: Further Adventures in Transylvania 	|
 |transylvania.scummvm		|Transylvania 	|
-|		|L.K. Avalon 	|
+
+# L.K. Avalon 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |reah.scummvm		|Reah: Face the Unknown 	|
 |schizm.scummvm		|Schizm: Mysterious Journey 	|
 |sfinx.scummvm		|Sfinx 	|
 |soltys.scummvm		|Sołtys 	|
-|		|Other 	|
+
+# Other 	
+| Shortcut | Name |
+| ----------- | ----------- |
 |ritter.scummvm		|1½ Ritter: Auf der Suche nach der hinreißenden Herzelinde 	|
 |toltecs.scummvm		|3 Skulls of the Toltecs 	|
 |goldenwake.scummvm		|A Golden Wake 	|
@@ -472,4 +573,3 @@ source : https://www.scummvm.org/compatibility/
 |versailles.scummvm		|Versailles 1685 	|
 |voyeur.scummvm		|Voyeur 	|
 |wrath.scummvm		|Wrath of the Gods 	|
-|		|	|
