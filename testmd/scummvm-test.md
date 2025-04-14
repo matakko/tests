@@ -8,7 +8,7 @@ source : https://www.scummvm.org/compatibility/
 |fw.scummvm		|Future Wars: Adventures in Time 	|
 
 # Interactive Fiction
-
+| ----------- | ----------- |
 |adrift.scummvm		|ADRIFT Interactive Fiction games 	|
 |agt.scummvm		|AGT Interactive Fiction games 	|
 |advsys.scummvm		|AdvSys Interactive Fiction games 	|
