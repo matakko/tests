@@ -1,5 +1,6 @@
 # List .scummvm name based on the ScummVM ID.
-source : https://www.scummvm.org/compatibility/
+txt format list: [link](https://github.com/matakko/rom-name/blob/main/scummvm-name.txt)
+Source : https://www.scummvm.org/compatibility/
 
 ## Developer 
 
@@ -7,7 +8,7 @@ source : https://www.scummvm.org/compatibility/
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |  
 |  [Sierra](#Sierra) |  [Humongous Entertainment](#Humongous-Entertainment) |  [Revolution](#Revolution) |  [Wadjet Eye Games](#Wadjet-Eye-Games) |   [Westwood Studios](#Westwood-Studios) | [Tsunami Games](#Tsunami-Games)  |
 | [Incentive Software](#Incentive-Software) | [Trilobyte](#Trilobyte) |  [Magnetic Scrolls](#Magnetic-Scrolls) |  [Origin Systems](#Origin-Systems) |   [Little Ark](#Little-Ark) | [Animation Magic](#Animation-Magic) | 
-| [Adventure Soft](#Adventure-Soft)  | [LucasArts](#LucasArts) |  [Off Studio](#Off-Studio) |  [Cloak and Dagger Games](#Cloak-and-Dagger-Games) |   [Schnibble Productions](#Schnibble-Productions) |  
+| [Adventure Soft](#Adventure-Soft)  | [LucasArts](#LucasArts) |  [Off Studio](#Off-Studio) |  [Cloak and Dagger Games](#Cloak-and-Dagger-Games) |   [Schnibble Productions](#Schnibble-Productions) |[The Dreamers Guild](#The-Dreamers-Guild)  |
 | [ITA-Choco](#ITA-Choco) | [Gray Design Associates](#Gray-Design-Associates) |  [Fan game](#Fan-game) |  [K-D Lab](#K-D-Lab) |   [New World Computing](#New-World-Computing) | [Activision](#Activision)  | [Cyan Worlds](#Cyan-Worlds)  | 
 | [The Dreamers Guild](#The-Dreamers-Guild) | [Presto Studios](#Presto-Studios) |  [Her Interactive, Inc.](#Her-Interactive-Inc) |  [Polarware](#Polarware) |   [L.K. Avalon](#L-K-Avalon) |  [Other](#Other) |
 
