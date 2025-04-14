@@ -11,18 +11,18 @@ source : https://www.scummvm.org/compatibility/
 # Interactive Fiction
 | Shortcut | Name |
 | ----------- | ----------- |
-|adrift.scummvm		|ADRIFT Interactive Fiction games 	|
-|agt.scummvm		|AGT Interactive Fiction games 	|
-|advsys.scummvm		|AdvSys Interactive Fiction games 	|
-|alan.scummvm		|Alan 2 & 3 Interactive Fiction games 	|
-|archetype.scummvm		|Archetype Interactive Fiction games 	|
-|glulx.scummvm		|Glulx Interactive Fiction games 	|
-|hugo.scummvm		|Hugo Interactive Fiction games 	|
-|jacl.scummvm		|JACL Interactive Fiction games 	|
-|level9.scummvm		|Level 9 Interactive Fiction games 	|
-|quest.scummvm		|Quest Interactive Fiction games 	|
-|scottadams.scummvm		|Scott Adams Interactive Fiction games 	|
-|zcode.scummvm		|ZCode (Infocom and Inform) Interactive Fiction games 	|
+|adrift.scummvm		|ADRIFT 	|
+|agt.scummvm		|AGT  	|
+|advsys.scummvm		|AdvSys  	|
+|alan.scummvm		|Alan 2 & 3  	|
+|archetype.scummvm		|Archetype  	|
+|glulx.scummvm		|Glulx  	|
+|hugo.scummvm		|Hugo  	|
+|jacl.scummvm		|JACL  	|
+|level9.scummvm		|Level 9  	|
+|quest.scummvm		|Quest  	|
+|scottadams.scummvm		|Scott Adams  	|
+|zcode.scummvm		|ZCode (Infocom and Inform)  	|
 
 # Coktel Vision 	
 | Shortcut | Name |
@@ -165,7 +165,7 @@ source : https://www.scummvm.org/compatibility/
 |troll.scummvm		|Troll's Tale 	|
 |winnie.scummvm		|Winnie the Pooh in the Hundred Acre Wood 	|
 
-# |Humongous Entertainment 	
+# Humongous Entertainment 	
 | Shortcut | Name |
 | ----------- | ----------- |
 |baseball.scummvm		|Backyard Baseball 	|
