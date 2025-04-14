@@ -50,7 +50,8 @@ source : https://www.scummvm.org/compatibility/
 - [Other](#Other)
 
 
-# Delphine Software [Back to the Top](#Developer)
+# Delphine Software 
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |os.scummvm		|  007: James Bond - The Stealth Affair 	|
@@ -74,7 +75,8 @@ source : https://www.scummvm.org/compatibility/
 |scottadams.scummvm		|Scott Adams  	|
 |zcode.scummvm		|ZCode (Infocom and Inform)  	|
 
-# Coktel Vision 	
+# Coktel Vision 
+[Back to the Top](#Developer)	
 | Shortcut | Name |
 | ----------- | ----------- |
 |adibou1.scummvm		|Adibou 1 	|
@@ -93,7 +95,8 @@ source : https://www.scummvm.org/compatibility/
 |urban.scummvm		|Urban Runner 	|
 |ween.scummvm		|Ween: The Prophecy 	|
 
-# Living Books 	
+# Living Books 
+[Back to the Top](#Developer)	
 | Shortcut | Name |
 | ----------- | ----------- |
 |tortoise.scummvm		|Aesop's Fables: The Tortoise and the Hare 	|
@@ -111,6 +114,7 @@ source : https://www.scummvm.org/compatibility/
 |newkid.scummvm		|The New Kid on the Block 	|
 
 # Synergy Inc. 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |alice.scummvm		|Alice: An Interactive Museum 	|
@@ -118,6 +122,7 @@ source : https://www.scummvm.org/compatibility/
 |lzone.scummvm		|L-ZONE 	|
 
 # Stranga Games 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |ashinaredwitch.scummvm		|Ashina: The Red Witch 	|
@@ -127,6 +132,7 @@ source : https://www.scummvm.org/compatibility/
 |redbow.scummvm		|Red Bow 	|
 
 # Sierra 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |astrochicken.scummvm		|Astro Chicken 	|
@@ -216,6 +222,7 @@ source : https://www.scummvm.org/compatibility/
 |winnie.scummvm		|Winnie the Pooh in the Hundred Acre Wood 	|
 
 # Humongous Entertainment 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |baseball.scummvm		|Backyard Baseball 	|
@@ -269,6 +276,7 @@ source : https://www.scummvm.org/compatibility/
 |spyozon.scummvm		|Spy Fox: "Operation Ozone" 	|
 
 # Revolution 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |sky.scummvm		|Beneath a Steel Sky 	|
@@ -277,6 +285,7 @@ source : https://www.scummvm.org/compatibility/
 |lure.scummvm		|Lure of the Temptress 	|
 
 # Wadjet Eye Games 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |blackwell2.scummvm		|Blackwell Unbound 	|
@@ -292,6 +301,7 @@ source : https://www.scummvm.org/compatibility/
 |unavowed.scummvm		|Unavowed 	|
 
 # Westwood Studios 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |bladerunner.scummvm		|Blade Runner 	|
@@ -303,6 +313,7 @@ source : https://www.scummvm.org/compatibility/
 |kyra2.scummvm		|The Legend of Kyrandia: Hand of Fate 	|
 
 # Tsunami Games 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |blueforce.scummvm		|Blue Force 	|
@@ -310,6 +321,7 @@ source : https://www.scummvm.org/compatibility/
 |ringworld.scummvm		|Ringworld: Revenge of the Patriarch 	|
 
 # Incentive Software 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |castlemaster.scummvm		|Castle Master 	|
@@ -319,6 +331,7 @@ source : https://www.scummvm.org/compatibility/
 |totaleclipse2.scummvm		|Total Eclipse 2 	|
 
 # Trilobyte 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |clandestiny.scummvm		|Clandestiny 	|
@@ -327,6 +340,7 @@ source : https://www.scummvm.org/compatibility/
 |unclehenry.scummvm		|Uncle Henry's Playhouse 	|
 
 # Magnetic Scrolls 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |corruption.scummvm		|Corruption 	|
@@ -338,6 +352,7 @@ source : https://www.scummvm.org/compatibility/
 |wonderland.scummvm		|Wonderland 	|
 
 # Origin Systems 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |remorse.scummvm		|Crusader: No Remorse 	|
@@ -346,6 +361,7 @@ source : https://www.scummvm.org/compatibility/
 |ultima8.scummvm		|Ultima VIII - Pagan 	|
 
 # Little Ark 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |daniel.scummvm		|Daniel in the Lions' Den 	|
@@ -353,6 +369,7 @@ source : https://www.scummvm.org/compatibility/
 |create.scummvm		|The Story of Creation 	|
 
 # Animation Magic 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |darby.scummvm		|Darby the Dragon 	|
@@ -365,6 +382,7 @@ source : https://www.scummvm.org/compatibility/
 |princess.scummvm		|Magic Tales: The Princess and the Crab 	|
 
 # Adventure Soft 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |elvira2.scummvm		|Elvira II: The Jaws of Cerberus 	|
@@ -380,6 +398,7 @@ source : https://www.scummvm.org/compatibility/
 |waxworks.scummvm		|Waxworks 	|
 
 # LucasArts 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |monkey4.scummvm		|Escape From Monkey Island 	|
@@ -399,6 +418,7 @@ source : https://www.scummvm.org/compatibility/
 |zak.scummvm		|Zak McKracken and the Alien Mindbenders 	|
 
 # Off Studio 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |5ld.scummvm		|Five Lethal Demons 	|
@@ -406,6 +426,7 @@ source : https://www.scummvm.org/compatibility/
 |helga.scummvm		|Helga Deep In Trouble 	|
 
 # Cloak and Dagger Games 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |footballgame.scummvm		|Football Game 	|
@@ -413,6 +434,7 @@ source : https://www.scummvm.org/compatibility/
 |excavationhb.scummvm		|The Excavation of Hob's Barrow 	|
 
 # Schnibble Productions 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |gobliiins5-1.scummvm		|Gobliiins5 - L'Invasion des Morglotons Part1 	|
@@ -421,6 +443,7 @@ source : https://www.scummvm.org/compatibility/
 |gobliiins5-4.scummvm		|Gobliiins5 - L'Invasion des Morglotons Part4 	|
 
 # The Dreamers Guild 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |fta2.scummvm		|Halls of the Dead: Faery Tale Adventure II 	|
@@ -428,6 +451,7 @@ source : https://www.scummvm.org/compatibility/
 |ite.scummvm		|Inherit the Earth: Quest for the Orb 	|
 
 # ITA-Choco 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |henachoco01.scummvm		|Henachoco #1 	|
@@ -437,6 +461,7 @@ source : https://www.scummvm.org/compatibility/
 |henachoco05.scummvm		|Yaken Rodem 	|
 
 # Gray Design Associates 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |hugo2.scummvm		|Hugo II: Whodunit? 	|
@@ -444,6 +469,7 @@ source : https://www.scummvm.org/compatibility/
 |hugo1.scummvm		|Hugo's House of Horrors 	|
 
 # Fan game 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |maniacmansiondeluxe.scummvm		|Maniac Mansion Deluxe 	|
@@ -451,6 +477,7 @@ source : https://www.scummvm.org/compatibility/
 |sqinc.scummvm		|Space Quest: Incinerations 	|
 
 # K-D Lab 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |3mice1.scummvm		|Marvellous Mice Adventures: Meeting Sea Rat 	|
@@ -460,6 +487,7 @@ source : https://www.scummvm.org/compatibility/
 |nupogodi3.scummvm		|Wait for it! Issue 3. Song for a hare 	|
 
 # New World Computing 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |mm1.scummvm		|Might and Magic: Book One - Secret of the Inner Sanctum 	|
@@ -469,6 +497,7 @@ source : https://www.scummvm.org/compatibility/
 |worldofxeen.scummvm		|Might and Magic: World of Xeen 	|
 
 # Activision 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |mti.scummvm		|Muppet Treasure Island 	|
@@ -477,6 +506,7 @@ source : https://www.scummvm.org/compatibility/
 |zgi.scummvm		|Zork: Grand Inquisitor 	|
 
 # Cyan Worlds 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |myst.scummvm		|Myst 	|
@@ -484,6 +514,7 @@ source : https://www.scummvm.org/compatibility/
 |manhole.scummvm		|The Manhole 	|
 
 # Presto Studios 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |myst3.scummvm		|Myst III: Exile 	|
@@ -491,6 +522,7 @@ source : https://www.scummvm.org/compatibility/
 |pegasus.scummvm		|The Journeyman Project: Pegasus Prime 	|
 
 # Her Interactive, Inc. 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |nancy3.scummvm		|Nancy Drew: Message in a Haunted Mansion 	|
@@ -501,6 +533,7 @@ source : https://www.scummvm.org/compatibility/
 |vampirediaries.scummvm		|The Vampire Diaries 	|
 
 # Polarware 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |ootopos.scummvm		|OO-Topos 	|
@@ -508,6 +541,7 @@ source : https://www.scummvm.org/compatibility/
 |transylvania.scummvm		|Transylvania 	|
 
 # L.K. Avalon 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |reah.scummvm		|Reah: Face the Unknown 	|
@@ -516,6 +550,7 @@ source : https://www.scummvm.org/compatibility/
 |soltys.scummvm		|Sołtys 	|
 
 # Other 	
+[Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |ritter.scummvm		|1½ Ritter: Auf der Suche nach der hinreißenden Herzelinde 	|
