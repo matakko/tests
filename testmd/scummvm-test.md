@@ -10,7 +10,7 @@ source : https://www.scummvm.org/compatibility/
 | [Trilobyte](#Trilobyte) |  [Magnetic Scrolls](#Magnetic-Scrolls) |  [Origin Systems](#Origin-Systems) |   [Little Ark](#Little-Ark) | [Animation Magic](#Animation-Magic)  | [Adventure Soft](#Adventure-Soft)  | 
 | [LucasArts](#LucasArts) |  [Off Studio](#Off-Studio) |  [Cloak and Dagger Games](#Cloak-and-Dagger-Games) |   [Schnibble Productions](#Schnibble-Productions) | [The Dreamers Guild](#The-Dreamers-Guild)  | [ITA-Choco](#ITA-Choco)  |  
 | [Gray Design Associates](#Gray-Design-Associates) |  [Fan game](#Fan-game) |  [K-D Lab](#K-D-Lab) |   [New World Computing](#New-World-Computing) | [Activision](#Activision)  | [Cyan Worlds](#Cyan-Worlds)  | 
-| [Presto Studios](#Presto-Studios) |  [Her Interactive, Inc.](#Her-Interactive-Inc.) |  [Polarware](#Polarware) |   [L.K. Avalon](#L.K.-Avalon) |  [Other](#Other) |  / |  
+| [Presto Studios](#Presto-Studios) |  [Her Interactive, Inc.](#Her-Interactive-Inc) |  [Polarware](#Polarware) |   [L.K. Avalon](#L-K-Avalon) |  [Other](#Other) |  / |  
 
 # Delphine Software 
 [Back to the Top](#Developer)
@@ -483,7 +483,7 @@ source : https://www.scummvm.org/compatibility/
 |buried.scummvm		|The Journeyman Project 2: Buried in Time 	|
 |pegasus.scummvm		|The Journeyman Project: Pegasus Prime 	|
 
-# Her Interactive Inc. 	
+# Her Interactive Inc 	
 [Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
@@ -502,7 +502,7 @@ source : https://www.scummvm.org/compatibility/
 |crimsoncrown.scummvm		|The Crimson Crown: Further Adventures in Transylvania 	|
 |transylvania.scummvm		|Transylvania 	|
 
-# L.K. Avalon 	
+# L K Avalon 	
 [Back to the Top](#Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
@@ -658,9 +658,9 @@ source : https://www.scummvm.org/compatibility/
 - [Activision](#Activision)
 - [Cyan Worlds](#Cyan-Worlds)
 - [Presto Studios](#Presto-Studios)
-- [Her Interactive, Inc.](#Her-Interactive-Inc.)
+- [Her Interactive, Inc.](#Her-Interactive-Inc)
 - [Polarware](#Polarware)
-- [L.K. Avalon](#L.K.-Avalon)
+- [L.K. Avalon](#L-K-Avalon)
 - [Other](#Other)
 
 
