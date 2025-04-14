@@ -625,11 +625,13 @@ source : https://www.scummvm.org/compatibility/
 
 
 
+[Back to the Top](#Developer)
+
 - [Delphine Software](#Delphine-Software)
 - [Interactive Fiction](#Interactive-Fiction)
 - [Coktel Vision](#Coktel-Vision)
 - [Living Books](#Living-Books)
-- [Synergy Inc.](#Synergy-Inc.)
+- [Synergy Inc.](#Synergy-Inc)
 - [Stranga Games](#Stranga-Games)
 - [Sierra](#Sierra)
 - [Humongous Entertainment](#Humongous-Entertainment)
