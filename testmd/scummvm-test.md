@@ -24,7 +24,7 @@ source : https://www.scummvm.org/compatibility/
 |scottadams.scummvm		|Scott Adams Interactive Fiction games 	|
 |zcode.scummvm		|ZCode (Infocom and Inform) Interactive Fiction games 	|
 
-$ Coktel Vision 	
+# Coktel Vision 	
 | Shortcut | Name |
 | ----------- | ----------- |
 |adibou1.scummvm		|Adibou 1 	|
