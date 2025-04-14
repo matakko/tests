@@ -1,13 +1,15 @@
 # List .scummvm name based on the ScummVM ID.
 source : https://www.scummvm.org/compatibility/
 
-| Shortcut      | Name |
+| Shortcut      | Delphine Software |
 | ----------- | ----------- |
-|		| Delphine Software 	|
 |os.scummvm		|  007: James Bond - The Stealth Affair 	|
 |cruise.scummvm		|Cruise for a Corpse 	|
 |fw.scummvm		|Future Wars: Adventures in Time 	|
-|		|Interactive Fiction 	|
+
+
+|	Shortcut 	|Interactive Fiction 	|
+| ----------- | ----------- |
 |adrift.scummvm		|ADRIFT Interactive Fiction games 	|
 |agt.scummvm		|AGT Interactive Fiction games 	|
 |advsys.scummvm		|AdvSys Interactive Fiction games 	|
@@ -20,6 +22,8 @@ source : https://www.scummvm.org/compatibility/
 |quest.scummvm		|Quest Interactive Fiction games 	|
 |scottadams.scummvm		|Scott Adams Interactive Fiction games 	|
 |zcode.scummvm		|ZCode (Infocom and Inform) Interactive Fiction games 	|
+
+
 |		| Coktel Vision 	|
 |adibou1.scummvm		|Adibou 1 	|
 |adibou2.scummvm		|Adibou 2 	|
