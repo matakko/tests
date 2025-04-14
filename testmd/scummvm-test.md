@@ -9,6 +9,7 @@ source : https://www.scummvm.org/compatibility/
 
 # Interactive Fiction
 | ----------- | ----------- |
+| ----------- | ----------- |
 |adrift.scummvm		|ADRIFT Interactive Fiction games 	|
 |agt.scummvm		|AGT Interactive Fiction games 	|
 |advsys.scummvm		|AdvSys Interactive Fiction games 	|
