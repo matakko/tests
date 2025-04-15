@@ -7,7 +7,7 @@
   "steamDirectory": "${steamdirglobal}",
   "startInDirectory": "D:\\Emulation\\Emulators",
   "titleModifier": "${fuzzyTitle}",
-  "executableArgs": "D:\\Emulation\\Emulators\\"${filePath}",
+  "executableArgs": "D:\\Emulation\\tools\\shortcuts",
   "onlineImageQueries": "${${fuzzyTitle}}",
   "imagePool": "${fuzzyTitle}",
   "imageProviders": ["SteamGridDB"],
