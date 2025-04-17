@@ -4,8 +4,8 @@ Xenia_emuName="Xenia"
 Xenia_emuType="$emuDeckEmuTypeBinary"
 Xenia_emuPath="$emusFolder/xenia_canary"
 Xenia_releaseURL_canary="https://github.com/xenia-canary/xenia-canary-releases/releases/latest/download/xenia_canary_linux.tar.gz"
-Xenia_XeniaSettings="$emusFolder/xenia_canary/xenia-canary.config.toml"
-
+Xenia_XeniaSettings="$Xenia_emuPath/xenia-canary.config.tom"
+#TODOlist: make decisions towards folder strcuture, Uninstall, ESDEconf, add patches, cleanstuff + check controls / compa to mix proton install
 #cleanupOlderThings
 Xenia_cleanup(){
 	echo "NYI"
@@ -30,13 +30,15 @@ Xenia_install(){
 
 #ApplyInitialSettings
 Xenia_init(){
-	setMSG "Initializing Xenia Config"
+	echo "Initializing Xenia Config"
 
-# THERE IS ISSUE WITH PORTABLE.TXT NEED TO REMOVE THIS + XENIA CONF is generated "xenia.log" name 
-# Cache  cache0 cache1 content folders get generated to when launching xenia_canary .
-	rsync -avhp "$emudeckBackend/configs/xenia/" "$Xenia_emuPath"
-	mkdir -p "$romsPath/xbox360/roms/xbla"
-	Xenia_setupSaves
+    mkdir -p "$romsPath/xbox360/roms/xbla"
+    configEmuAI "Xenia" "config" "$Xenia_emuPath" "$emudeckBackend/configs/Xenia/xenia-canary.config.toml" "true"
+
+#    Xenia_addESConfig TODO(need to add system , find rules wil be achieve via laucnher ?)
+#    Xenia_setupStorage TODO(pehaps modfiy path patches ? )
+    Xenia_setupSaves
+#    Xenia_finalize TODO(Perhaps add cleanstuff)
 	#SRM_createParsers
   Xenia_flushEmulatorLauncher
 }
@@ -52,6 +54,46 @@ Xenia_update(){
 Xenia_setEmulationFolder(){
 	echo "NYI"
 }
+
+#ConfigureESDE
+#Xenia_addESConfig(){
+#
+#	ESDE_junksettingsFile
+#	ESDE_addCustomSystemsFile
+#	ESDE_setEmulationFolder
+#
+#	if [[ $(grep -rnw "$es_systemsFile" -e 'xbox360') == "" ]]; then
+#		xmlstarlet ed -S --inplace --subnode '/systemList' --type elem --name 'system' \
+#		--var newSystem '$prev' \
+#		--subnode '$newSystem' --type elem --name 'name' -v 'xbox360' \
+#		--subnode '$newSystem' --type elem --name 'fullname' -v 'Microsoft Xbox 360' \
+#		--subnode '$newSystem' --type elem --name 'path' -v '%ROMPATH%/xbox360/roms' \
+#		--subnode '$newSystem' --type elem --name 'extension' -v '.iso .ISO . .xex .XEX' \
+#		--subnode '$newSystem' --type elem --name 'commandP' -v "/bin/bash ${toolsPath}/launchers/xenia.sh z:%ROM% %INJECT%=%BASENAME%.esprefix" \
+#		--insert '$newSystem/commandP' --type attr --name 'label' --value "Xenia (Proton)" \
+#		--subnode '$newSystem' --type elem --name 'platform' -v 'xbox360' \
+#		--subnode '$newSystem' --type elem --name 'theme' -v 'xbox360' \
+#		-r 'systemList/system/commandP' -v 'command' \
+#		"$es_systemsFile"
+#
+		#format doc to make it look nice
+#		xmlstarlet fo "$es_systemsFile" > "$es_systemsFile".tmp && mv "$es_systemsFile".tmp "$es_systemsFile"
+#	fi
+	#Custom Systems config end
+#}
+#function Xenia_getPatches() {
+#	local patches_url="https://github.com/xenia-canary/game-patches/releases/latest/download/game-patches.zip"
+#
+#	mkdir -p "${romsPath}/xbox360/patches"
+#	if  [[ ! "$( ls -A "${romsPath}/xbox360/patches")" ]] ; then
+#		{ curl -L "$patches_url" -o "${romsPath}/xbox360/game-patches.zip" && nice -n 5 unzip -q -o "${romsPath}/xbox360/game-patches.zip" -d "${romsPath}/xbox360" && rm "${romsPath}/xbox360/game-patches.zip"; } &> /dev/null
+#		echo "Xenia patches downloaded."
+#	else
+#		{ curl -L "$patches_url" -o "${romsPath}/xbox360/game-patches.zip" && nice -n 5 unzip -uqo "${romsPath}/xbox360/game-patches.zip" -d "${romsPath}/xbox360" && rm "${romsPath}/xbox360/game-patches.zip"; } &> /dev/null
+#		echo "Xenia patches updated."
+#	fi
+#
+#}
 
 #SetupSaves
 Xenia_setupSaves(){
@@ -75,6 +117,12 @@ Xenia_wipeSettings(){
 #Uninstall
 Xenia_uninstall(){
 	echo "NYI"
+#	setMSG "Uninstalling $Xenia_emuName. Saves and ROMs will be retained in the ROMs folder."
+#	find ${romsPath}/xbox360 -mindepth 1 \( -name roms -o -name content \) -prune -o -exec rm -rf '{}' \; &>> /dev/null
+#	rm -rf $HOME/.local/share/applications/xenia.desktop &> /dev/null
+#	rm -rf "${toolsPath}/launchers/xenia.sh"
+#	rm -rf "$romsPath/emulators/xenia.sh"
+#	rm -rf "$romsPath/xbox360/xenia.sh"
 }
 
 #setABXYstyle
@@ -134,6 +182,14 @@ Xenia_cleanESDE(){
 
 	# These files/folders make it so if you have no ROMs in xbox360, it still shows up as an "active" system.
 	echo "NYI"
+#	if [ -d "${romsPath}/xbox360/.git" ]; then
+#		rm -rf "${romsPath}/xbox360/.git"
+#	fi
+
+#	if [ -f "$romsPath/xbox360/LICENSE" ]; then
+#		mv -f "$romsPath/xbox360/LICENSE" "$romsPath/xbox360/LICENSE.TXT"
+#	fi
+
 }
 
 Xenia_flushEmulatorLauncher(){
