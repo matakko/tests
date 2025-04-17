@@ -13,17 +13,18 @@ Xenia_cleanup(){
 
 #Install
 Xenia_install(){
-	echo "Begin xenia_canary Install"
-	local showProgress="$1"
+    echo "Begin xenia_canary Install"
+    local showProgress="$1"
 
-    if installEmuAI "$Xenia_emuName" "$(getReleaseURLGH "xenia-canary/xenia-canary-releases" "_linux.tar.gz")" "" "tar.gz" "$showProgress"; then
-        mkdir -p "$emusFolder/xenia_canary"
-        tar -xvf "$emusFolder/xenia_canary_linux.tar.gz" -C "$emusFolder" && rm -rf "$HOME/Applications/xenia_canary_linux.tar.gz"
-        chmod +x "$emusFolder/xenia_canary/xenia_canary"
-	else
-		return 1
-	fi
+    if installEmuAI "$Xenia_emuName" "$Xenia_releaseURL_canary" "" "tar.gz" "$showProgress"; then
+        mkdir -p "$Xenia_emuPath"
+        tar -xvf "$archivePath" -C "$Xenia_emuPath" && rm -f "$HOME/Applications/xenia_canary_linux.tar.gz"
+        chmod +x "$Xenia_emuPath/xenia_canary"
+    else
+        return 1
+    fi
 }
+
 #ApplyInitialSettings
 Xenia_init(){
 	setMSG "Initializing Xenia Config"
