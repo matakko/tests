@@ -33,7 +33,7 @@ Xenia_init(){
 	echo "Initializing Xenia Config"
 
     mkdir -p "$romsPath/xbox360/roms/xbla"
-    configEmuAI "Xenia" "config" "$Xenia_emuPath" "$emudeckBackend/configs/Xenia/xenia-canary.config.toml" "true"
+    configEmuAI "Xenia" "config" "$Xenia_emuPath" "$emudeckBackend/configs/xenia/xenia-canary.config.toml" "true"
 
 #    Xenia_addESConfig TODO(need to add system , find rules wil be achieve via laucnher ?)
 #    Xenia_setupStorage TODO(pehaps modfiy path patches ? )
