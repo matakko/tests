@@ -4,7 +4,7 @@ Xenia_emuName="Xenia"
 Xenia_emuType="$emuDeckEmuTypeBinary"
 Xenia_emuPath="$emusFolder/xenia_canary"
 Xenia_releaseURL_canary="https://github.com/xenia-canary/xenia-canary-releases/releases/latest/download/xenia_canary_linux.tar.gz"
-Xenia_XeniaSettings="$Xenia_emuPath/xenia-canary.config.tom"
+Xenia_XeniaSettings="$Xenia_emuPath/xenia-canary.config.toml"
 #TODOlist: make decisions towards folder strcuture, Uninstall, ESDEconf, add patches, cleanstuff + check controls / compa to mix proton install
 #cleanupOlderThings
 Xenia_cleanup(){
