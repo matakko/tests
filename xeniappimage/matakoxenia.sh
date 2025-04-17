@@ -1,7 +1,7 @@
 #!/bin/bash
 #variables
 Xenia_emuName="Xenia"
-Xenia_emuType="$emuDeckEmuTypeAppImage"
+Xenia_emuType="$emuDeckEmuTypeBinary"
 Xenia_emuPath="$emusFolder/xenia_canary"
 Xenia_releaseURL_canary="https://github.com/xenia-canary/xenia-canary-releases/releases/latest/download/xenia_canary_linux.tar.gz"
 Xenia_XeniaSettings="$emusFolder/xenia_canary/xenia-canary.config.toml"
