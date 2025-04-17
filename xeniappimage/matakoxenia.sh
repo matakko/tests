@@ -16,9 +16,12 @@ Xenia_install(){
     echo "Begin xenia_canary Install"
     local showProgress="$1"
 
-    if installEmuAI "$Xenia_emuName" "$Xenia_releaseURL_canary" "" "tar.gz" "$showProgress"; then
+    local archiveName="xenia_canary_linux"
+
+    if installEmuBI "$Xenia_emuName" "$Xenia_releaseURL_canary" "$archiveName" "tar.gz" "$showProgress"; then
         mkdir -p "$Xenia_emuPath"
-        tar -xvf "$archivePath" -C "$Xenia_emuPath" && rm -f "$HOME/Applications/xenia_canary_linux.tar.gz"
+        tar -xvf "$emusFolder/${archiveName}.tar.gz" -C "$Xenia_emuPath"
+        rm -f "$emusFolder/${archiveName}.tar.gz"
         chmod +x "$Xenia_emuPath/xenia_canary"
     else
         return 1
@@ -28,6 +31,9 @@ Xenia_install(){
 #ApplyInitialSettings
 Xenia_init(){
 	setMSG "Initializing Xenia Config"
+
+# THERE IS ISSUE WITH PORTABLE.TXT NEED TO REMOVE THIS + XENIA CONF is generated "xenia.log" name 
+# Cache  cache0 cache1 content folders get generated to when launching xenia_canary .
 	rsync -avhp "$emudeckBackend/configs/xenia/" "$Xenia_emuPath"
 	mkdir -p "$romsPath/xbox360/roms/xbla"
 	Xenia_setupSaves
