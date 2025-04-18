@@ -38,6 +38,7 @@ Xenia_init(){
 #    Xenia_addESConfig TODO(need to add system , find rules wil be achieve via laucnher ?)
 #    Xenia_setupStorage TODO(pehaps modfiy path patches ? )
     Xenia_setupSaves
+    Xenia_getPatches
 #    Xenia_finalize TODO(Perhaps add cleanstuff)
 	#SRM_createParsers
   Xenia_flushEmulatorLauncher
@@ -81,19 +82,20 @@ Xenia_setEmulationFolder(){
 #	fi
 	#Custom Systems config end
 #}
-#function Xenia_getPatches() {
-#	local patches_url="https://github.com/xenia-canary/game-patches/releases/latest/download/game-patches.zip"
-#
-#	mkdir -p "${romsPath}/xbox360/patches"
-#	if  [[ ! "$( ls -A "${romsPath}/xbox360/patches")" ]] ; then
-#		{ curl -L "$patches_url" -o "${romsPath}/xbox360/game-patches.zip" && nice -n 5 unzip -q -o "${romsPath}/xbox360/game-patches.zip" -d "${romsPath}/xbox360" && rm "${romsPath}/xbox360/game-patches.zip"; } &> /dev/null
-#		echo "Xenia patches downloaded."
-#	else
-#		{ curl -L "$patches_url" -o "${romsPath}/xbox360/game-patches.zip" && nice -n 5 unzip -uqo "${romsPath}/xbox360/game-patches.zip" -d "${romsPath}/xbox360" && rm "${romsPath}/xbox360/game-patches.zip"; } &> /dev/null
-#		echo "Xenia patches updated."
-#	fi
-#
-#}
+#SetupPatches
+Xenia_getPatches() {
+	local patches_url="https://github.com/xenia-canary/game-patches/releases/latest/download/game-patches.zip"
+
+	mkdir -p "$Xenia_emuPath/patches"
+	if  [[ ! "$( ls -A "$Xenia_emuPath/patches")" ]] ; then
+		{ curl -L "$patches_url" -o "$Xenia_emuPath/game-patches.zip" && nice -n 5 unzip -q -o "$Xenia_emuPath/game-patches.zip" -d "$Xenia_emuPath" && rm "$Xenia_emuPath/game-patches.zip"; } &> /dev/null
+		echo "Xenia patches downloaded."
+	else
+		{ curl -L "$patches_url" -o "$Xenia_emuPath/game-patches.zip" && nice -n 5 unzip -uqo "$Xenia_emuPath/game-patches.zip" -d "$Xenia_emuPath" && rm "$Xenia_emuPath/game-patches.zip"; } &> /dev/null
+		echo "Xenia patches updated."
+	fi
+#	linkToSaveFolder xenia patches "$Xenia_emuPath/patches" Maybe add it to storage ? 
+}
 
 #SetupSaves
 Xenia_setupSaves(){
