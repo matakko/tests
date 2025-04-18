@@ -5,7 +5,7 @@ Xenia_emuType="$emuDeckEmuTypeBinary"
 Xenia_emuPath="$emusFolder"
 Xenia_releaseURL_canary="https://github.com/xenia-canary/xenia-canary-releases/releases/latest/download/xenia_canary_linux.tar.gz"
 Xenia_dir="$HOME/.local/share/Xenia"
-Xenia_XeniaSettings="$$HOME/.local/share/Xenia/xenia-canary.config.toml"
+Xenia_XeniaSettings="$HOME/.local/share/Xenia/xenia-canary.config.toml"
 # check TODO for find stuff todo or to finish
 
 #cleanupOlderThings TODO
@@ -77,9 +77,7 @@ Xenia_addESConfig(){
 		--subnode '$newSystem' --type elem --name 'fullname' -v 'Microsoft Xbox 360' \
 		--subnode '$newSystem' --type elem --name 'path' -v '%ROMPATH%/xbox360/roms' \
 		--subnode '$newSystem' --type elem --name 'extension' -v '.iso .ISO . .xex .XEX' \
-#		--subnode '$newSystem' --type elem --name 'commandP' -v "/bin/bash ${toolsPath}/launchers/xenia.sh z:%ROM% %INJECT%=%BASENAME%.esprefix" \
 		--subnode '$newSystem' --type elem --name 'commandP' -v "%EMULATOR_XENIA% %ROM%" \
-#		--insert '$newSystem/commandP' --type attr --name 'label' --value "Xenia (Proton)" \
 		--insert '$newSystem/commandP' --type attr --name 'label' --value "Xenia Canary (Linux)" \
 		--subnode '$newSystem' --type elem --name 'platform' -v 'xbox360' \
 		--subnode '$newSystem' --type elem --name 'theme' -v 'xbox360' \
@@ -109,7 +107,7 @@ Xenia_getPatches() {
 #SetupSaves
 Xenia_setupSaves(){
 	mkdir -p "$Xenia_dir/content"
-#	linkToSaveFolder xenia saves "$Xenia_dir/content" TODO
+#	linkToSaveFolder xenia saves "$Xenia_dir/content" Or to Rom folders ? TODO
 }
 
 
