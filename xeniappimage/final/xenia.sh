@@ -2,7 +2,7 @@
 . "$HOME/.config/EmuDeck/backend/functions/all.sh"
 emulatorInit "Xenia"
 emuName="xenia_canary" #parameterize me
-emufolder="$emusFolder/xenia_canary" # has to be applications for ES-DE to find it
+emufolder="$emusFolder" # has to be applications for ES-DE to find it
 
 #initialize execute array
 exe=()
@@ -22,7 +22,7 @@ exe_path=$(find "$emufolder" -iname "${emuName}" | sort -n | cut -d' ' -f 2- | t
 launch_args=()
 for rom in "${@}"; do
     # Parsers previously had single quotes ("'/path/to/rom'" ), this allows those shortcuts to continue working.
-    removedLegacySingleQuotes=$(echo "$rom" | sed "s/^'//; s/'$//")
+    removedLegacySingleQuotes=$(echo "$rom" | sed "s/^'//; s/'$//; s/%$//")
     launch_args+=("$removedLegacySingleQuotes")
 done
 
