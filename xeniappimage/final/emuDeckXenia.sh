@@ -21,10 +21,10 @@ Xenia_install(){
     local archiveName="xenia_canary_linux"
 
     if installEmuBI "$Xenia_emuName" "$Xenia_releaseURL_canary" "$archiveName" "tar.gz" "$showProgress"; then
-        mkdir -p "$Xenia_emuPath/content"
+        mkdir -p "$Xenia_dir/content"
         tar -xvf "$emusFolder/${archiveName}.tar.gz" -C "$Xenia_emuPath"
         rm -f "$emusFolder/${archiveName}.tar.gz"
-        mv "$Xenia_emuPath/LICENSE" "$Xenia_dir"
+        mv "$Xenia_emuPath/LICENSE" "$Xenia_dir/LICENSE"
         chmod +x "$Xenia_emuPath/xenia_canary"
     else
         return 1
