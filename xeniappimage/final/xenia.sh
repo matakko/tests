@@ -17,7 +17,6 @@ exe_path=$(find "$emufolder" -iname "${emuName}" | sort -n | cut -d' ' -f 2- | t
     
     #fill execute array
     exe=("$exe_path")
-fi
 
 #run the executable with the params.
 launch_args=()
