@@ -109,13 +109,14 @@ Xenia_getPatches() {
 #SetupSaves
 Xenia_setupSaves(){
 	mkdir -p "$Xenia_dir/content"
-	linkToSaveFolder xenialin saves "$Xenia_dir/content"}
+	linkToSaveFolder xenialin saves "$Xenia_dir/content" 
+}
 
 
 #SetupStorage
 Xenia_setupStorage(){
 	mkdir -p "$Xenia_dir/patches"
-	linkToStorageFolder xenialin patches "$Xenia_dir/patches"}
+	linkToStorageFolder xenialin patches "$Xenia_dir/patches"
 }
 
 
