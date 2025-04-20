@@ -1,6 +1,6 @@
 #!/bin/bash
 . "$HOME/.config/EmuDeck/backend/functions/all.sh"
-emulatorInit "Xenia"
+emulatorInit "Xenia" # TODO maybe it need to be changed to xenialin ? 
 emuName="xenia_canary" #parameterize me
 emufolder="$emusFolder" # has to be applications for ES-DE to find it
 
@@ -22,7 +22,7 @@ exe_path=$(find "$emufolder" -iname "${emuName}" | sort -n | cut -d' ' -f 2- | t
 launch_args=()
 for rom in "${@}"; do
     # Parsers previously had single quotes ("'/path/to/rom'" ), this allows those shortcuts to continue working.
-    removedLegacySingleQuotes=$(echo "$rom" | sed "s/^'//; s/'$//; s/%$//")
+    removedLegacySingleQuotes=$(echo "$rom" | sed "s/^'//; s/'$//; s/%$//") #TODO i added ; s/%$// because the game in ES-DE was presented with " in the end and breaks . i changed the command in ES-DE so might redo testing ?
     launch_args+=("$removedLegacySingleQuotes")
 done
 
