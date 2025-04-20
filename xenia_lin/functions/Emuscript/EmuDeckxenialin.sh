@@ -1,6 +1,6 @@
 #!/bin/bash
 #variables
-Xenia_emuName="Xenialin"
+Xenia_emuName="xenialin"
 Xenia_emuType="$emuDeckEmuTypeBinary"
 Xenia_emuPath="$emusFolder"
 Xenia_releaseURL_canary="https://github.com/xenia-canary/xenia-canary-releases/releases/latest/download/xenia_canary_linux.tar.gz"
@@ -128,7 +128,6 @@ Xenia_wipeSettings(){
 
 #Uninstall
 Xenia_uninstall(){
-	echo "NYI"
 	setMSG "Uninstalling $Xenia_emuName. Saves and ROMs will be retained in the ROMs folder."
 #	find ${romsPath}/xbox360 -mindepth 1 \( -name roms -o -name content \) -prune -o -exec rm -rf '{}' \; &>> /dev/null  IDK TODO
 	rm -rf $HOME/.local/share/applications/xenialin.desktop &> /dev/null #idk if its the right name not sure TODO
