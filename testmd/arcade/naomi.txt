@@ -1,0 +1,190 @@
+# NAOMI
+Game 	DEmul[1] 	Flycast[2] 	MAME[3] 	Ports[4]
+18 Wheeler: American Pro Trucker 	✓ 	✓ 	✓ 	✓
+Akatsuki Blitzkampf Ausf.Achse/Akatsuki Denkou Senki 	✓ 	✓ 	✗ 	✗
+Boat Race Ocean Heats 	✓ 	✗ 	✗ 	✗
+Charge 'N Blast 	✓ 	✗ 	✗ 	✓
+Cosmic Smash 	✓ 	✓ 	✗ 	✓
+Crackin' DJ 	✓ 	✓ 	✗ 	✗
+Crazy Taxi 	✓ 	✓ 	✓ 	✓
+Cyber Troopers Virtual-On: Oratorio Tangram M.S.B.S. Ver. 5.66 	✓ 	✓ 	✗ 	✓
+Dead or Alive 2 	✓ 	✓ 	✗ 	✓
+Dead or Alive 2 Millennium 	✓ 	✓ 	✗ 	✗
+Death Crimson OX 	✓ 	✓ 	✗ 	✓
+Dengen Tenshi Taisen Mahjong Shangri-La 	✓ 	~ 	✗ 	✓
+Dynamite Baseball NAOMI 	✓ 	~ 	✗ 	✗
+Dynamite Baseball '99 	✓ 	✗ 	✗ 	✗
+Dynamite Deka EX: Asian Dynamite 	✓ 	✓ 	✗ 	✗
+F1 World Grand Prix 	✓ 	✗ 	✗ 	✓
+Fish Live 	✓ 	✗ 	✗ 	✗
+Formation Battle In May 	✓ 	✗ 	✗ 	✗
+Giant Gram: Zen Nihon Pro Wres 2 in Nihon Budoukan 	✓ 	✓ 	✗ 	✓
+Giant Gram 2000: Zen Nihon Pro Wres 3 Eikou no Yuushatachi 	✓ 	✓ 	✗ 	✓
+Guilty Gear X 	✓ 	✓ 	✗ 	✓
+Idol Janshi Suchie-Pai III 	✓ 	✗ 	~ 	✗
+Illmatic Envelope (Illvelo) 	✓ 	✓ 	✗ 	✓
+Inu no Osanpo 	✓ 	✗ 	✗ 	✗
+Jambo! Safari 	✓ 	✓ 	✗ 	✓
+Kasei Channel Mars TV 	✓ 	✓ 	✗ 	✗
+Mamoru-kun wa Norowarete Shimatta!
+(Mamonoro) 	✓ 	✓ 	✗ 	✓
+Manic Panic Ghosts 	✓ 	✓ 	✗ 	✗
+Melty Blood: Actress Again 	✓ 	✓ 	✗ 	✓
+Mushiking: The King of Beetles 	✓ 	✓ 	✗ 	✗
+Outtrigger 	✓ 	✓ 	✗ 	✗
+Pocket Shooting 	✓ 	✗ 	✗ 	✗
+Puyo Puyo Da! Featuring Ellena System 	✓ 	✓ 	✗ 	✓
+Puyo Pop Fever 	✓ 	✓ 	✗ 	✓
+Puzzle Kurutto Stone 	✓ 	✗ 	✗ 	✗
+Quiz Aa! Megami-sama/Quiz Ah My Goddess! 	✓ 	~ 	✗ 	✓
+Radirgy Noa 	✓ 	✓ 	✗ 	✓
+Rhythm Tengoku 	✓ 	✓ 	✗ 	✗
+Ring Out 4x4 	✓ 	✓ 	✗ 	✗
+Samba de Amigo 	✓ 	✓ 	✗ 	✓
+Samba de Amigo Ver.2000 	✓ 	✓ 	✗ 	✓
+Sega Marine Fishing 	✓ 	✓ 	✗ 	✓
+Sega Tetris 	✓ 	✓ 	✗ 	✓
+Shooting Love. 2007 	✓ 	✓ 	✗ 	✗
+Slashout 	✓ 	✓ 	✗ 	✗
+Tokyo Bus Guide 	✓ 	✓ 	✗ 	✓
+Touch de Uno! 	✓ 	✓ 	✗ 	✗
+Touch de Uno! 2 	✓ 	✓ 	✗ 	✗
+Toy Fighter/Waffupu 	✓ 	✓ 	✗ 	✗
+Virtua NBA 	✓ 	✓ 	✗ 	✗
+Virtua Striker 2 Ver. 2000 	✓ 	✓ 	✗ 	✗
+Virtua Tennis/Power Smash 	✓ 	✓ 	✗ 	✓
+Virtua Tennis 2/Power Smash 2 	✓ 	✓ 	✗ 	✓
+WaveRunner GP 	✓ 	✓ 	✗ 	✗
+World Series 99/Super Major League 99 	✓ 	✓ 	✗ 	✗
+WWF Royal Rumble (Sega) 	✓ 	✓ 	✗ 	✓
+Zero Gunner 2 	✓ 	✓ 	✗ 	✓
+Capcom
+Cannon Spike/Gunspike 	✓ 	✓ 	✗ 	✓
+Capcom vs. SNK: Millennium Fight 2000 	✓ 	✓ 	✓ 	✓
+Giga Wing 2 	✓ 	✓ 	✗ 	✓
+Heavy Metal Geomatrix 	✓ 	✓ 	✗ 	✓
+Kidou Senshi Gundam: Renpou vs. Zeon 	✓ 	✓ 	✗ 	✓
+Marvel vs. Capcom 2: New Age of Heroes 	✓ 	✓ 	✗ 	✓
+Power Stone 	✓ 	✓ 	✗ 	✓
+Power Stone 2 	✓ 	✓ 	✗ 	✓
+Project Justice/Moero! Justice Gakuen
+(Project Justice: Rival Schools 2 in Europe) 	✓ 	✓ 	✗ 	✓
+Spawn: In the Demon's Hand 	✓ 	✓ 	✗ 	✓
+Namco
+Gun Survivor 2: Biohazard CODE:Veronica 	✓ 	✓ 	✓ 	✓
+Mazan: Flash Of The Blade 	✓ 	✓ 	✗ 	✗
+Ninja Assault 	✓ 	✓ 	✗ 	✓
+Shin Nihon Pro Wrestling Toukon Retsuden 4 Arcade Edition 	✓ 	✓ 	✗ 	✓
+World Kicks 	✓ 	✓ 	✗ 	✗
+The House of the Dead 2 	✓ 	✓ 	✗ 	✓
+The Typing of the Dead 	✓ 	✓ 	✗ 	✓
+Zombie Revenge 	✓ 	✓ 	✗ 	✓
+
+
+
+
+
+# NAOMI GD-ROM
+Game 	DEmul[1] 	Flycast[2] 	MAME[3] 	Ports[4]
+Alien Front 	✓ 	✓ 	✗ 	✓
+Border Down 	✓ 	✓ 	✗ 	✓
+Chaos Field 	✓ 	✓ 	✗ 	✓
+Confidential Mission 	✓ 	✓ 	✗ 	✓
+Crackin' DJ Part 2 	✓ 	✓ 	✗ 	✗
+Doki Doki Idol Star Seeker 	✓ 	✓ 	~ 	✓
+Dragon Treasure 	✓ 	✗ 	✗ 	✗
+Dragon Treasure II 	✓ 	✗ 	✗ 	✗
+Dragon Treasure III 	✓ 	✗ 	✗ 	✗
+Get Bass 2 / Sega Bass Fishing 2 	✓ 	✗ 	✗ 	✓
+Guilty Gear XX #Reload 	✓ 	✓ 	✗ 	✓
+Guilty Gear XX: The Midnight Carnival 	✓ 	✓ 	✗ 	✓
+Guilty Gear XX Accent Core 	✓ 	✓ 	✗ 	✓
+Guilty Gear XX Slash 	✓ 	✓ 	✗ 	✓
+Ikaruga 	✓ 	✓ 	✗ 	✓
+Jingi Storm: The Arcade 	✓ 	✓ 	✗ 	✗
+Karous 	✓ 	✓ 	✗ 	✓
+Kuru Kuru Chameleon 	✓ 	✓ 	✗ 	✓
+KyoryuKing/Dinosaur King 	✓ 	✓ 	✗ 	~
+La Keyboard XYU 	✓ 	✓ 	✗ 	✗
+Lupin the 3rd: The Shooting 	✓ 	✓ 	✗ 	✗
+Lupin the 3rd: The Typing 	✓ 	✓ 	✗ 	✗
+Melty Blood: Act Cadenza Ver. A 	✓ 	✗ 	✗ 	✓
+Melty Blood: Act Cadenza Version B 	✓ 	✗ 	✗ 	✓
+Melty Blood: Act Cadenza Version B2 	✓ 	~ 	✗ 	✓
+Monkey Ball 	✓ 	✓ 	✗ 	~
+Moeru Casinyo 	✓ 	✓ 	✗ 	✗
+Musapey no Choco Marker 	✓ 	✓ 	✗ 	✓
+Noukone Puzzle Takoron 	✓ 	✓ 	✗ 	✓
+Quiz Keitai Q mode 	✓ 	✓ 	✗ 	✓
+Radirgy 	✓ 	✓ 	✗ 	✓
+Senko no Ronde 	✓ 	✓ 	✗ 	✓
+Senko no Ronde New Version 	✓ 	✓ 	✗ 	~
+Senko no Ronde SP 	✓ 	✓ 	✗ 	✓
+Shakatto Tambourine! 	✓ 	✓ 	✗ 	✓
+Shakatto Tambourine! 2001
+(Motto Norinori Shinkyoku Tsuika!!) 	✓ 	✓ 	✗ 	✗
+Shakka to Tambourine! 2001 Power Up! 	✓ 	✓ 	✗ 	✗
+Shootout Pool 	✓ 	✓ 	✗ 	✗
+Shootout Pool Prize 	✓ 	✓ 	✗ 	✗
+Spikers Battle 	✓ 	✓ 	✗ 	✗
+Sports Jam 	✓ 	✓ 	✗ 	✓
+Super Shanghai 2005 	✓ 	✓ 	✗ 	✓
+Tetris Kiwamemichi 	✓ 	✓ 	✗ 	✓
+The Maze of the Kings 	✓ 	✓ 	✗ 	✗
+Trigger Heart Exelica 	✓ 	✓ 	✗ 	✓
+Under Defeat 	✓ 	✓ 	✗ 	✓
+Virtua Athletics/Virtua Athlete 	✓ 	✓ 	✗ 	✓
+Virtua Golf/Dynamic Golf 	✓ 	✓ 	✗ 	✗
+Virtua Tennis/Power Smash (GD-ROM) 	✓ 	✓ 	✗ 	✓
+Virtua Tennis/Power Smash 2 (GD-ROM) 	✓ 	✓ 	✗ 	✓
+World Series Baseball/Super Major League
+(NAOMI) 	✓ 	✗ 	✗ 	✗
+Capcom
+Capcom vs. SNK: Millennium Fight 2000 Pro 	✓ 	✓ 	~ 	✓
+Capcom vs. SNK 2: Millionaire Fighting 2001
+(Mark of the Millennium 2001) 	✓ 	✓ 	✗ 	✓
+Kidou Senshi Gundam: Renpou vs. Zeon 	✓ 	✓ 	✗ 	✓
+Kidou Senshi Gundam: Renpou vs. Zeon DX 	✓ 	✗ 	✗ 	✓
+Street Fighter Zero 3 Upper (↑) 	✓ 	✓ 	✗ 	✓
+Taito
+Azumanga Daioh Puzzle Bobble 	✓ 	✓ 	✗ 	✗
+Cleopatra Fortune Plus 	✓ 	✓ 	~ 	✗
+ExZeus 	✓ 	✗ 	✗ 	✓
+Pochi to Nyaa 	✓ 	✗ 	✗ 	✓
+Psyvariar 2: The Will To Fabricate 	✓ 	✓ 	✗ 	✓
+Shikigami no Shiro II/Castle of Shikigami II 	✓ 	~ 	✗ 	✓
+Trizeal 	✓ 	✓ 	✗ 	✓
+Usagi: Yasei no Touhai - Yamashiro Mahjong-Hen/Rabbit 2 	✓ 	✗ 	~ 	✓ 
+
+
+
+
+# NAOMI Multiboard
+
+Game 	DEmul[1] 	Flycast[2] 	MAME[3] 	Ports[4]
+Airline Pilots 	✓ 	✓ 	✗ 	✗
+F355 Challenge 	✓ 	✓ 	✗ 	✓
+F355 Challenge 2: International Course Edition 	✓ 	✓ 	✗ 	~
+Sega Strike Fighter 	✓ 	✓ 	✗ 	✗
+Mazan: Flash Of The Blade
+(Multiboard version) 	✓ 	✗ 	✗ 	✗ 
+
+
+# NAOMI Satellite Terminal
+
+Game 	DEmul[1] 	Flycast[2] 	MAME[3] 	Ports[4]
+Derby Owners Club 	~ 	✗ 	✗ 	✗
+Derby Owners Club 2 	~ 	✗ 	✗ 	✗
+Derby Owners Club 2 Ver.2 	~ 	✗ 	✗ 	✗
+Derby Owners Club 2 Ver.2.1 	~ 	✗ 	✗ 	✗
+Derby Owners Club 2000 	~ 	✗ 	✗ 	✗
+Derby Owners Club World Edition 	~ 	✗ 	✗ 	✗
+Sega Network Taisen Mahjong MJ 	✗ 	✗ 	✗ 	✓
+Star Horse 	~ 	✗ 	✗ 	✗
+Star Horse 2001 	~ 	✗ 	✗ 	✗
+Star Horse 2002 	✗ 	✗ 	✗ 	✗
+Star Horse Progress 	~ 	✗ 	✗ 	✗
+Star Horse Progress Returns 	~ 	✗ 	✗ 	✗
+The Quiz Show 	✗ 	✗ 	✗ 	✗ 
+
+
