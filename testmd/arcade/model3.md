@@ -2,7 +2,7 @@
 # Model 3 
 
 | Roms      | Version | Games |
-| ----------- | ----------- |
+| ----------- | ----------- |-----------| 
 |   | Boat Race GP                        | 
 |  daytona2 |   | Daytona USA 2                         | 
 | dayto2pe  |   | Daytona USA 2: Power Edition          | 
