@@ -80,33 +80,37 @@
 |  scudplus   | Export, Twin/DX, Revision A  |  Scud Race Plus   |
 |  scudplusa  | Export, Twin/DX  | Scud Race Plus    |
 |  skichamp   | Japan   |  Ski Champ   |
-|  spikeofe   |    |     |
-|  spikeout   |    |     |
-|  srally2    |    |     |
-|  srally2p   |    |     |
-|  srally2pa  |    |     |
+|  spikeofe   | Export   |  Spikeout: Final Edition   |
+|  spikeout   |  Export, Revision C  | Spikeout    |
+|  srally2    |  Export  |  Sega Rally 2   |
+|  srally2dx    |  Export, Deluxe  |  Sega Rally 2   |
+|  srally2p   | Prototype   | Sega Rally 2    |
+|  srally2pa  | Prototype Version A   |  Sega Rally 2   |
 |  srally2x   |    |     |
-|  swtrilgy   |    |     |
-|  swtrilgya  |    |     |
-|  swtrilgyp  |    |     |
-|  vf3        |    |     |
-|  vf3a       |    |     |
-|  vf3c       |    |     |
-|  vf3tb      |    |     |
-|  von2       |    |     |
-|  von254g    |    |     |
-|  von2a      |    |     |
-|  von2o      |    |     |
-|  vs2        |    |     |
-|  vs215      |    |     |
-|  vs215o     |    |     |
-|  vs298      |    |     |
-|  vs29815    |    |     |
-|  vs299      |    |     |
-|  vs29915    |    |     |
-|  vs299a     |    |     |
+|  swtrilgy   | Export, Revision A   | Star Wars Trilogy Arcade    |
+|  swtrilgya  |  Export  | Star Wars Trilogy Arcade    |
+|  swtrilgyp  |  Location Test, 16.09.98  | Star Wars Trilogy Arcade    |
+|  vf3        | Japan, Revision D  |  Virtua Fighter 3   |
+|  vf3a       | Japan, Revision A   | Virtua Fighter 3    |
+|  vf3c       | Japan, Revision C   |  Virtua Fighter 3   |
+|  vf3tb      |  Japan  | Virtua Fighter 3: Team Battle    |
+|  von2       | Japan, Revision B   | Virtual On 2: Oratorio Tangram    |
+|  von254g    |  Japan, Version 5.4g  | Virtual On 2: Oratorio Tangram    |
+|  von2a      | Japan, Revision A   | Virtual On 2: Oratorio Tangram    |
+|  von2o      | Japan   |  Virtual On 2: Oratorio Tangram   |
+|  vs2        | Step 2.0, Export, USA   |  Virtua Striker 2   |
+|  vs215      | Step 1.5, Export, USA   |  Virtua Striker 2   |
+|  vs215o     | Step 1.5, Japan (test?)   |  Virtua Striker 2   |
+|  vs298      | Step 2.0, Japan   |  Virtua Striker 2 '98   |
+|  vs29815    | Step 1.5, Japan   | Virtua Striker 2 '98    |
+|  vs299      | Export, USA   |  Virtua Striker 2 '99   |
+|  vs29915    | Step 1.5, Export, USA, Revision B |  Virtua Striker 2 '99.1   |
+|  vs29915a    | Step 1.5, Export, USA   | Virtua Striker 2 '99    |
+|  vs29915j    | Step 1.5, Japan, Revision B  |  Virtua Striker 2 '99.1   |
+|  vs299a     | Export, USA, Revision A   | Virtua Striker 2 '99    |
 |  vs299b     |    |     |
-|  vs2v991    |    |     |
+|  vs299j     | Japan, Revision B   |   Virtua Striker 2 '99.1      |
+|  vs2v991    | Export, USA, Revision B   | Virtua Striker 2 '99.1    |
 
 
 
