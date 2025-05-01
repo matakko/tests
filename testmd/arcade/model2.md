@@ -63,9 +63,9 @@ OR
   ----------- |   -------------------|          
  |     bel     |  Behind Enemy Lines            |  
  |          |  Cyber Troopers Virtual-On     |  
- |          |  Daytona USA                   |  
+ |     daytona     |  Daytona USA                   |  
  |          |  Dead or Alive                 |  
- |          |  Desert Tank                   |  
+ |     desert     |  Desert Tank                   |  
  |          |  Dynamite Baseball             |  
  |          |  Dynamite Baseball 97          |  
  |          |  Dynamite Cop                  |  
@@ -89,8 +89,64 @@ OR
  |          |  The House of the Dead         |  
  |          |  Top Skater                    |  
  |          |  Wave Runner                   |  
- |          |  Virtua Cop                    |  
+ |     vcop     |  Virtua Cop                    |  
  |          |  Virtua Cop 2                  |  
  |          |  Virtua Fighter 2              |  
  |          |  Virtua Striker                |  
  |          |  Zero Gunner                   |  
+
+
+
+OR | Model 2 | Model 2A-CRX | Model 2B-CRX | Model 2C-CRX |
+
+  |     Roms   |   |    Names      |                       
+ | -----------  |    ----------- |   -----------     |        
+                 
+ | daytona     | Model 2      | Daytona USA |
+ | daytona93   | Model 2      | Daytona USA '93 Edition |
+ | daytonas    | Model 2      | Daytona USA (Saturn Ads) |
+ | daytonase   | Model 2      | Daytona USA Special Edition | 
+ | daytonat    | Model 2      | Daytona USA Turbo |
+ | daytonata   | Model 2      | Daytona USA Turbo (Rev A) |
+ | daytonagtx  | Model 2      | Daytona USA: GTX2004 |
+ | daytonam    | Model 2      | Daytona USA: To The Maxx | 
+ | desert      | Model 2      | Desert Tank  |  
+ | vcop        | Model 2      | Virtua Cop |
+ | vcopa       | Model 2      | Virtua Cop (Rev A) |      
+ |             | Model 2A-CRX |           |
+
+ |             | Model 2B-CRX |           |
+
+ |             | Model 2C-CRX |           |
+ | bel  |          |  Behind Enemy Lines            |  
+ |   |          |  Cyber Troopers Virtual-On     |  
+ |   |          |  Dead or Alive                 |  
+ |   |          |  Desert Tank                   |  
+ |   |          |  Dynamite Baseball             |  
+ |   |          |  Dynamite Baseball 97          |  
+ |   |          |  Dynamite Cop                  |  
+ |   |          |  Fighting Vipers               |  
+ |   |          |  Gunblade NY                   |  
+ |   |          |  Indy 500                      |  
+ |   |          |  Last Bronx                    |  
+ |   |          |  Manx TT Superbike             |  
+ |   |          |  Motor Raid                    |  
+ |   |          |  Over Rev                      |  
+ |   |          |  Pilot Kids                    |  
+ |   |          |  Power Sled                    |  
+ |   |          |  Rail Chase 2                  |  
+ |   |          |  Sega Rally Championship       |  
+ |   |          |  Sega Ski Super G              |  
+ |   |          |  Sega Touring Car Championship |  
+ |   |          |  Sega Water Ski                |  
+ |   |          |  Sky Target                    |  
+ |   |          |  Sonic the Fighters            |  
+ |   |          |  Super GT 24H                  |  
+ |   |          |  The House of the Dead         |  
+ |   |          |  Top Skater                    |  
+ |   |          |  Wave Runner                   |  
+ |   |          |  Virtua Cop                    |  
+ |   |          |  Virtua Cop 2                  |  
+ |   |          |  Virtua Fighter 2              |  
+ |   |          |  Virtua Striker                |  
+ |   |          |  Zero Gunner                   |  
