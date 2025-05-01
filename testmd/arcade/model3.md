@@ -41,35 +41,45 @@
 
 |     Roms       |   Version       | Names  | 
 | -------    | ------  |  ----- |
-|  bass       |    |     |
-|  bassdx     |    |     |
-|  dayto2pe   |    |     |
-|  daytona2   |    |     |
-|  dirtdvls   |    |     |
-|  dirtdvlsa  |    |     |
-|  dirtdvlsg  |    |     |
-|  dirtdvlsj  |    |     |
-|  eca        |    |     |
-|  ecaj       |    |     |
-|  ecap       |    |     |
-|  ecau       |    |     |
-|  fvipers2   |    |     |
-|  fvipers2o  |    |     |
-|  getbass    |    |     |
-|  harley     |    |     |
-|  harleya    |    |     |
-|  lamachin   |    |     |
-|  lemans24   |    |     |
-|  lostwsga   |    |     |
+|  bass       |    |        |
+|  bassdx     |  USA, Deluxe  |   Sega Bass Fishing / Get Bass     |
+|  dayto2pe   |  Japan |   Daytona USA 2: Power Edition  |
+|  daytona2   | Japan, Revision A |  Daytona USA 2  |
+|  dirtdvls   | Export, Revision A   |   Dirt Devils   |
+|  dirtdvlsa  |    |      |
+|  dirtdvlsau  | Australia, Revision A   |   Dirt Devils   |
+|  dirtdvlsg  | Export, Version G?   |   Dirt Devils   |
+|  dirtdvlsj  | Japan, Revision A   |   Dirt Devils   |
+|  dirtdvlsu  | USA, Revision A  |    Dirt Devils  |
+|  eca        | Export   | Emergency Call Ambulance    |
+|  ecaj       |  Japan  |  Emergency Call Ambulance   |
+|  ecap       | US location test   | Emergency Call Ambulance    |
+|  ecau       | USA   |  Emergency Call Ambulance   |
+|  fvipers2   |  Japan, Revision A  |   Fighting Vipers 2  |
+|  fvipers2o  |  ?  |   Fighting Vipers 2  |
+|  getbass    |  Japan, Standard  | Sega Bass Fishing / Get Bass    |
+|  getbassdx    | Japan, Deluxe  |   Sega Bass Fishing / Get Bass  |
+|  getbassur    | Japan, Upright   |  Sega Bass Fishing / Get Bass   |
+|  harley     | Export, Revision B  |  Harley Davidson & L.A. Riders   |
+|  harleya    | Export, Revision A   |  Harley Davidson & L.A. Riders   |
+|  lamachin   |   Japan |   L.A. Machineguns   |
+|  lemans24   |  Japan, Revision B  |  Le Mans 24   |
+|  lostwsga   | Japan, Revision A   |   The Lost World: Jurassic Park  |
 |  lostwsgo   |    |     |
-|  magtruck   |    |     |
-|  oceanhun   |    |     |
-|  scud       |    |     |
-|  scuda      |    |     |
+|  lostwsgp   |  Location Test  |   The Lost World: Jurassic Park  |
+|  magtruck   | Japan   |  Magical Truck Adventure   |
+|  mgtrkbad   | Japan   |  Magical Truck Adventure   |
+|  oceanhun   | Japan   | The Ocean Hunter    |
+|  oceanhuna   | Japan, Revision A   |  The Ocean Hunter   |
+|  scud       |  Export, Twin/DX  | Scud Race    |
+|  scuda      |  |     |
+|  scudau      |  Australia, Twin/DX    | Scud Race    |
+|  scuddx      |  Export, Deluxe, Revision A  | Scud Race    |
+|  scuddxo      | Export, Deluxe   | Scud Race    |
 |  scudj      |    |     |
-|  scudplus   |    |     |
-|  scudplusa  |    |     |
-|  skichamp   |    |     |
+|  scudplus   | Export, Twin/DX, Revision A  |  Scud Race Plus   |
+|  scudplusa  | Export, Twin/DX  | Scud Race Plus    |
+|  skichamp   | Japan   |  Ski Champ   |
 |  spikeofe   |    |     |
 |  spikeout   |    |     |
 |  srally2    |    |     |
