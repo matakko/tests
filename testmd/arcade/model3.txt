@@ -1,308 +1,117 @@
-Game 
-Boat Race GP ‡ 
-Daytona USA 2 
-Daytona USA 2: Power Edition 
-Dirt Devils 
-Emergency Call Ambulance 
-Fighting Vipers 2 
-Harley Davidson & L.A. Riders 
-L.A. Machineguns 
-Le Mans 24 
-Magical Truck Adventure 
-Scud Race 
-Scud Race Plus 
-Sega Bass Fishing / Get Bass 
-Sega Rally 2 
-Ski Champ 
-Spikeout 
-Spikeout: Final Edition 
-Star Wars Trilogy Arcade 
-The Lost World: Jurassic Park 
-The Lost World: Jurassic Park Special 
-The Ocean Hunter 
-Virtua Fighter 3 
-Virtua Fighter 3: Team Battle 
-Virtua Striker 2 
-Virtua Striker 2 '98 
-Virtua Striker 2 '99 
-Virtua Striker 2 '99.1 
-Virtual On 2: Oratorio Tangram 
+ # Model 3 Merged names  
+
+
+ Roms           Names                                 
+ -----------    -------------------------------------  
+                Boat Race GP                           
+ daytona2      Daytona USA 2                          
+ dayto2pe       Daytona USA 2: Power Edition           
+ dirtdvls       Dirt Devils                            
+ eca            Emergency Call Ambulance               
+ fvipers2       Fighting Vipers 2                      
+ harley         Harley Davidson & L.A. Riders          
+ lamachin       L.A. Machineguns                       
+ lemans24       Le Mans 24                             
+ magtruck       Magical Truck Adventure                
+ scud           Scud Race                              
+ scudplus       Scud Race Plus                         
+ bassdx         Sega Bass Fishing / Get Bass           
+ srally2        Sega Rally 2                           
+ skichamp       Ski Champ                              
+ spikeout       Spikeout                               
+ spikeofe       Spikeout: Final Edition                
+ swtrilgy       Star Wars Trilogy Arcade               
+ lostwsga       The Lost World: Jurassic Park          
+                The Lost World: Jurassic Park Special   
+ oceanhun       The Ocean Hunter                       
+ vf3            Virtua Fighter 3                       
+ vf3tb          Virtua Fighter 3: Team Battle          
+ vs2            Virtua Striker 2                       
+ vs298          Virtua Striker 2 '98                   
+ vs299          Virtua Striker 2 '99                   
+ vs2v991        Virtua Striker 2 '99.1                 
+ von2           Virtual On 2: Oratorio Tangram           
 
 
 
 
 
-|              | Boat Race GP                        
-|  daytona2    | Daytona USA 2                 
-| dayto2pe     | Daytona USA 2: Power Edition  
-| dirtdvls     | Dirt Devils                   
-|  eca         |Emergency Call Ambulance            
-| fvipers2     | Fighting Vipers 2             
-|  harley      | Harley Davidson & L.A. Riders    
-|  lamachin    | L.A. Machineguns              
-| lemans24     | Le Mans 24                    
-| magtruck     | Magical Truck Adventure       
-| scud         |    Scud Race                          
-|  scudplus    | Scud Race Plus                 
-| bassdx       | Sega Bass Fishing / Get Bass    
-|  srally2     | Sega Rally 2                    
-|skichamp      | Ski Champ                       
-|spikeout      | Spikeout                        
-| spikeofe     | Spikeout: Final Edition         
-|swtrilgy      | Star Wars Trilogy Arcade        
-|lostwsga      | The Lost World: Jurassic Park   
-|              |    The Lost World: Jurassic Park Special  
-|oceanhun      | The Ocean Hunter                  
-|vf3           | Virtua Fighter 3                     
-|vf3tb         | Virtua Fighter 3: Team Battle      
-|vs2           | Virtua Striker 2                      
-|vs298         | Virtua Striker 2 '98               
-|vs299         | Virtua Striker 2 '99               
-|vs2v991       | Virtua Striker 2 '99.1             
-| von2         | Virtual On 2: Oratorio Tangram       
+# List Model 3 Non Merged names : 
 
-
-
-
-List of games
-Step 1.0
-
-    Boat Race GP (1996)
-    Virtua Fighter 3 (1996)
-    Virtua Fighter 3tb (1997)
-    Sega Bass Fishing/Get Bass (1997)
-
-Step 1.5
-
-    Scud Race / Super GT (1996)
-    Le Mans 24 (1997)
-    Scud Race Plus (1997)
-    The Lost World: Jurassic Park (1997)
-    The Lost World: Jurassic Park Special (1997)
-    Virtua Striker 2 (1997)
-    Virtua Striker 2 Version '98 (1998)
-
-Step 2.0
-
-    Harley Davidson & L.A. Riders (1997)
-    Fighting Vipers 2 (1998)
-    Sega Rally 2 (1998)
-    Ski Champ (1998)
-    Virtua Striker 2 (1997)
-    Virtua Striker 2 Version '98 (1998)
-    Virtua Striker 2 Version '99 (1999)
-    Virtua Striker 2 Version '99.1 (1999)
-    Virtual-On Oratorio Tangram (1998)
-
-Step 2.1
-
-    Daytona USA 2 (1998)
-    Daytona USA 2: Power Edition (1998)
-    Dirt Devils (1998)
-    L.A. Machineguns (1998)
-    Star Wars Trilogy Arcade (1998)
-    The Ocean Hunter (1998)
-    Spike Out (1998)
-    Spikeout: Final Edition (1999)
-    Emergency Call Ambulance (1999)
-    Magical Truck Adventure (1999)
-    Virtua Striker 2 Version '99 (1999)
-
-
-
-
-
-
-om  
-  Daytona USA 2 (Revision A) 
-  Daytona USA 2 Power Edition 
-  Dirt Devils (alt) (Revision A) 
-  Dirt Devils (Revision A) 
-  Emergency Call Ambulance 
-  Emergency Call Ambulance (Export) 
-  Fighting Vipers 2 (Revision A) 
-  Get Bass 
-  Harley-Davidson and L.A. Riders (Revision A) 
-  Harley-Davidson and L.A. Riders (Revision B) 
-  L.A. Machineguns 
-  LeMans 24 
-  Magical Truck Adventure 
-  Scud Race (Australia) 
-  Scud Race (Export) 
-  Scud Race (Japan) 
-  Scud Race Plus (Revision A) 
-  Sega Bass Fishing 
-  Sega Rally 2 
-  Sega Rally 2 DX 
-  Ski Champ 
-  Spikeout (Revision C) 
-  Spikeout Final Edition 
-  Star Wars Trilogy 
-  Star Wars Trilogy (Revision A) 
-  The Lost World 
-  The Ocean Hunter 
-  Virtua Fighter 3 (Revision A) 
-  Virtua Fighter 3 (Revision C) 
-  Virtua Fighter 3 Team Battle 
-  Virtua Striker 2 '98 (Step 1.5) 
-  Virtua Striker 2 '98 (Step 2.0) 
-  Virtua Striker 2 '99 
-  Virtua Striker 2 '99 (Revision A) 
-  Virtua Striker 2 '99 (Revision B) 
-  Virtua Striker 2 '99.1 (Revision B) 
-  Virtua Striker 2 (Step 1.5) 
-  Virtua Striker 2 (Step 2.0) 
-  Virtual On 2: Oratorio Tangram (Revision B) 
-  Virtual On 2: Oratorio Tangram (ver 5.4g) 
+     Roms       Version                              Names                              
+ -----------    ---------------------------------    --------------------------------- 
+  bass          USA                                  Sega Bass Fishing / Get Bass      
+  bassdx        USA, Deluxe                          Sega Bass Fishing / Get Bass      
+  dayto2pe      Japan                                Daytona USA 2: Power Edition      
+  daytona2      Japan, Revision A                    Daytona USA 2                     
+  dirtdvls      Export, Revision A                   Dirt Devils                       
+  dirtdvlsa     Alt, Revision A                      Dirt Devils                       
+  dirtdvlsau    Australia, Revision A                Dirt Devils                       
+  dirtdvlsg     Export, Version G?                   Dirt Devils                       
+  dirtdvlsj     Japan, Revision A                    Dirt Devils                       
+  dirtdvlsu     USA, Revision A                      Dirt Devils                       
+  eca           Export                               Emergency Call Ambulance          
+  ecaj          Japan                                Emergency Call Ambulance          
+  ecap          US location test                     Emergency Call Ambulance          
+  ecau          USA                                  Emergency Call Ambulance          
+  fvipers2      Japan, Revision A                    Fighting Vipers 2                 
+  fvipers2o     ?                                    Fighting Vipers 2                 
+  getbass       Japan, Standard                      Sega Bass Fishing / Get Bass      
+  getbassdx     Japan, Deluxe                        Sega Bass Fishing / Get Bass      
+  getbassur     Japan, Upright                       Sega Bass Fishing / Get Bass      
+  harley        Export, Revision B                   Harley Davidson & L.A. Riders     
+  harleya       Export, Revision A                   Harley Davidson & L.A. Riders     
+  lamachin      Japan                                L.A. Machineguns                  
+  lemans24      Japan, Revision B                    Le Mans 24                        
+  lostwsga      Japan, Revision A                    The Lost World: Jurassic Park     
+  lostwsgo      (older)                              The Lost World: Jurassic Park     
+  lostwsgp      Location Test                        The Lost World: Jurassic Park     
+  magtruck      Japan                                Magical Truck Adventure           
+  mgtrkbad      Japan                                Magical Truck Adventure           
+  oceanhun      Japan                                The Ocean Hunter                  
+  oceanhuna     Japan, Revision A                    The Ocean Hunter                  
+  scud          Export, Twin/DX                      Scud Race                         
+  scuda         Australia                            Scud Race                         
+  scudau        Australia, Twin/DX                   Scud Race                         
+  scuddx        Export, Deluxe, Revision A           Scud Race                         
+  scuddxo       Export, Deluxe                       Scud Race                         
+  scudj         Japan                                Scud Race                         
+  scudplus      Export, Twin/DX, Revision A          Scud Race Plus                    
+  scudplusa     Export, Twin/DX                      Scud Race Plus                    
+  skichamp      Japan                                Ski Champ                         
+  spikeofe      Export                               Spikeout: Final Edition           
+  spikeout      Export, Revision C                   Spikeout                          
+  srally2       Export                               Sega Rally 2                      
+  srally2dx     Export, Deluxe                       Sega Rally 2                      
+  srally2p      Prototype                            Sega Rally 2                      
+  srally2pa     Prototype Version A                  Sega Rally 2                      
+  srally2x      Deluxe                               Sega Rally 2 DX                   
+  swtrilgy      Export, Revision A                   Star Wars Trilogy Arcade          
+  swtrilgya     Export                               Star Wars Trilogy Arcade          
+  swtrilgyp     Location Test, 16.09.98              Star Wars Trilogy Arcade          
+  vf3           Japan, Revision D                    Virtua Fighter 3                  
+  vf3a          Japan, Revision A                    Virtua Fighter 3                  
+  vf3c          Japan, Revision C                    Virtua Fighter 3                  
+  vf3tb         Japan                                Virtua Fighter 3: Team Battle     
+  von2          Japan, Revision B                    Virtual On 2: Oratorio Tangram    
+  von254g       Japan, Version 5.4g                  Virtual On 2: Oratorio Tangram    
+  von2a         Japan, Revision A                    Virtual On 2: Oratorio Tangram    
+  von2o         Japan                                Virtual On 2: Oratorio Tangram    
+  vs2           Step 2.0, Export, USA                Virtua Striker 2                  
+  vs215         Step 1.5, Export, USA                Virtua Striker 2                  
+  vs215o        Step 1.5, Japan (test?)              Virtua Striker 2                  
+  vs298         Step 2.0, Japan                      Virtua Striker 2 '98              
+  vs29815       Step 1.5, Japan                      Virtua Striker 2 '98              
+  vs299         Export, USA                          Virtua Striker 2 '99              
+  vs29915       Step 1.5, Export, USA, Revision B    Virtua Striker 2 '99.1            
+  vs29915a      Step 1.5, Export, USA                Virtua Striker 2 '99              
+  vs29915j      Step 1.5, Japan, Revision B          Virtua Striker 2 '99.1            
+  vs299a        Export, USA, Revision A              Virtua Striker 2 '99              
+  vs299b        Export, USA, Revision B              Virtua Striker 2 '99              
+  vs299j        Japan, Revision B                    Virtua Striker 2 '99.1            
+  vs2v991       Export, USA, Revision B              Virtua Striker 2 '99.1            
 
 
 
 
 
-
-
-om  	 Taille 	
-  Daytona USA 2 (Revision A) 	Boat Race GP ‡ 	        
-  Daytona USA 2 Power Edition 	Daytona USA 2 	  daytona2
-  Dirt Devils (alt) (Revision A) 	Daytona USA 2: Power Edition 	 dayto2pe 
-  Dirt Devils (Revision A) 	Dirt Devils 	 dirtdvls 
-  Emergency Call Ambulance 	Emergency Call Ambulance 	  eca    
-  Emergency Call Ambulance (Export) 	Fighting Vipers 2 	 fvipers2 
-  Fighting Vipers 2 (Revision A) 	Harley Davidson & L.A. Riders 	  harley  
-  Get Bass 	L.A. Machineguns 	  lamachin
-  Harley-Davidson and L.A. Riders (Revision A) 	Le Mans 24 	 lemans24 
-  Harley-Davidson and L.A. Riders (Revision B) 	Magical Truck Adventure 	 magtruck 
-  L.A. Machineguns 	Scud Race 	 scud  
-  LeMans 24 	Scud Race Plus 	  scudplus
-  Magical Truck Adventure 	Sega Bass Fishing / Get Bass 	 bassdx   
-  Scud Race (Australia) 	Sega Rally 2 	  srally2 
-  Scud Race (Export) 	Ski Champ 	skichamp  
-  Scud Race (Japan) 	Spikeout 	spikeout  
-  Scud Race Plus (Revision A) 	Spikeout: Final Edition 	 spikeofe 
-  Sega Bass Fishing 	Star Wars Trilogy Arcade 	swtrilgy  
-  Sega Rally 2 	The Lost World: Jurassic Park 	lostwsga  
-  Sega Rally 2 DX 	The Lost World: Jurassic Park Special 	          
-  Ski Champ 	The Ocean Hunter 	 oceanhun 
-  Spikeout (Revision C) 	Virtua Fighter 3 	vf3    
-  Spikeout Final Edition 	Virtua Fighter 3: Team Battle 	vf3tb    
-  Star Wars Trilogy 	Virtua Striker 2 	vs2    
-  Star Wars Trilogy (Revision A) 	Virtua Striker 2 '98 	vs298    
-  The Lost World 	Virtua Striker 2 '99 	vs299    
-  The Ocean Hunter 	Virtua Striker 2 '99.1 	vs2v991  
-  Virtua Fighter 3 (Revision A) 	Virtual On 2: Oratorio Tangram 	 von2  
-  Virtua Fighter 3 (Revision C) 		
-  Virtua Fighter 3 Team Battle 		
-  Virtua Striker 2 '98 (Step 1.5) 		
-  Virtua Striker 2 '98 (Step 2.0) 		
-  Virtua Striker 2 '99 		
-  Virtua Striker 2 '99 (Revision A) 		
-  Virtua Striker 2 '99 (Revision B) 		
-  Virtua Striker 2 '99.1 (Revision B) 		
-  Virtua Striker 2 (Step 1.5) 		
-  Virtua Striker 2 (Step 2.0) 		
-  Virtual On 2: Oratorio Tangram (Revision B) 		
-  Virtual On 2: Oratorio Tangram (ver 5.4g) 		
-
-
-
-
-
-
-
-
-
-
-
-# Model 3 
-
-| Game      | Description |
-| ----------- | ----------- |
-|   | Boat Race GP                        | 
-|  daytona2 | Daytona USA 2                         | 
-| dayto2pe  | Daytona USA 2: Power Edition          | 
-| dirtdvls  | Dirt Devils                           | 
-|  eca | Emergency Call Ambulance              | 
-| fvipers2  | Fighting Vipers 2                     | 
-|  harley | Harley Davidson & L.A. Riders         | 
-|  lamachin | L.A. Machineguns                      | 
-| lemans24  | Le Mans 24                            | 
-| magtruck  | Magical Truck Adventure               | 
-| scud  | Scud Race                             | 
-|  scudplus | Scud Race Plus                        | 
-| bassdx  | Sega Bass Fishing / Get Bass          | 
-|   | Sega Rally 2                          | 
-|   | Ski Champ                             | 
-|   | Spikeout                              | 
-|   | Spikeout: Final Edition               | 
-|   | Star Wars Trilogy Arcade              | 
-| lostwsga  | The Lost World: Jurassic Park         | 
-|   | The Lost World: Jurassic Park Special |  
-|  oceanhun | The Ocean Hunter                      | 
-|   | Virtua Fighter 3                      | 
-|   | Virtua Fighter 3: Team Battle         | 
-|   | Virtua Striker 2                      | 
-|   | Virtua Striker 2 '98                  | 
-|   | Virtua Striker 2 '99                  | 
-|   | Virtua Striker 2 '99.1                | 
-|   | Virtual On 2: Oratorio Tangram        | 
-
-
-
-
-
-bass 
-bassdx 
-dayto2pe 
-daytona2 
-dirtdvls 
-dirtdvlsa 
-dirtdvlsg 
-dirtdvlsj 
-eca 
-ecaj 
-ecap 
-ecau 
-fvipers2 
-fvipers2o 
-getbass 
-harley 
-harleya 
-lamachin 
-lemans24 
-lostwsga 
-lostwsgo 
-magtruck 
-oceanhun 
-scud 
-scuda 
-scudj 
-scudplus 
-scudplusa 
-skichamp 
-spikeofe 
-spikeout 
-srally2 
-srally2p 
-srally2pa 
-srally2x 
-swtrilgy 
-swtrilgya 
-swtrilgyp 
-vf3 
-vf3a 
-vf3c 
-vf3tb 
-von2 
-von254g 
-von2a 
-von2o 
-vs2 
-vs215 
-vs215o 
-vs298 
-vs29815 
-vs299 
-vs29915 
-vs299a 
-vs299b 
-vs2v991 
