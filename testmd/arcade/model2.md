@@ -1,107 +1,60 @@
-# Sega Model 2 
-
+# List Sega Model 2:
+- Merged [List](#merged-list)
+- Non Merged [List](#non-merged-list)
 - List Raw Txt [List Txt](https://github.com/matakko/rom-name/blob/main/txt/model2-name.txt)
 
-  
 | Model 2 | Model 2A-CRX | Model 2B-CRX | Model 2C-CRX |
 |  ------------------  |           ------------------- |  ------------------  |           ------------------ |
 | - Daytona USA (1993) <br /> - Daytona USA Deluxe '93 (1993) <br /> - Desert Tank (1994) <br /> - Virtua Cop (1994) | - Virtua Fighter 2 (1994) <br /> - Manx TT Superbike (1995) <br /> - Sega Rally Championship (1995) <br /> - Sky Target (1995) <br /> - Virtua Cop 2 (1995) <br /> - Dead or Alive (1996) <br /> - Dynamite Cop (1996) <br /> - Virtua Fighter 2.1 (1996) <br /> - Motor Raid (1997) <br /> - Zero Gunner (1997) <br /> - Hanguk Pro Yagu 98 (1998) <br /> - Pilot Kids (1999) <br /> - Air Walkers (unreleased)   | - Fighting Vipers (1995) <br /> - Gunblade NY (1995) <br /> - Indy 500 (1995) <br /> - Rail Chase 2 (1995) <br /> - Virtua Striker (1995) <br /> - Dead or Alive (1996) <br /> - Dynamite Baseball (1996) <br /> - Dynamite Cop (1996) <br /> - Last Bronx (1996) <br /> - Pilot Kids (1999) <br /> - Sonic the Fighters (1996) <br /> - Super GT 24H (1996) <br /> - Cyber Troopers Virtual-On (1996) <br /> - Dynamite Baseball 97 (1997) <br /> - Zero Gunner (1997)  | - Dynamite Cop (1996) <br /> - Over Rev (1997) <br /> - Power Sled (1996) <br /> - Sega Ski Super G (1996) <br /> - Sega Touring Car Championship (1996) <br /> - Sega Water Ski (1996) <br /> - Wave Runner (1996) <br /> - The House of the Dead (1997) <br /> - Top Skater (1997) <br /> - Behind Enemy Lines (1998)
 
 
 
+## Merged List:
+[Back to the Top](#list-sega-model-2)
 
-
-
-
- |  Names                          |     Roms     |
- |  ------------------  | ----------------- |
- |  Behind Enemy Lines            |          |
- |  Cyber Troopers Virtual-On     |          |
- |  Daytona USA                   |          |
- |  Dead or Alive                 |          |
- |  Desert Tank                   |          |
- |  Dynamite Baseball             |          |
- |  Dynamite Baseball 97          |          |
- |  Dynamite Cop                  |          |
- |  Fighting Vipers               |          |
- |  Gunblade NY                   |          |
- |  Indy 500                      |          |
- |  Last Bronx                    |          |
- |  Manx TT Superbike             |          |
- |  Motor Raid                    |          |
- |  Over Rev                      |          |
- |  Pilot Kids                    |          |
- |  Power Sled                    |          |
- |  Rail Chase 2                  |          |
- |  Sega Rally Championship       |          |
- |  Sega Ski Super G              |          |
- |  Sega Touring Car Championship |          |
- |  Sega Water Ski                |          |
- |  Sky Target                    |          |
- |  Sonic the Fighters            |          |
- |  Super GT 24H                  |          |
- |  The House of the Dead         |          |
- |  Top Skater                    |          |
- |  Wave Runner                   |          |
- |  Virtua Cop                    |          |
- |  Virtua Cop 2                  |          |
- |  Virtua Fighter 2              |          |
- |  Virtua Striker                |          |
- |  Zero Gunner                   |          |
-
-
-
-
-
-
-
-OR 
-
-
-
-  |     Roms  |  Names                          
-  ----------- |   -------------------|          
- | bel     |  Behind Enemy Lines            |  
- | von         |  Cyber Troopers Virtual-On     |  
- | daytona     |  Daytona USA                   |  
- | doa     |  Dead or Alive                 |  
- | desert     |  Desert Tank                   |  
- | hotd  |  Dynamite Baseball             |  
- | dynabb97         |  Dynamite Baseball 97          |  
- | dynamcop |  Dynamite Cop                  |  
- | dyndeka2 |                                 |
- | fvipers         |  Fighting Vipers               |  
- | gunblade         |  Gunblade NY                   |  
- | indy500         |  Indy 500                      |  
+ |   Roms    |  Names                         |                     
+ | --------- | ------------------------------ |          
+ | bel       |  Behind Enemy Lines            |  
+ | von       |  Cyber Troopers Virtual-On     |  
+ | daytona   |  Daytona USA                   |  
+ | doa       |  Dead or Alive                 |  
+ | desert    |  Desert Tank                   |  
+ |           |  Dynamite Baseball             |    
+ | dynabb97  |  Dynamite Baseball 97          |  
+ | dynamcop  | Dynamite Cop                   |  
+ | fvipers   |  Fighting Vipers               |  
+ | gunblade  |  Gunblade NY                   |  
+ | indy500   |  Indy 500                      |  
  | lastbrnx  |  Last Bronx                    |  
- | manxtt   |  Manx TT Superbike             |  
- | motoraid |  Motor Raid                    |  
- | overrev  |  Over Rev                      |  
- | pltkids |  Pilot Kids                    |  
- |          |  Power Sled                    |  
- | rchase2  |  Rail Chase 2                  |  
- | srallyc |  Sega Rally Championship       |  
+ | manxtt    |  Manx TT Superbike             |  
+ | motoraid  |  Motor Raid                    |  
+ | overrev   |  Over Rev                      |  
+ | pltkids   |  Pilot Kids                    |  
+ |           |  Power Sled                    |  
+ | rchase2   |  Rail Chase 2                  |  
+ | srallyc   |  Sega Rally Championship       |  
  | skisuprg  |  Sega Ski Super G              |  
- |  stcc  |  Sega Touring Car Championship |  
- | segawski |  Sega Water Ski                |  
- | skytargt |  Sky Target                    |  
- | sfight  |  Sonic the Fighters            |  
- | sgt24h   |  Super GT 24H                  |  
- | hotd |  The House of the Dead         |  
+ | stcc      |  Sega Touring Car Championship |  
+ | segawski  |  Sega Water Ski                |  
+ | skytargt  |  Sky Target                    |  
+ | sfight    |  Sonic the Fighters            |  
+ | sgt24h    |  Super GT 24H                  |  
+ | hotd      |  The House of the Dead         |  
  | topskatr  |  Top Skater                    |  
- |  waverunr   |  Wave Runner                   |  
- | vcop    |  Virtua Cop                    |  
- | vcop2   |  Virtua Cop 2                  |  
- | vf2      |  Virtua Fighter 2              |  
- | vstriker         |  Virtua Striker                |  
- | zerogun      |  Zero Gunner                   |  
-Sonic Championship dyndek2b
+ | waverunr  |  Wave Runner                   |  
+ | vcop      |  Virtua Cop                    |  
+ | vcop2     |  Virtua Cop 2                  |  
+ | vf2       |  Virtua Fighter 2              |  
+ | vstriker  |  Virtua Striker                |  
+ | zerogun   |  Zero Gunner                   |  
 
 
-OR | Model 2 | Model 2A-CRX | Model 2B-CRX | Model 2C-CRX |
+
+## Non Merged List
+[Back to the Top](#list-sega-model-2)
 
  |     Roms    |  System      |    Names                                             |                       
- | ----------- | ------------ | -------------------------------------                |                       
+ | ----------- | ------------ | ---------------------------------------------------- |                       
  | daytona     | Model 2      | Daytona USA                                          |
  | daytona93   | Model 2      | Daytona USA '93 Edition                              |
  | daytonas    | Model 2      | Daytona USA (Saturn Ads)                             |
@@ -144,36 +97,27 @@ OR | Model 2 | Model 2A-CRX | Model 2B-CRX | Model 2C-CRX |
  | lastbrnxj   | Model 2B-CRX | Last Bronx (Jap, Rev A)                              |
  | lastbrnxu   | Model 2B-CRX | Last Bronx (USA, Rev A)                              |
  | overrevb    | Model 2B-CRX | Over Rev (Model 2B)                                  |
- | pltkids     | Model 2B-CRX | Pilot Kids (Model 2B)                           |
- | rchase2     | Model 2B-CRX | Rail Chase 2                         |
- | schamp      | Model 2B-CRX | Sonic Championship                         |
- | sfight      | Model 2B-CRX | Sonic the Fighters                         |
- | sgt24h      | Model 2B-CRX | Super GT 24H                            |
- | vstrikro            | Model 2B-CRX | Virtua Striker                          |
- | vstriker   | Model 2B-CRX | Virtua Striker (Rev A)                          |
- | vonj            | Model 2B-CRX | Cyber Troopers Virtual-On (Japan)         |
- | von            | Model 2B-CRX | Cyber Troopers Virtual-On (USA)         |
- | zerogunj            | Model 2B-CRX | Zero Gunner (Jap, Model 2B)          |
- | zerogun            | Model 2B-CRX | Zero Gunner (Model 2B)                         |
-
-
- | bel         | Model 2C-CRX | Behind Enemy Lines                         |
- | dynmcopc            | Model 2C-CRX | Dynamite Cop (Model 2C)         |
- | hotd | Model 2C-CRX | House of the Dead                         |
- | overrev  | Model 2C-CRX | Over Rev                                |
- | skisuprg | Model 2C-CRX | Sega Ski Super G                        |
- | stcc | Model 2C-CRX | Sega Touring Car Championship           |
- | stcca  | Model 2C-CRX | Sega Touring Car Championship (Rev A)          |
- | stccb  | Model 2C-CRX | Sega Touring Car Championship (Rev B)        |
- | segawski | Model 2C-CRX | Sega Water Ski                         |
- |  topskatr    | Model 2C-CRX | Top Skater                              |
- |  topskatrj           | Model 2C-CRX | Top Skater (Jap)                             |
- |   topskatru    | Model 2C-CRX | Top Skater (USA)                           |
- |   waverunr    | Model 2C-CRX | Wave Runner                                      |
-
-
- |   |          |  Dynamite Baseball             |  
-               
- |   |          |  Power Sled                    |  
- |   |          |  The House of the Dead         |  
- |   |          |  Virtua Cop                    |  
+ | pltkids     | Model 2B-CRX | Pilot Kids (Model 2B)                                |
+ | rchase2     | Model 2B-CRX | Rail Chase 2                                         |
+ | schamp      | Model 2B-CRX | Sonic Championship                                   |
+ | sfight      | Model 2B-CRX | Sonic the Fighters                                   |
+ | sgt24h      | Model 2B-CRX | Super GT 24H                                         |
+ | vstrikro    | Model 2B-CRX | Virtua Striker                                       |
+ | vstriker    | Model 2B-CRX | Virtua Striker (Rev A)                               |
+ | vonj        | Model 2B-CRX | Cyber Troopers Virtual-On (Japan)                    |
+ | von         | Model 2B-CRX | Cyber Troopers Virtual-On (USA)                      |
+ | zerogunj    | Model 2B-CRX | Zero Gunner (Jap, Model 2B)                          |
+ | zerogun     | Model 2B-CRX | Zero Gunner (Model 2B)                               |
+ | bel         | Model 2C-CRX | Behind Enemy Lines                                   |
+ | dynmcopc    | Model 2C-CRX | Dynamite Cop (Model 2C)                              |
+ | hotd        | Model 2C-CRX | House of the Dead                                    |
+ | overrev     | Model 2C-CRX | Over Rev                                             |
+ | skisuprg    | Model 2C-CRX | Sega Ski Super G                                     |
+ | stcc        | Model 2C-CRX | Sega Touring Car Championship                        |
+ | stcca       | Model 2C-CRX | Sega Touring Car Championship (Rev A)                |
+ | stccb       | Model 2C-CRX | Sega Touring Car Championship (Rev B)                |
+ | segawski    | Model 2C-CRX | Sega Water Ski                                       |
+ | topskatr    | Model 2C-CRX | Top Skater                                           |
+ | topskatrj   | Model 2C-CRX | Top Skater (Jap)                                     |
+ | topskatru   | Model 2C-CRX | Top Skater (USA)                                     |
+ | waverunr    | Model 2C-CRX | Wave Runner                                          |
