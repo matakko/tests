@@ -1,8 +1,8 @@
 | Roms      | Version | Games |
 | ----------- | ----------- |-----------| 
 |   | | Boat Race GP                        | 
-|  - daytona  - Test |   | Daytona USA 2             | 
-| dayto2pe  |   | Daytona USA 2: Power Edition          | 
+|  - daytona <br />  - Test |   | Daytona USA 2             | 
+| dayto2pe<br /> bla  |   | Daytona USA 2: Power Edition          | 
 
 
 # Model 3 
