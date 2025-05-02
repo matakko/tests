@@ -4,8 +4,7 @@
 	
 |  NAOMI 2   |  NAOMI 2 GD-ROM   |  NAOMI 2 Satellite Terminal|
 | ---------- | ----------------- | ------------------------------ |
-| | 
-- Beach Spikers: Virtua Beach Volleyball (2001) <br /> - Initial D: Arcade Stage (2002) <br /> - Initial D: Arcade Stage Ver. 2 (2003) <br /> - Initial D Arcade Stage Version 3 (2004) <br /> - Initial D Arcade Stage Version 3 Cycraft Edition <br /> - Virtua Fighter 4 (2001) <br /> - Virtua Fighter 4 Evolution (2002) <br /> - Virtua Fighter 4 Evolution Ver. B (2003) <br /> - Virtua Fighter 4 Final Tuned (2004) <br />  - Virtua Fighter 4 Ver. B (2001) <br /> - Virtua Fighter 4 Ver. C (2002) <br /> - Virtua Striker III (2001) | |
+| | - Beach Spikers: Virtua Beach Volleyball (2001) <br /> - Initial D: Arcade Stage (2002) <br /> - Initial D: Arcade Stage Ver. 2 (2003) <br /> - Initial D Arcade Stage Version 3 (2004) <br /> - Initial D Arcade Stage Version 3 Cycraft Edition <br /> - Virtua Fighter 4 (2001) <br /> - Virtua Fighter 4 Evolution (2002) <br /> - Virtua Fighter 4 Evolution Ver. B (2003) <br /> - Virtua Fighter 4 Final Tuned (2004) <br />  - Virtua Fighter 4 Ver. B (2001) <br /> - Virtua Fighter 4 Ver. C (2002) <br /> - Virtua Striker III (2001) | |
 
 
 
