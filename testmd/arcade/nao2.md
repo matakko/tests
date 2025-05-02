@@ -50,58 +50,58 @@
 
 
 
-| Roms                | CHD                 | Version               | Name                                                  |
-| ------------------- | ------------------- | --------------------- | ----------------------------------------------------- |
-| beachspi  | GDS-0014  |  |  Beach Spikers 
-| clubkrto  |           |  |  Club Kart: European Session 
-| clubk2kp  |           | 2003, prototype |  Club Kart: European Session 
-| clubk2k3  |           | 2003, Rev A |  Club Kart: European Session () 
-| clubkrtc  |           | Rev C |  Club Kart: European Session () 
-| clubkrt   |           | Rev D |  Club Kart: European Session () 
-| clubkprz  |           | Export, Japan |  Club Kart Prize () 
-| clubkpzb  |           | Rev B Export, Japan |  Club Kart Prize Version B () 
-| clubkcyc  | GDS-0029A | Rev A |  Club Kart Cycraft Edition () () 
-| initdexpo | GDS-0025  |  |  Initial D Arcade Stage (Export) () 
-| initdexp  |           |  |  Initial D Arcade Stage (Export) (Rev A) (GDS-0025A) 
-| initdo    |           |  |  Initial D Arcade Stage (Japan) (GDS-0020) 
-| initd     |           |  |  Initial D Arcade Stage (Rev B) (Japan) (GDS-0020B) 
-| initdv2e  |           |  |  Initial D Arcade Stage Ver. 2 (Export) (GDS-0027) 
-| initdv2jo |           |  |  Initial D Arcade Stage Ver. 2 (Japan) (GDS-0026) 
-|           |           |  |  Initial D Arcade Stage Ver. 2 (Japan) (Rev B) (GDS-0026B)
-| initdv3e  |           |  |  Initial D Arcade Stage Ver. 3 (Export) (GDS-0033) 
-| initdv3jb |           |  |  Initial D Arcade Stage Ver. 3 (Japan) (Rev B) (GDS-0032B)
-|           |           |  |  Initial D Arcade Stage Ver. 3 (Japan) (Rev C) (GDS-0032C)
-| inidv3ca  |           |  |  Initial D Arcade Stage Ver. 3 Cycraft Edition (Rev A) (GDS-0039A) 
-| inidv3cy  |           |  |  Initial D Arcade Stage Ver. 3 Cycraft Edition (Rev B) (GDS-0039B) 
-|           |           |  |  Jet Squadron
-| kingrt66  |           |  |  The King of Route 66 (Rev A) 
-| gundcb79  |           |  |  Mobile Suit Gundam 0079 Card Builder (CDV-10010) 
-| gundcb79a |           |  |  Mobile Suit Gundam 0079 Card Builder Ver.2.02 (CDV-10024B) 
-| gundcb83  |           |  |  Mobile Suit Gundam 0083 Card Builder (CDV-10030) 
-| gundcb83a |           |  |  Mobile Suit Gundam 0083 Card Builder Check Disk (CDV-10031) 
-| gundcb83b |           |  |  Mobile Suit Gundam 0083 Card Builder Ver.2.10 (CDV-10037B) 
-| sgdrvsim  |           |  |  Sega Driving Simulator
-| soulsurf  |           |  |  Soul Surfer (Rev A) 
-| vf4o      |           |  |  Virtua Fighter 4 (GDS-0012) 
-|           |           |  |  Virtua Fighter 4 (Rev B) (GDS-0012B) 
-| vf4cart   |           |  |  Virtua Fighter 4 (World) 
-| vf4       |           |  |  Virtua Fighter 4 Version C (GDS-0012C) 
-|           |           |  |  Virtua Fighter 4 Evolution (Japan) (GDS-0024A) 
-| vf4evo    |           |  |  Virtua Fighter 4 Evolution (Version B) (Japan) (GDS-0024B)
-| vf4evoct  |           |  |  Virtua Fighter 4 Evolution (World) 
-|           |           |  |  Virtua Fighter 4 Final Tuned (GDS-0036A) 
-|           |           |  |  Virtua Fighter 4 Final Tuned (Ver. A) (GDS-0036D) 
-| vf4tuned  |           |  |  Virtua Fighter 4 Final Tuned (Ver. B) (GDS-0036F) 
-| vstrik3   |           |  |  Virtua Striker 3 (GDS-0006) 
-| vstrik3co |           |  |  Virtua Striker 3 (World)
-| vstrik3c  |           |  |  Virtua Striker 3 (World, Rev B) 
-| wldrider  |           |  |  Wild Riders
-| wccf310j  |           |  |  World Club Champion Football European Clubs 2004-2005 (Japan) (CDV-10013) 
-| wccf331e  |           |  |  World Club Champion Football European Clubs 2004-2005 Ver.1.1 (Export) (CDV-10015)
-| wccf322e  |           |  |  World Club Champion Football European Clubs 2004-2005 Ver.3.22 (Export) (CDV-10015P)
-| wccf420e  |           |  |  World Club Champion Football European Clubs 2005-2006 (Export) (CDV-10027)
-| wccf1dup  |           |  |  World Club Champion Football Serie A 2001-2002 DIMM FIRM Ver.3.03 (CDP-10003)
-| wccf116   |           |  |  World Club Champion Football Serie A 2001-2002 Ver.2 (Japan) (CDP-10001C)
-| wccf2chk  |           |  |  World Club Champion Football Serie A 2002-2003 Drive Checker (CDV-10007)
-| wccf212e  |           | Export |  World Club Champion Football Serie A 2002-2003 Ver.2.12 () (CDV-10002)
-| wccf234j  |           | Japan |  World Club Champion Football Serie A 2002-2003 Ver.2.34 () (CDV-10008)
+| Roms      | CHD        | Version              | Name                                                                |
+| --------- | ---------- | -------------------- | ------------------------------------------------------------------- |
+| beachspi  | GDS-0014   |                      |  Beach Spikers                                                      |
+| clubkrto  |            |                      |  Club Kart: European Session                                        |
+| clubk2kp  |            | 2003, prototype      |  Club Kart: European Session                                        |
+| clubk2k3  |            | Rev A, 2003          |  Club Kart: European Session                                        |
+| clubkrtc  |            | Rev C                |  Club Kart: European Session                                        |
+| clubkrt   |            | Rev D                |  Club Kart: European Session                                        |
+| clubkprz  |            | Export, Japan        |  Club Kart Prize                                                    |
+| clubkpzb  |            | Rev B, Export, Japan |  Club Kart Prize Ver. B                                             |
+| clubkcyc  | GDS-0029A  | Rev A                |  Club Kart Cycraft Edition                                          |
+| initdexpo | GDS-0025   | Export               |  Initial D Arcade Stage                                             |
+| initdexp  | GDS-0025A  | Rev A, Export        |  Initial D Arcade Stage                                             |
+| initdo    | GDS-0020   | Japan                |  Initial D Arcade Stage                                             |
+| initd     | GDS-0020B  | Rev B, Japan         |  Initial D Arcade Stage Ver. B                                      |
+| initdv2e  | GDS-0027   | Export               |  Initial D Arcade Stage Version 2                                   |
+| initdv2jo | GDS-0026   | Japan                |  Initial D Arcade Stage Version 2                                   |
+|           | GDS-0026B  | Rev B, Japan         |  Initial D Arcade Stage Version 2                                   |
+| initdv3e  | GDS-0033   | Export               |  Initial D Arcade Stage Version 3                                   |
+| initdv3jb | GDS-0032B  | Rev B, Japan         |  Initial D Arcade Stage Version 3                                   |
+|           | GDS-0032C  | Rev C, Japan         |  Initial D Arcade Stage Version 3                                   |
+| inidv3ca  | GDS-0039A  | Rev A                |  Initial D Arcade Stage Version 3 Cycraft Edition                   |
+| inidv3cy  | GDS-0039B  | Rev B                |  Initial D Arcade Stage Version 3 Cycraft Edition                   |
+|           |            |                      |  Jet Squadron                                                       |
+| kingrt66  |            | Rev A                |  The King of Route 66                                               |
+| gundcb79  | CDV-10010  |                      |  Mobile Suit Gundam 0079 Card Builder                               |
+| gundcb79a | CDV-10024B |                      |  Mobile Suit Gundam 0079 Card Builder Ver.2.02                      |
+| gundcb83  | CDV-10030  |                      |  Mobile Suit Gundam 0083 Card Builder                               |
+| gundcb83a | CDV-10031  |                      |  Mobile Suit Gundam 0083 Card Builder Check Disk                    |
+| gundcb83b | CDV-10037B |                      |  Mobile Suit Gundam 0083 Card Builder Ver.2.10                      |
+| sgdrvsim  |            |                      |  Sega Driving Simulator                                             |
+| soulsurf  |            | Rev A                |  Soul Surfer                                                        |
+| vf4o      | GDS-0012   |                      |  Virtua Fighter 4                                                   |
+|           | GDS-0012B  | Rev B                |  Virtua Fighter 4 Ver. B                                            |
+| vf4cart   |            | World                |  Virtua Fighter 4                                                   |
+| vf4       | GDS-0012C  | Rev C                |  Virtua Fighter 4 Ver. C                                            |
+|           | GDS-0024A  | Japan                |  Virtua Fighter 4 Evolution                                         |
+| vf4evo    | GDS-0024B  | Rev B, Japan         |  Virtua Fighter 4 Evolution Ver. B                                  |
+| vf4evoct  |            | World                |  Virtua Fighter 4 Evolution                                         |
+|           | GDS-0036A  |                      |  Virtua Fighter 4 Final Tuned                                       |
+|           | GDS-0036D  | Rev A                |  Virtua Fighter 4 Final Tuned Ver. A                                |
+| vf4tuned  | GDS-0036F  | Rev B                |  Virtua Fighter 4 Final Tuned Ver. B                                |
+| vstrik3   | GDS-0006   |                      |  Virtua Striker 3                                                   |
+| vstrik3co |            | World                |  Virtua Striker 3                                                   |
+| vstrik3c  |            | Rev B, World         |  Virtua Striker 3                                                   |
+| wldrider  |            |                      |  Wild Riders                                                        |
+| wccf310j  | CDV-10013  | Japan                |  World Club Champion Football European Clubs 2004-2005              |
+| wccf331e  | CDV-10015  | Export               |  World Club Champion Football European Clubs 2004-2005 Ver.1.1      |
+| wccf322e  | CDV-10015P | Export               |  World Club Champion Football European Clubs 2004-2005 Ver.3.22     |
+| wccf420e  | CDV-10027  | Export               |  World Club Champion Football European Clubs 2005-2006              |
+| wccf1dup  | CDP-10003  |                      |  World Club Champion Football Serie A 2001-2002 DIMM FIRM Ver.3.03  |
+| wccf116   | CDP-10001C | Japan                |  World Club Champion Football Serie A 2001-2002 Ver.2               |
+| wccf2chk  | CDV-10007  |                      |  World Club Champion Football Serie A 2002-2003 Drive Checker       |
+| wccf212e  | CDV-10002  | Export               |  World Club Champion Football Serie A 2002-2003 Ver.2.12            |
+| wccf234j  | CDV-10008  | Japan                |  World Club Champion Football Serie A 2002-2003 Ver.2.34            |
