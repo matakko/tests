@@ -1,3 +1,22 @@
+Model 2 	                         Model 2A CRX 	                        Model 2B CRX 	                                Model 2C CRX 
+Daytona USA (1993)                       Air Walkers (1996)	                Dead or Alive (1996)			        Behind Enemy Lines (1998)
+Daytona USA: GTX 2004 Edition (2003)	 Dead or Alive (1996)		        Dynamite Cop / Dynamite Dekka 2 (1997)	        Dynamite Cop / Dynamite Dekka 2 (1997)
+Daytona USA: To The Maxx (2001)          Dynamite Cop / Dynamite Dekka 2 (1997)	Dynamite Baseball (1996)	        	Over Rev (1997)
+Daytona USA: Turbo (1994)		 Manx TT Superbike (1995)		Dynamite Baseball 97 (1997)		        Power Sled (1996)
+Desert Tank (1994)                       Motor Raid (1997)			Fighting Vipers (1995)	        	        Sega Ski Super G (1996)
+Virtua Cop (1994)                        Pilot Kids (1998)		        Gunblade NY: Special Air Assault Force (1995)	Sega Touring Car Championship (1996)
+                                         Sega Rally Championship (1995)     	Indy 500 (1995)	        	                Sega Water Ski (1997)
+                                         Sega Rally Pro Drivin' (1995)       	Last Bronx / Tokyo Bangaichi (1996)	        The House of the Dead (1997)
+                                         Sky Target (1995)		        Pilot Kids (1998)	        	        Top Skater (1997)
+                                         Virtua Cop 2 (1995)                 	Rail Chase 2 (1994)	        	        Wave Runner (1996)
+                                         Virtua Fighter 2 (1994)       	    	Sonic The Fighters / Sonic Championship (1996)	
+                                         Virtua Fighter 2.1 (1995)       	Super GT 24H (1996)	
+                                         Zero Gunner (1997)       	        Virtua Striker (1994)	
+                                         Virtual On: Cyber Troopers (1996)	
+                                         Zero Gunner (1997)	
+
+
+
 # Sega Model 2 Merged List : 
 
    Roms        Names                                              
