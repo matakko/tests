@@ -89,12 +89,12 @@
 |           | GDS-0012B  | Rev B                |  Virtua Fighter 4 Ver. B                                            |
 | vf4cart   |            | World                |  Virtua Fighter 4                                                   |
 | vf4       | GDS-0012C  | Rev C                |  Virtua Fighter 4 Ver. C                                            |
-|           | GDS-0024A  | Japan                |  Virtua Fighter 4 Evolution                                         |
+| vf4evoa   | GDS-0024A  | Japan                |  Virtua Fighter 4 Evolution                                         |
 | vf4evo    | GDS-0024B  | Rev B, Japan         |  Virtua Fighter 4 Evolution Ver. B                                  |
 | vf4evoct  |            | World                |  Virtua Fighter 4 Evolution                                         |
-|           | GDS-0036A  |                      |  Virtua Fighter 4 Final Tuned                                       |
-|           | GDS-0036D  | Rev A                |  Virtua Fighter 4 Final Tuned Ver. A                                |
-| vf4tuned  | GDS-0036F  | Rev B                |  Virtua Fighter 4 Final Tuned Ver. B                                |
+| vf4tuneda | GDS-0036A  | Rev A                |  Virtua Fighter 4 Final Tuned                                       |
+| vf4tunedd | GDS-0036D  | Rev D                |  Virtua Fighter 4 Final Tuned Ver. A                                |
+| vf4tuned  | GDS-0036F  | Rev F                |  Virtua Fighter 4 Final Tuned Ver. B                                |
 | vstrik3   | GDS-0006   |                      |  Virtua Striker 3                                                   |
 | vstrik3co |            | World                |  Virtua Striker 3                                                   |
 | vstrik3c  |            | Rev B, World         |  Virtua Striker 3                                                   |
