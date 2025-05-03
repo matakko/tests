@@ -7,66 +7,30 @@
 | - Club Kart (2001) <br /> - Club Kart: European Session (2002) <br /> - Club Kart Cycraft (2003) <br /> - Club Kart Prize (2003) <br /> - Jet Squadron (2000) <br /> - King of Route 66 (2002) <br /> - Sega Driving Simulator (2002) <br /> - Soul Surfer (2002) <br /> - Virtua Fighter 4 (2001) * <br /> - Virtua Fighter 4 Evolution (2002) * <br /> - Virtua Fighter 4 Final Tuned (2004) * <br /> - Virtua Striker III (2001) * <br /> - Wild Riders (2001) | - Beach Spikers: Virtua Beach Volleyball (2001) <br /> - Initial D: Arcade Stage (2002) <br /> - Initial D: Arcade Stage Ver. 2 (2003) <br /> - Initial D Arcade Stage Version 3 (2004) <br /> - Initial D Arcade Stage Version 3 Cycraft Edition (2005) <br /> - Virtua Fighter 4 (2001) * <br /> - Virtua Fighter 4 Evolution (2002) * <br /> - Virtua Fighter 4 Evolution Ver. B (2003) <br /> - Virtua Fighter 4 Final Tuned (2004) * <br />  - Virtua Fighter 4 Ver. B (2001) <br /> - Virtua Fighter 4 Ver. C (2002) <br /> - Virtua Striker III (2001) * | - World Club Champion Football European Clubs 2004-2005 (2005) <br /> - World Club Champion Football European Clubs 2005-2006 (2006) <br /> - World Club Champion Football Serie A 2001-2002 (2002) <br /> - World Club Champion Football Serie A 2001-2002 Ver.2 (2003) <br /> - World Club Champion Football Serie A 2002-2003 (2003) <br /> - World Club Champion Football Serie A 2002-2003 Ver.2 (2004) |
  * = Released on both Cartridge and GD-ROM . 
 
-
-
-
-|	Roms	| GD ROM    | Names  |
-| ----------------------------- | ----------------------------- | ----------------------- |
-| beachspi           |          GDS-0014  | Beach Spikers (2001)                                         |
-| clubkrt            |                    | Club Kart (2001)                                             |
-| clubk2k3           |                    | Club Kart: European Session (2002)                           |
-| clubkcyc           |          GDS-0029A | Club Kart Cycraft (2003)                                     |
-| clubkprz           |                    | Club Kart Prize (2003)                                       |
-| initd              |          GDS-0020B | Initial D Arcade Stage (2002)                                |
-| initdv2j           |          GDS-0026B | Initial D : Arcade Stage 2 (2003)                            |
-| initdv3j           |          GDS-0032C | Initial D : Version 3 (2004)                                 |
-| inidv3cy           |          GDS-0039B | Initial D : Version 3 Cycraft (2005)                         |
-|                    |            | Jet Squadron (2000)                                          |
-| kingrt66           |            | King of Route 66 (2002)                                      |
-| sgdrvsim           |            | Sega Driving Simulator (2002)                                |
-| soulsurf           |            | Soul Surfer (2002)                                           |
-| vf4cart <br /> vf4 | . <br /> GDS-0012C | Virtua Fighter 4 (2001) <br />  Virtua Fighter 4 Ver. C (2002) |
-| vf4evoct    |            | Virtua Fighter 4 Evolution (2002)                            |
-| vf4evo      | GDS-0024C   | Virtua Fighter 4 Evolution Ver. B (2003)                     |
-| vf4tuned    | GDS-0036F   | Virtua Fighter 4 Final Tuned (2004)                          |
-|             |            | Virtua Fighter 4 Ver. B (2001)                               |
-
-| vstrik3c <br />     |            | Virtua Striker III (2001)                                    |
-| vstrik3     | GDS-0006           |                       | 
-| wldrider    |            | Wild Riders (2001)                                           |
-	
+## Merged list
 [Back to the Top](#naomi-2)	
-|	Roms	| Names  |
-| ----------------------------- | ----------------------------- |
-|     | Beach Spikers (2001)                                         |
-|     | Club Kart (2001)                                             |
-|     | Club Kart: European Session (2002)                           |
-|     | Club Kart Cycraft (2003)                                     |
-|     | Club Kart Prize (2003)                                       |
-|     | Initial D Arcade Stage (2002)                                |
-|     | Initial D : Arcade Stage 2 (2003)                            |
-|     | Initial D : Version 3 (2004)                                 |
-|     | Initial D : Version 3 Cycraft (2005)                         |
-|     | Jet Squadron (2000)                                          |
-|     | King of Route 66 (2002)                                      |
-|     | Mobile Suit Gundam 0079 Card Builder (2005)                  |
-|     | Mobile Suit Gundam 0083 Card Builder (2007)                  |
-|     | Sega Driving Simulator (2002)                                |
-|     | Soul Surfer (2002)                                           |
-|     | Virtua Fighter 4 (2001)                                      |
-|     | Virtua Fighter 4 Evolution (2002)                            |
-|     | Virtua Fighter 4 Evolution Ver. B (2003)                     |
-|     | Virtua Fighter 4 Final Tuned (2004)                          |
-|     | Virtua Fighter 4 Ver. B (2001)                               |
-|     | Virtua Fighter 4 Ver. C (2002)                               |
-|     | Virtua Striker III (2001)                                    |
-|     | Wild Riders (2001)                                           |
-|     | World Club Champion Football European Clubs 2004-2005 (2005) |
-|     | World Club Champion Football European Clubs 2005-2006 (2006) |
-|     | World Club Champion Football Serie A 2001-2002 (2002)        |
-|     | World Club Champion Football Serie A 2001-2002 Ver.2 (2003)  |
-|     | World Club Champion Football Serie A 2002-2003 (2003)        |
-|     | World Club Champion Football Serie A 2002-2003 Ver.2 (2004)  |
+
+|	Roms	| GD ROM    | Names                                        |         
+| --------- | --------- | -------------------------------------------- | 
+| beachspi  | GDS-0014  | Beach Spikers (2001)                         |
+| clubk2k3  |           | Club Kart: European Session (2003)           |
+| clubkcyc  | GDS-0029A | Club Kart Cycraft (2003)                     |
+| clubkprz  |           | Club Kart Prize (2003)                       |
+| initd     | GDS-0020B | Initial D Arcade Stage (2002)                |
+| initdv2j  | GDS-0026B | Initial D : Arcade Stage 2 (2003)            |
+| initdv3j  | GDS-0032C | Initial D : Version 3 (2004)                 |
+| inidv3cy  | GDS-0039B | Initial D : Version 3 Cycraft (2005)         |
+| kingrt66  |           | King of Route 66 (2002)                      |
+| sgdrvsim  |           | Sega Driving Simulator (2002)                |
+| soulsurf  |           | Soul Surfer (2002)                           |
+| vf4cart   |           | Virtua Fighter 4 (2001)                      |
+| vf4       | GDS-0012C | Virtua Fighter 4 Ver. C (2002)               |
+| vf4evoct  |           | Virtua Fighter 4 Evolution (2002)            |
+| vf4evo    | GDS-0024C | Virtua Fighter 4 Evolution Ver. B (2003)     |
+| vf4tuned  | GDS-0036F | Virtua Fighter 4 Final Tuned (2004)          |
+| vstrik3c  |           | Virtua Striker III (2001)                    |
+| vstrik3   | GDS-0006  | Virtua Striker III (2001)                    |
+| wldrider  |           | Wild Riders (2001)                           |
 
 
 
