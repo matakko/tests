@@ -87,10 +87,10 @@
 | kingrt66  | naomi2   |            | Rev A                   |  The King of Route 66                                               |
 | kingrt66p | kingrt66 |            | Prototype               |  The King of Route 66                                               |
 | gundcb79  |          | CDV-10010  |                         |  Mobile Suit Gundam 0079 Card Builder                               |
-| gundcb79a |          | CDV-10024B | Ver.2.02                |  Mobile Suit Gundam 0079 Card Builder                               |
+| gundcb79a |          | CDV-10024B | Ver.2.02                |  Mobile Suit Gundam 0079 Card Builder Ver.2.02                      |
 | gundcb83  |          | CDV-10030  |                         |  Mobile Suit Gundam 0083 Card Builder                               |
-| gundcb83a |          | CDV-10031  | Ver.2.1                 |  Mobile Suit Gundam 0083 Card Builder Check Disk                    |
-| gundcb83b |          | CDV-10037B |                         |  Mobile Suit Gundam 0083 Card Builder                               |
+| gundcb83a |          | CDV-10031  |                         |  Mobile Suit Gundam 0083 Card Builder Check Disk                    |
+| gundcb83b |          | CDV-10037B | Ver.2.10                |  Mobile Suit Gundam 0083 Card Builder Ver.2.10                      |
 | sgdrvsim  | naomi2   |            |                         |  Sega Driving Simulator                                             |
 | soulsurf  | naomi2   |            | Rev A                   |  Soul Surfer                                                        |
 | vf4       | naomi2   | GDS-0012C  | Rev C                   |  Virtua Fighter 4 Ver. C                                            |
@@ -110,8 +110,14 @@
 | wldrider  | naomi2   |            |                         |  Wild Riders                                                        |
 | wccf310j  |          | CDV-10013  | Japan                   |  World Club Champion Football European Clubs 2004-2005              |
 | wccf331e  |          | CDV-10015  | Ver.1.1, Export         |  World Club Champion Football European Clubs 2004-2005 Ver.1.1      |
+| wccf331j  |          | CDV-10020  | Ver.1.1, Japan          |  World Club Champion Football European Clubs 2004-2005 Ver.1.1      |
+| wccf341j  |          | CDV-10021  | Ver.1.2, Japan          |  World Club Champion Football European Clubs 2004-2005 Ver.1.2      |
 | wccf322e  |          | CDV-10015P | Ver.3.22, Export        |  World Club Champion Football European Clubs 2004-2005 Ver.3.22     |
+| wccf400j  |          | CDV-10025  | Japan                   |  World Club Champion Football European Clubs 2005-2006              |
 | wccf420e  |          | CDV-10027  | Export                  |  World Club Champion Football European Clubs 2005-2006              |
 | wccf1dup  |          | CDP-10003  | Ver.3.03                |  World Club Champion Football Serie A 2001-2002 DIMM FIRM Ver.3.03  |
 | wccf116   |          | CDP-10001C | Ver.2, Japan            |  World Club Champion Football Serie A 2001-2002 Ver.2               |
 | wccf2chk  |          | CDV-10007  |                         |  World Club Champion Football Serie A 2002-2003 Drive Checker       |
+| wccf212e  |          | CDV-10002  | Ver.2.12, Italy         |  World Club Champion Football Serie A 2002-2003 Ver.2.12            |
+| wccf234j  |          | CDV-10008  | Ver.2.34, Japan         |  World Club Champion Football Serie A 2002-2003 Ver.2.34            |
+
