@@ -119,3 +119,76 @@ Thomas The Tank Engine
              Oshare Majo: Love and Berry - 3rd, 4th & 5th Collection
    tetgiant          Tetris Dekaris / Tetris Giant (2009)
              Thomas The Tank Engine
+
+
+
+		 
+			 
+dinoki4 	Ancient Ruler Dinosaur King - Wake up! New Power!! (Japan)
+bingogals	Bingo Galaxy (main)
+bingogals	Bingo Galaxy (satellite)
+brickppl	Brick People / Block PeePoo (Ver 1.002)
+dinoki25	Dinosaur King - D-Team VS. the Alpha Fortress (Export)
+dinokior	Dinosaur King - Operation: Dinosaur Rescue (USA, Export)
+dinoking	Dinosaur King (USA)
+huhimage	Heat Up Hockey Image
+isshoni 	Isshoni Wanwan Waiwai Puppy 2008
+dinokich	Konglongwang - D-Kids VS Alpha Yaosai (China)
+lovebery	Love And Berry - 1st-2nd Collection (Export)
+lovebero	Love And Berry - 1st-2nd Collection (Export, v1.003)
+loveber3cn	Love And Berry - 3rd-5th Collection (China)
+loveber3	Love And Berry - 3rd-5th Collection (USA, Export)
+magicpop	Magical Poppins
+manpuku  	Manpuku Suizokukan
+ochaken	    Ocha-Ken Hot Medal
+puyomedal	Puyo Puyo! The Medal Edition
+tetgiant	Tetris Giant / Tetris Dekaris
+tetgiano	Tetris Giant / Tetris Dekaris
+unomedal	UNO the Medal
+westdrmg	Western Dream Gold
+kingyo  	Yataimura Kingyosukui
+kingyoch	Yataimura Kingyosukui (China)
+shateki 	Yataimura Shateki
+
+			 
+Game	Status	Rom Name	 Rom Name	CHD	Card Reader
+Ancient Ruler Dinosaur King - Wake up! New Power!! (Japan)	Playable	dinoki4		Yes	Yes
+Bingo Galaxy (main)	Endless Lan Initialization	bingogals		No	-
+Bingo Galaxy (satellite)	Endless Lan Initialization	bingogals		No	-
+Brick People / Block PeePoo (Ver 1.002)	Japanese Text Error	brickppl		No	-
+Dinosaur King - D-Team VS. the Alpha Fortress (Export)	Playable	dinoki25		Yes	Yes
+Dinosaur King - Operation: Dinosaur Rescue (USA, Export)	Playable	dinokior		Yes	Yes
+Dinosaur King (USA)	Playable	dinoking		No	Yes
+Heat Up Hockey Image	ERROR NO. 1501	huhimage		Yes	-
+Isshoni Wanwan Waiwai Puppy 2008	Playable	isshoni		No	Yes
+Konglongwang - D-Kids VS Alpha Yaosai (China)	Not Dumped?	dinokich	dinoki25	-	-
+Love And Berry - 1st-2nd Collection (Export)	Playable	lovebery		No	Yes
+Love And Berry - 1st-2nd Collection (Export, v1.003)	Not Dumped?	lovebero	lovebery	-	-
+Love And Berry - 3rd-5th Collection (China)	Not Dumped?	loveber3cn	loveber3	-	-
+Love And Berry - 3rd-5th Collection (USA, Export)	Playable	loveber3		Yes	Yes
+Magical Poppins	Error Mode	magicpop		No	-
+Manpuku Suizokukan	Hopper Is Not Connected	manpuku		No	-
+Ocha-Ken Hot Medal	Error Mode	ochaken		No	-
+Puyo Puyo! The Medal Edition	Error Mode	puyomedal		No	-
+Tetris Giant / Tetris Dekaris	Playable	tetgiant		Yes	No
+Tetris Giant / Tetris Dekaris	Not Dumped?	tetgiano	tetgiant	-	-
+UNO the Medal	Error Mode	unomedal		No	-
+Western Dream Gold	Error Mode	westdrmg		No	-
+Yataimura Kingyosukui	Hopper Is Not Connected	kingyo		Yes	-
+Yataimura Kingyosukui (China)	Not Dumped?	kingyoch		-	-
+Yataimura Shateki	Hopper Is Not Connected	shateki		No	-
+					
+System SP Games?					
+Battle Police	Not Dumped?				
+Beetle DASH!	Not Dumped?				
+Dinosaur King 2	Not Dumped?				
+Disney Magical Dance	Not Dumped?				
+Future Police Patrol Chase	Not Dumped?				
+Issyouni Turbo Drive	Not Dumped?				
+King of Beetle: Battle Terminal	Not Dumped?				
+Marine & Marine	Not Dumped?				
+Mirage World	Not Dumped?				
+Monopoly: The Medal	Not Dumped?				
+MushiKing 2k6 2nd	Not Dumped?				
+MushiKing 2k7 1st	Not Dumped?				
+Thomas The Tank Engine	Not Dumped?				
