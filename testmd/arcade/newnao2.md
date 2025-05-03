@@ -2,7 +2,7 @@
 
 
 	
-| [NAOMI 2 Cartridge](#naomi-2-cartridge)()  |  [NAOMI 2 GD-ROM](#naomi-2-gd-rom)   |  [NAOMI 2 Satellite Terminal](naomi-2-satellite-terminal)|
+| [NAOMI 2 Cartridge](#naomi-2-cartridge)  |  [NAOMI 2 GD-ROM](#naomi-2-gd-rom)   |  [NAOMI 2 Satellite Terminal](naomi-2-satellite-terminal)|
 | ---------- | ----------------- | ------------------------------ |
 | - Club Kart (2001) <br /> - Club Kart: European Session (2002) <br /> - Club Kart Cycraft (2003) <br /> - Club Kart Prize (2003) <br /> - Jet Squadron (2000) <br /> - King of Route 66 (2002) <br /> - Sega Driving Simulator (2002) <br /> - Soul Surfer (2002) <br /> - Virtua Fighter 4 (2001) * <br /> - Virtua Fighter 4 Evolution (2002) * <br /> - Virtua Fighter 4 Final Tuned (2004) * <br /> - Virtua Striker III (2001) * <br /> - Wild Riders (2001) | - Beach Spikers: Virtua Beach Volleyball (2001) <br /> - Initial D: Arcade Stage (2002) <br /> - Initial D: Arcade Stage Ver. 2 (2003) <br /> - Initial D Arcade Stage Version 3 (2004) <br /> - Initial D Arcade Stage Version 3 Cycraft Edition (2005) <br /> - Virtua Fighter 4 (2001) * <br /> - Virtua Fighter 4 Evolution (2002) * <br /> - Virtua Fighter 4 Evolution Ver. B (2003) <br /> - Virtua Fighter 4 Final Tuned (2004) * <br />  - Virtua Fighter 4 Ver. B (2001) <br /> - Virtua Fighter 4 Ver. C (2002) <br /> - Virtua Striker III (2001) * | - World Club Champion Football European Clubs 2004-2005 (2005) <br /> - World Club Champion Football European Clubs 2005-2006 (2006) <br /> - World Club Champion Football Serie A 2001-2002 (2002) <br /> - World Club Champion Football Serie A 2001-2002 Ver.2 (2003) <br /> - World Club Champion Football Serie A 2002-2003 (2003) <br /> - World Club Champion Football Serie A 2002-2003 Ver.2 (2004) |
  * = Released on both Cartridge and GD-ROM . 
@@ -35,7 +35,7 @@
 | vstrik3     | GDS-0006           |                       | 
 | wldrider    |            | Wild Riders (2001)                                           |
 	
-		
+[Back to the Top](#naomi-2)	
 |	Roms	| Names  |
 | ----------------------------- | ----------------------------- |
 |     | Beach Spikers (2001)                                         |
@@ -118,7 +118,7 @@
 | initdv2ja | initdv2j | GDS-0026A  | Rev A,Japan             |  Initial D Arcade Stage Version 2                                   |
 | initdv2jo | initdv2j | GDS-0026   | Japan                   |  Initial D Arcade Stage Version 2                                   |
 | initdv3e  | naomi2   | GDS-0033   | Export                  |  Initial D Arcade Stage Version 3                                   |
-| initdv3j  | naomi2   | GDS-0032C  | Rev C,Japan             |  Initial D Arcade Stage Version 3                                   |
+| initdv3j  | naomi2   | GDS-0032C  | Rev C, Japan            |  Initial D Arcade Stage Version 3                                   |
 | initdv3jb | initdv3j | GDS-0032B  | Rev B, Japan            |  Initial D Arcade Stage Version 3                                   |
 | inidv3ca  | inidv3cy | GDS-0039A  | Rev A                   |  Initial D Arcade Stage Version 3 Cycraft Edition                   |
 | inidv3cy  | naomi2   | GDS-0039B  | Rev B                   |  Initial D Arcade Stage Version 3 Cycraft Edition                   |
