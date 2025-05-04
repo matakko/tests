@@ -15,9 +15,9 @@
 chihiro.zip  <br />
 `chihiro_xbox_bios.bin    `<br />
 `fpr21042_m29w160et.bin   `<br />
-`ic10_g24lc64.bin   `<br />
-`ic11_24lc024.bin   `<br />
-`pc20_g24lc64.bin   `<br />
+`ic10_g24lc64.bin         `<br />
+`ic11_24lc024.bin         `<br />
+`pc20_g24lc64.bin         `<br />
 
 # Roms List
 
