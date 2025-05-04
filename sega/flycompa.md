@@ -6,7 +6,7 @@
 # Atomiswave 
  [back to Menu](#compatibility)  
 
-| Name                                                                | Roms         | Parent    |  Version / Region      | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                                                                                         | 
+| Name                                                                | Roms         | Parent    |  Version / Region      | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES---------------                                                                      | 
 | ------------------------------------------------------------------- | ---------    | --------  |  --------------------- | ----------------- | ------------ | ----------------- | --------------------------------------------------------------------------------------------- | 
 | Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskt     |	awbios   | 24 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
 | Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskta    |	anmlbskt | 19 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
@@ -56,7 +56,7 @@
 ## NAOMI 2 Cartridge:
 [Back to the Top](#naomi-2)
 
- | Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   | 
+ | Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES---------------                   | 
  | ------------------------------------------------------------------- | --------- | -------- | ---------- |  ----------------------- | ----------------- | ------------ | ----------------- | ----------------------- |
  |  Club Kart: European Session                                        | clubkrt   | naomi2   |   No       |  Rev D                   |   ???             | ???          | ???               |  ???                    |
  |  Club Kart: European Session                                        | clubkrta  | clubkrt  |   No       |  Rev A                   |   ???             | ???          | ???               |  ???                    |
@@ -84,7 +84,7 @@
 ## NAOMI 2 GD-ROM
 [Back to the Top](#naomi-2)																										
 																										
-|  Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   | 
+|  Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES---------------                   | 
 |  ------------------------------------------------------------------- | --------- | -------- | ---------- |  ----------------------- | ----------------- | ------------ | ----------------- | ----------------------- |
 |  Beach Spikers                                                       | beachspi  | naomi2   | GDS-0014   |                          |   ???             | ???          | Perfect           | 02065A7C 44558000       |
 |  Club Kart Cycraft Edition                                           | clubkcyc  | naomi2   | GDS-0029A  | Rev A                    |   ???             | ???          | ???               | ???                     |
@@ -117,7 +117,7 @@
 ## NAOMI 2 Satellite Terminal
 [Back to the Top](#naomi-2)
 																																	
-|  Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   | 
+|  Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES---------------                   | 
 |  ------------------------------------------------------------------- | --------- | -------- | ---------- |  ----------------------- | ----------------- | ------------ | ----------------- | ----------------------- |
 |  World Club Champion Football European Clubs 2004-2005               | wccf310j  |          | CDV-10013  | Japan                    |   ???             | ???          | ???               |  ???                    |
 |  World Club Champion Football European Clubs 2004-2005 Ver.1.1       | wccf331e  |          | CDV-10015  | Ver.1.1, Export          |   ???             | ???          | ???               |  ???                    |
