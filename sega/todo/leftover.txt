@@ -1,4 +1,3 @@
-
 | romset       |	parent          |
 | 18wheelr     |	naomi           |
 | 18wheelro    |	18wheelr        |
@@ -100,7 +99,6 @@
 | puyoda       |	naomi           |
 | qmegamis     |	naomi           |
 | radirgyn     |	naomi           |
-| radirgyo     |	radirgy         |
 | rhytngk      |	naomi           |
 | ringout      |	naomi           |
 | ringouto     |	ringout         |
@@ -137,7 +135,6 @@
 | smarinef     |	naomi           |
 | smlg99       |	naomi           |
 | spawn        |	naomi           |
-| ss2005o      |	ss2005          |
 | sstrkfgt     |	naomi           |
 | sstrkfgta    |	sstrkfgt        |
 | suchie3      |	naomi           |
@@ -170,4 +167,3 @@
 | zombrvne     |	zombrvn         |
 | zombrvno     |	zombrvn         |
 | zunou        |	naomi           |
-|              |	                |
