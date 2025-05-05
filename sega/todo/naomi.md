@@ -3,124 +3,166 @@ Naomi
 
 # Naomi
 
+
+
+
+
+# F355
+## Bios
+
+- f355bios.zip
+ 
 ## Roms List
 
 | Roms       | parent    |  Version / Region              |  Name                                                                           |
 | ---------- | --------- | ------------------------------ | ------------------------------------------------------------------------------- |
-| 18wheelr   |           | deluxe, Rev A                  | 18 Wheeler: American Pro Trucker                                                |
-| 18wheelro  |           | deluxe                         | 18 Wheeler: American Pro Trucker                                                |
-| 18wheelrt  |           | deluxe, Rev T                  | 18 Wheeler: American Pro Trucker                                                |
-| 18wheels   |           | standard                       | 18 Wheeler: American Pro Trucker                                                |
-| 18wheelu   |           | upright                        | 18 Wheeler: American Pro Trucker                                                |
-| alienfnt   |           |                                | Alien Front (Rev T)                                                             |
-| alienfnta  |           |                                | Alien Front (Rev A)                                                             |
-| alpilota   |           |                                | Airline Pilots (Rev A)                                                          |
-| alpilotj   |           |                                | Airline Pilots (Japan, Rev A)                                                   |
-| anpanman2  |           |                                | Soreike! Anpanman Popcorn Koujou 2 (Rev C)                                      |
-| anpanman2a |           |                                | Soreike! Anpanman Popcorn Koujou 2 (Rev A)                                      |
-| asndynmt   |           |                                | Asian Dynamite / Dynamite Deka EX                                               |
-| asndynmto  |           |                                | Asian Dynamite / Dynamite Deka EX (older)                                       |
-| ausfache   |           |                                | Akatsuki Blitzkampf Ausf. Achse (Japan)                                         |
-| capsnk     |           |                                | Capcom Vs. SNK: Millennium Fight 2000 (Rev C)                                   |
-| capsnka    |           |                                | Capcom Vs. SNK: Millennium Fight 2000 (Rev A)                                   |
-| capsnkb    |           |                                | Capcom Vs. SNK: Millennium Fight 2000                                           |
-| crackndj   |           |                                | Crackin' DJ                                                                     |
-| crakndj2   |           |                                | Crackin' DJ Part 2 (Japan)                                                      |
-| crzytaxi   |           |                                | Crazy Taxi                                                                      |
-| csmash     |           |                                | Cosmic Smash (Rev A)                                                            |
-| csmasho    |           |                                | Cosmic Smash                                                                    |
-| cspike     |           |                                | Cannon Spike / Gun Spike                                                        |
-| deathcox   |           |                                | Death Crimson OX (USA)                                                          |
-| deathcoxj  |           |                                | Death Crimson OX (Japan, Rev A)                                                 |
-| deathcoxo  |           |                                | Death Crimson OX (Japan)                                                        |
-| derbyo2k   |           |                                | Derby Owners Club 2000 Ver.2 (Japan, Rev A)                                     |
-| derbyoc    |           |                                | Derby Owners Club (Japan, Rev B)                                                |
-| derbyoc2   |           |                                | Derby Owners Club II Ver.2.1 (Japan, Rev B)                                     |
-| derbyocb   |           |                                | Derby Owners Club (JPN, USA, EXP, KOR, AUS Ver. B)                              |
-| derbyocw   |           |                                | Derby Owners Club World Edition EX (Rev D)                                      |
-| doa2       |           |                                | Dead or Alive 2                                                                 |
-| doa2a      |           |                                | Dead or Alive 2 (Rev A)                                                         |
-| doa2m      |           |                                | Dead or Alive 2 Millennium                                                      |
-| drbyocwa   |           |                                | Derby Owners Club World Edition (Rev A)                                         |
-| drbyocwb   |           |                                | Derby Owners Club World Edition (Rev B)                                         |
-| drbyocwc   |           |                                | Derby Owners Club World Edition (Rev C)                                         |
-| drbyocwt   |           |                                | Derby Owners Club World Edition (Rev T)                                         |
-| dybb99     |           |                                | Dynamite Baseball '99 (Japan, Rev B)                                            |
-| dybbnao    |           |                                | Dynamite Baseball NAOMI (Japan)                                                 |
-| ggram2     |           |                                | Giant Gram: All Japan Pro Wrestling 2 (Japan)                                   |
-| ggx        |           |                                | Guilty Gear X                                                                   |
-| gram2000   |           |                                | Giant Gram 2000                                                                 |
-| gundmct    |           |                                | Mobile Suit Gundam: Federation Vs. Zeon                                         |
-| gunsur2    |           |                                | Gun Survivor 2 Biohazard Code: Veronica (World, BHF2 Ver.E)                     |
-| gunsur2e   |           |                                | Gun Survivor 2 Biohazard Code: Veronica (BHF2 Ver. E)                           |
-| gunsur2j   |           |                                | Gun Survivor 2 Biohazard Code: Veronica (Japan, BHF1 Ver.E)                     |
-| gwing2     |           |                                | Giga Wing 2                                                                     |
-| hmgeo      |           |                                | Heavy Metal: Geomatrix (Rev B)                                                  |
-| hopper     |           |                                | SWP Hopper Board                                                                |
-| illvelo    |           |                                | Illvelo (Illmatic Envelope) (Japan)                                             |
-| inunoos    |           |                                | Inu no Osanpo / Dog Walking (Japan, Export, Rev A)                              |
-| jambo      |           |                                | Jambo! Safari (Rev A)                                                           |
-| kick4csh   |           |                                | Kick '4' Cash (Export)                                                          |
-| mamonoro   |           |                                | Mamoru-kun wa Norowarete Shimatta! (Japan)                                      |
-| manicpnc   |           |                                | Manic Panic Ghosts! (USA, Export)                                               |
-| marstv     |           |                                | Mars TV (Japan)                                                                 |
-| mazan      |           |                                | Mazan: Flash of the Blade (World, MAZ2 Ver.A)                                   |
-| mazana     |           |                                | Mazan: Flash of the Blade (Asia, MAZ2 Ver.A)                                    |
-| mazanj     |           |                                | Mazan: Flash of the Blade (Japan, MAZ1 Ver.A)                                   |
-| mazanu     |           |                                | Mazan: Flash of the Blade (US, MAZ3 Ver.A)                                      |
-| mbaa       |           |                                | Melty Blood Actress Again Version A (Japan, Rev A)                              |
-| mbaaa      |           |                                | Melty Blood Actress Again Version A (Rev A)                                     |
-| mbaao      |           |                                | Melty Blood Actress Again (Japan)                                               |
-| mtkob2     |           |                                | Mushiking The King Of Beetle (2K3 2ND, World)                                   |
-| mushi2ea   |           |                                | MushiKing II - The King Of Beetle II ENG (Ver. 2.001)                           |
-| mushi2eo   |           |                                | Mushiking The King Of Beetles - Mushiking II / III / III+ (Ver. 1.001) (World)  |
-| mushi2k4   |           |                                | Mushiking The King Of Beetles 2004 Second (Japan)                               |
-| mushi2k5   |           |                                | Mushiking The King Of Beetles 2005 First (Japan)                                |
-| mushi2k61  |           |                                | Mushiking The King Of Beetles 2006 First (Japan)                                |
-| mushi2k62  |           |                                | Mushiking The King Of Beetles 2006 Second (Japan)                               |
-| mushik2e   |           |                                | Mushiking The King Of Beetles - Mushiking II / III / III+ (Ver. 2.001) (World)  |
-| mushik2k   |           |                                | Mushiking The King Of Beetles - Mushiking II / III / III+ (Ver. 1.000-) (Korea) |
-| mushik4e   |           |                                | Mushiking The King Of Beetles - Mushiking IV / V / VI (World)                   |
-| mushik4t   |           |                                | Mushiking The King Of Beetles - Mushiking IV / V / VI (Taiwan)                  |
-| mushikc    |           |                                | Mushiking The King Of Beetle (2K3 2ND Ver. 1.000-, China)                       |
-| mushike    |           |                                | Mushiking The King Of Beetle (2K3 2ND Ver. 1.003-, World)                       |
-| mushikeo   |           |                                | Mushiking The King Of Beetle (2K3 2ND Ver. 1.002-, World)                       |
-| mushikep   |           |                                | Mushiking The King Of Beetle (MUSHIUSA '04 1ST, Prototype)                      |
-| mushikk    |           |                                | Mushiking The King Of Beetle (2K3 2ND Ver. 1.000-, Korea)                       |
-| mvsc2      |           |                                | Marvel Vs. Capcom 2: New Age of Heroes (Export, Korea, Rev A)                   |
-| mvsc2u     |           |                                | Marvel Vs. Capcom 2: New Age of Heroes (USA, Rev A)                             |
-| ninjaslt   |           |                                | Ninja Assault (World, NJA2 Ver.A)                                               |
-| ninjaslt1  |           |                                | Ninja Assault (NJA1 Ver. A)                                                     |
-| ninjaslt2  |           |                                | Ninja Assault (NJA2 Ver. A)                                                     |
-| ninjaslt4  |           |                                | Ninja Assault (NJA4 Ver. A)                                                     |
-| ninjaslta  |           |                                | Ninja Assault (Asia, NJA4 Ver.A)                                                |
-| ninjasltj  |           |                                | Ninja Assault (Japan, NJA1 Ver.A)                                               |
-| ninjasltu  |           |                                | Ninja Assault (US, NJA3 Ver.A)                                                  |
-| ntvmys     |           |                                | Nittere Shiki! Mirai Yosou Studio / NTV Future Forecast Studio (Japan, Rev A)   |
-| oinori     |           |                                | Oinori-daimyoujin Matsuri                                                       |
-| otrigger   |           |                                | OutTrigger                                                                      |
-| pjustic    |           |                                | Project Justice / Moero! Justice Gakuen (Rev B)                                 |
-| pjustica   |           |                                | Project Justice / Moero! Justice Gakuen (Rev A)                                 |
-| pokasuka   |           |                                | Pokasuka Ghost! (Japan)                                                         |
-| pstone     |           |                                | Power Stone                                                                     |
-| pstone2    |           |                                | Power Stone 2                                                                   |
-| pstone2b   |           |                                | Power Stone 2 (bootleg)                                                         |
-| puyoda     |           |                                | Puyo Puyo Da! (Japan)                                                           |
-| qmegamis   |           |                                | Quiz Aa! Megami-sama ~Tatakau Tsubasa to Tomoni~ (Japan)                        |
-| radirgyn   |           |                                | Radirgy Noa (Japan)                                                             |
-| rhytngk    |           |                                | Rhythm Tengoku (Japan)                                                          |
-| ringout    |           |                                | Ring Out 4x4 (Rev A)                                                            |
-| ringouto   |           |                                | Ring Out 4x4                                                                    |
-| samba      |           |                                | Samba De Amigo (Rev B)                                                          |
-| samba2k    |           |                                | Samba de Amigo ver. 2000 (Japan)                                                |
-| sambaa     |           |                                | Samba De Amigo (Rev A)                                                          |
-| sambap     |           |                                | Samba De Amigo (USA, prototype)                                                 |
-| sgtetris   |           |                                | Sega Tetris                                                                     |
-| shangril   |           |                                | Dengen Tenshi Taisen Janshi Shangri-la                                          |
-| shootopl   |           |                                | Shootout Pool                                                                   |
-| shootpl    |           |                                | Shootout Pool Prize (Export) / Shootout Pool The Medal (Japan, Rev A)           |
-| shootplm   |           |                                | Shootout Pool Prize (Export) / Shootout Pool The Medal (Japan) Version B        |
-| shootplmp  |           | prototype                      | Shootout Pool Prize (Export) / Shootout Pool The Medal (Japan) Version B        |
+| f355       | f355dlx   |                                |                                                                                 |
+| f355bios   |           |                                |                                                                                 |
+| f355dlx    |           |                                |                                                                                 |
+| f355p      | f355      |                                |                                                                                 |
+| f355twin   | f355bios  |                                |                                                                                 |
+| f355twinp  | f355twin  |                                |                                                                                 |
+| f355twn2   | f355bios  |                                |                                                                                 |
+
+
+# House of the Dead hotd 
+
+## Bios 
+
+- hod2bios.zip
+
+| Roms       | parent    |  Version / Region              |  Name                                                                           |
+| ---------- | --------- | ------------------------------ | ------------------------------------------------------------------------------- |
+| hod2bios|	no    |
+| hotd2   |	hod2bios   |
+| hotd2e  |	hotd2 |
+| hotd2o  |	hotd2 |
+| hotd2p  |	hotd2 |
+
+
+## Bios 
+
+- naomi.zip
+
+## Roms List
+
+| Roms       | parent    |  Version / Region              |  Name                                                                           |
+| ---------- | --------- | ------------------------------ | ------------------------------------------------------------------------------- |
+| 18wheelr   | naomi     | Deluxe, Rev A                  | 18 Wheeler: American Pro Trucker                                                |
+| 18wheelro  | 18wheelr  | Deluxe                         | 18 Wheeler: American Pro Trucker                                                |
+| 18wheelrt  | 18wheelr  | Deluxe, Rev T                  | 18 Wheeler: American Pro Trucker                                                |
+| 18wheels   | 18wheelr  | Standard                       | 18 Wheeler: American Pro Trucker                                                |
+| 18wheelu   | 18wheelr  | Upright                        | 18 Wheeler: American Pro Trucker                                                |
+| alienfnt   | naomi     | Rev T                          | Alien Front                                                                     |
+| alienfnta  | alienfnt  | Rev A                          | Alien Front                                                                     |
+| alpilot    | airlbios  |                                | Airline Pilots                                                                  |
+| alpilota   |           | Rev A                          | Airline Pilots                                                                  |
+| alpilotj   | naomi     | Japan, Rev A                   | Airline Pilots                                                                  |
+| anpanman2  | naomi     | Rev C                          | Soreike! Anpanman Popcorn Koujou 2                                              |
+| anpanman2a |           | Rev A                          | Soreike! Anpanman Popcorn Koujou 2                                              |
+| asndynmt   | naomi     |                                | Asian Dynamite / Dynamite Deka EX                                               |
+| asndynmto  | asndynmt  | older                          | Asian Dynamite / Dynamite Deka EX                                               |
+| ausfache   | naomi     | Japan                          | Akatsuki Blitzkampf Ausf. Achse                                                 |
+| capsnk     | naomi     | Rev C                          | Capcom Vs. SNK: Millennium Fight 2000                                           |
+| capsnka    | capsnk    | Rev A                          | Capcom Vs. SNK: Millennium Fight 2000                                           |
+| capsnkb    | capsnk    |                                | Capcom Vs. SNK: Millennium Fight 2000                                           |
+| crackndj   | naomi     |                                | Crackin' DJ                                                                     |
+| crakndj2   | naomi     | Japan                          | Crackin' DJ Part 2                                                              |
+| crzytaxi   | naomi     |                                | Crazy Taxi                                                                      |
+| csmash     | naomi     | Rev A                          | Cosmic Smash                                                                    |
+| csmasho    | csmash    |                                | Cosmic Smash                                                                    |
+| cspike     | naomi     |                                | Cannon Spike / Gun Spike                                                        |
+| deathcox   | naomi     | USA                            | Death Crimson OX                                                                |
+| deathcoxj  | deathcox  | Japan, Rev A                   | Death Crimson OX                                                                |
+| deathcoxo  | deathcox  | Japan                          | Death Crimson OX                                                                |
+| derbyo2k   | naomi     | Japan, Rev A                   | Derby Owners Club 2000 Ver.2                                                    |
+| derbyoc    | naomi     | Japan, Rev B                   | Derby Owners Club                                                               |
+| derbyoc2   | naomi     | Japan, Rev B                   | Derby Owners Club II Ver.2.1                                                    |
+| derbyocb   |           | JPN, USA, EXP, KOR, AUS Ver. B | Derby Owners Club                                                               |
+| derbyocw   | naomi     | Rev D                          | Derby Owners Club World Edition EX                                              |
+| doa2       | doa2m     |                                | Dead or Alive 2                                                                 |
+| doa2a      | doa2m     | Rev A                          | Dead or Alive 2                                                                 |
+| doa2m      | naomi     |                                | Dead or Alive 2 Millennium                                                      |
+| drbyocwa   | derbyocw  | Rev A                          | Derby Owners Club World Edition                                                 |
+| drbyocwb   | derbyocw  | Rev B                          | Derby Owners Club World Edition                                                 |
+| drbyocwc   | derbyocw  | Rev C                          | Derby Owners Club World Edition                                                 |
+| drbyocwt   |           | Rev T                          | Derby Owners Club World Edition                                                 |
+| dybb99     | naomi     | Japan, Rev B                   | Dynamite Baseball '99                                                           |           
+| dybbnao    | naomi     | Japan                          | Dynamite Baseball NAOMI                                                         |
+| ggram2     | naomi     | Japan                          | Giant Gram: All Japan Pro Wrestling 2                                           |
+| ggx        | naomi     |                                | Guilty Gear X                                                                   |
+| gram2000   | naomi     |                                | Giant Gram 2000                                                                 |
+| gundmct    | naomi     |                                | Mobile Suit Gundam: Federation Vs. Zeon                                         |
+| gunsur2    | naomi     | World, BHF2 Ver.E              | Gun Survivor 2 Biohazard Code: Veronica                                         |
+| gunsur2e   |           | BHF2 Ver. E                    | Gun Survivor 2 Biohazard Code: Veronica                                         |
+| gunsur2j   | gunsur2   | Japan, BHF1 Ver.E              | Gun Survivor 2 Biohazard Code: Veronica                                         |
+| gwing2     | naomi     |                                | Giga Wing 2                                                                     |
+| hmgeo      | naomi     | Rev B                          | Heavy Metal: Geomatrix                                                          |
+| hopper     | naomi     |                                | SWP Hopper Board                                                                |
+| illvelo    | naomi     | Japan                          | Illvelo (Illmatic Envelope)                                                     |
+| inunoos    | naomi     | Japan, Export, Rev A           | Inu no Osanpo / Dog Walking                                                     |
+| jambo      | naomi     | Rev A                          | Jambo! Safari                                                                   |
+| kick4csh   | naomi     | Export                         | Kick '4' Cash                                                                   |
+| mamonoro   | naomi     | Japan                          | Mamoru-kun wa Norowarete Shimatta!                                              |
+| manicpnc   | naomi     | USA, Export                    | Manic Panic Ghosts!                                                             |
+| marstv     | naomi     | Japan                          | Mars TV                                                                         |
+| mazan      | naomi     | World, MAZ2 Ver.A              | Mazan: Flash of the Blade                                                       |
+| mazana     |           | Asia, MAZ2 Ver.A               | Mazan: Flash of the Blade                                                       |
+| mazanj     | mazan     | Japan, MAZ1 Ver.A              | Mazan: Flash of the Blade                                                       |
+| mazanu     | mazan     | US, MAZ3 Ver.A                 | Mazan: Flash of the Blade                                                       |
+| mbaa       | naomi     | Japan, Rev A                   | Melty Blood Actress Again Version A                                             |
+| mbaaa      |           | Rev A                          | Melty Blood Actress Again Version A                                             |
+| mbaao      | mbaa      | Japan                          | Melty Blood Actress Again                                                       |
+| mtkob2     |           | 2K3 2ND, World                 | Mushiking The King Of Beetle 2K3 2ND                                            |
+| mushi2ea   |           | Ver. 2.001                     | MushiKing II - The King Of Beetle II ENG Ver. 2.001                             |
+| mushi2eo   | mushik2e  | Ver. 1.001, World              | Mushiking The King Of Beetles - Mushiking II / III / III+ Ver. 1.001            |
+| mushi2k4   | naomi     | Japan                          | Mushiking The King Of Beetles 2004 Second                                       |
+| mushi2k5   | naomi     | Japan                          | Mushiking The King Of Beetles 2005 First                                        |
+| mushi2k61  | naomi     | Japan                          | Mushiking The King Of Beetles 2006 First                                        |
+| mushi2k62  | naomi     | Japan                          | Mushiking The King Of Beetles 2006 Second                                       |
+| mushik2e   | naomi     | Ver. 2.001, World              | Mushiking The King Of Beetles - Mushiking II / III / III+ Ver. 2.001            |
+| mushik2k   | mushik2e  | Ver. 1.000, Korea              | Mushiking The King Of Beetles - Mushiking II / III / III+ Ver. 1.000            |
+| mushik4e   | naomi     | World                          | Mushiking The King Of Beetles - Mushiking IV / V / VI                           |
+| mushik4t   |           | Taiwan                         | Mushiking The King Of Beetles - Mushiking IV / V / VI                           |
+| mushikc    | mushike   | Ver. 1.000, China              | Mushiking The King Of Beetle 2K3 2ND Ver. 1.000                                 |
+| mushike    | naomi     | Ver. 1.003, World              | Mushiking The King Of Beetle 2K3 2ND Ver. 1.003                                 |
+| mushikeo   | mushike   | Ver. 1.002, World              | Mushiking The King Of Beetle 2K3 2ND Ver. 1.002                                 |
+| mushikep   | mushike   | Prototype                      | Mushiking The King Of Beetle MUSHIUSA '04 1ST                                   |
+| mushikk    | mushike   | Ver. 1.000, Korea              | Mushiking The King Of Beetle 2K3 2ND Ver. 1.000                                 |
+| mvsc2      | naomi     | Export, Korea, Rev A           | Marvel Vs. Capcom 2: New Age of Heroes                                          |
+| mvsc2u     | mvsc2     | USA, Rev A                     | Marvel Vs. Capcom 2: New Age of Heroes                                          |
+| ninjaslt   | naomi     | World, NJA2 Ver. A             | Ninja Assault NJA2 Ver. A                                                       |
+| ninjaslt1  |           | NJA1 Ver. A                    | Ninja Assault NJA1 Ver. A                                                       |
+| ninjaslt2  |           | NJA2 Ver. A                    | Ninja Assault NJA2 Ver. A                                                       |
+| ninjaslt4  |           | NJA4 Ver. A                    | Ninja Assault NJA4 Ver. A                                                       |
+| ninjaslta  | ninjaslt  | Asia, NJA4 Ver. A              | Ninja Assault NJA4 Ver. A                                                       |
+| ninjasltj  | ninjaslt  | Japan, NJA1 Ver. A             | Ninja Assault NJA1 Ver. A                                                       |
+| ninjasltu  | ninjaslt  | US, NJA3 Ver. A                | Ninja Assault NJA3 Ver. A                                                       |
+| ntvmys     |           | Japan, Rev A                   | Nittere Shiki! Mirai Yosou Studio / NTV Future Forecast Studio                  |
+| oinori     | naomi     |                                | Oinori-daimyoujin Matsuri                                                       |
+| otrigger   | naomi     |                                | OutTrigger                                                                      |
+| pjustic    | naomi     | Rev B                          | Project Justice / Moero! Justice Gakuen                                         |
+| pjustica   |           | Rev A                          | Project Justice / Moero! Justice Gakuen                                         |
+| pokasuka   | manicpnc  |                                | Pokasuka Ghost! (Japan)                                                         |
+| pstone     | naomi     |                                | Power Stone                                                                     |
+| pstone2    | naomi     |                                | Power Stone 2                                                                   |
+| pstone2b   | pstone2   |                                | Power Stone 2 (bootleg)                                                         |
+| puyoda     | naomi     |                                | Puyo Puyo Da! (Japan)                                                           |
+| qmegamis   | naomi     |                                | Quiz Aa! Megami-sama ~Tatakau Tsubasa to Tomoni~ (Japan)                        |
+| radirgyn   | naomi     |                                | Radirgy Noa (Japan)                                                             |
+| rhytngk    | naomi     |                                | Rhythm Tengoku (Japan)                                                          |
+| ringout    | naomi     |                                | Ring Out 4x4 (Rev A)                                                            |
+| ringouto   | ringout   |                                | Ring Out 4x4                                                                    |
+| samba      | naomi     |                                | Samba De Amigo (Rev B)                                                          |
+| samba2k    | naomi     |                                | Samba de Amigo ver. 2000 (Japan)                                                |
+| sambaa     | samba     |                                | Samba De Amigo (Rev A)                                                          |
+| sambap     | samba     |                                | Samba De Amigo (USA, prototype)                                                 |
+| sgtetris   | naomi     |                                | Sega Tetris                                                                     |
+| shangril   | naomi     |                                | Dengen Tenshi Taisen Janshi Shangri-la                                          |
+| shootopl   | naomi     |                                | Shootout Pool                                                                   |
+| shootpl    | naomi     |                                | Shootout Pool Prize (Export) / Shootout Pool The Medal (Japan, Rev A)           |
+| shootplm   | naomi     |                                | Shootout Pool Prize (Export) / Shootout Pool The Medal (Japan) Version B        |
+| shootplmp  | shootplm  | prototype                      | Shootout Pool Prize (Export) / Shootout Pool The Medal (Japan) Version B        |
 | shors2k1   |           |                                | Star Horse 2001 (satellite, Rev B)                                              |
 | shors2k2   |           |                                | Star Horse 2002 (sound, Export/Taiwan)                                          |
 | shors2k2l  |           |                                | Star Horse 2002 (live)                                                          |
@@ -165,7 +207,7 @@ Naomi
 | virnbapa   |           |                                | Virtua NBA (prototype, 15.11)                                                   |
 | vonot      |           |                                | Virtual On Oratorio Tangram M.S.B.S. ver5.66 2000 Edition                       |
 | vs2_2k     |           |                                | Virtua Striker 2 Ver. 2000 (Rev C)                                              |
-| vs2_2ka    |           |  Set2, JPN, USA, EXP, KOR, AUS | Virtua Striker 2 Ver. 2000 () (set 2)                                           |
+| vs2_2ka    |           |  Set2, JPN, USA, EXP, KOR, AUS | Virtua Striker 2 Ver. 2000    (set 2)                                           |
 | vs2_2ko    |           |                                | Virtua Striker 2 Ver. 2000                                                      |
 | vtenis2c   |           |                                | Virtua Tennis 2 / Power Smash 2 (Rev A)                                         |
 | vtennis    |           |                                | Virtua Tennis / Power Smash                                                     |
@@ -185,3 +227,85 @@ Naomi
 | zombrvno   |           |                                | Zombie Revenge                                                                  |
 | zunou      |           | Rev A, Japan                   | Touch De Zunou                                                                  |
 
+
+
+
+
+| oinori  |	naomi |
+| otrigger|	naomi |
+| pjustic |	naomi |
+| pokasuka|	manicpnc   |
+| pstone  |	naomi |
+| pstone2 |	naomi |
+| pstone2b|	pstone2    |
+| puyoda  |	naomi |
+| qmegamis|	naomi |
+| radirgyn|	naomi |
+| rhytngk |	naomi |
+| ringout |	naomi |
+| ringouto|	ringout    |
+| samba   |	naomi |
+| samba2k |	naomi |
+| sambaa  |	samba |
+| sambap  |	samba |
+| sgtetris|	naomi |
+| shangril|	naomi |
+| shootopl|	naomi |
+| shootpl |	naomi |
+| shootplm|	naomi |
+| shootplmp    |	shootplm   |
+| shors2k1|	naomi |
+| shors2k2|	naomi |
+| shors2k2l    |	naomi |
+| shors2k2m    |	naomi |
+| shors2k2s    |	naomi |
+| shorse  |	naomi |
+| shorsel |	shorse|
+| shorsem |	shorse|
+| shorsep |	naomi |
+| shorsepb|	shorsep    |
+| shorsepl|	shorsep    |
+| shorsepm|	shorsep    |
+| shorsepr|	naomi |
+| shorseprl    |	shorsepr   |
+| shorseprs    |	shorsepr   |
+| shorseprvl   |	shorsepr   |
+| shorseprvr   |	shorsepr   |
+| shorseps|	shorsep    |
+| sl2007  |	naomi |
+| slasho  |	naomi |
+| smarinef|	naomi |
+| smlg99  |	naomi |
+| spawn   |	naomi |
+| sstrkfgt|	naomi |
+| sstrkfgta    |	sstrkfgt   |
+| suchie3 |	naomi |
+| tduno   |	naomi |
+| tduno2  |	naomi |
+| tokyobus|	naomi |
+| totd    |	naomi |
+| totdo   |	totd  |
+| toukon4 |	naomi |
+| toyfight|	naomi |
+| virnba  |	naomi |
+| virnbao |	virnba|
+| virnbap |	virnba|
+| virnbapa|	virnba|
+| vonot   |	naomi |
+| vs2_2k  |	naomi |
+| vs2_2ko |	vs2_2k|
+| vtenis2c|	naomi |
+| vtennis |	naomi |
+| wldkicks|	naomi |
+| wldkicksj    |	wldkicks   |
+| wldkickspj   |	wldkicks   |
+| wldkickspw   |	wldkicks   |
+| wldkicksu    |	wldkicks   |
+| wrungp  |	naomi |
+| wrungpo |	wrungp|
+| wwfroyal|	naomi |
+| zerogu2 |	naomi |
+| zombrvn |	naomi |
+| zombrvne|	zombrvn    |
+| zombrvno|	zombrvn    |
+| zunou   |	naomi |
