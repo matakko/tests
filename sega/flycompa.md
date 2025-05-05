@@ -10,7 +10,7 @@
 # Airline Pilots
 - airlbios.zip
 
-|  Name           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen  | Widescreen Cheats  | NOTES---------------                          |                                                                             
+|  Name           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen  | Widescreen Cheats  | NOTES                          |                                                                             
 | ----------------| ---------- | --------- | ------------------------------ |----------------- | ------------ | ----------------- | -------------------------------|
 | Airline Pilots  | alpiltdx   |           | Deluxe, Rev B                  |  ???             | ???          | ???               |    ???                         |
 | Airline Pilots  | alpilot    |           | World, Rev B                   |  ???             | ???          | ???               |    ???                         |
@@ -24,7 +24,7 @@
 ## Roms List
 
 
-|  Name                                                     | Roms       | parent    |  Version / Region                                    | Native Widescreen| Widescreen  | Widescreen Cheats  |  NOTES---------------        |
+|  Name                                                     | Roms       | parent    |  Version / Region                                    | Native Widescreen| Widescreen  | Widescreen Cheats  |  NOTES        |
 | ----------------------------------------------------------| ---------- | --------- | --------------------------------------------------- |----------------- | ------------ | ----------------- |---------------|
 | Ferrari F355 Challenge                                    | f355       | f355dlx   | Deluxe, no link                                      |  ???             | ???          | ???               |  ???          |
 | Ferrari F355 Challenge                                    | f355p      | f355      | Private show version                                 |  ???             | ???          | ???               |  ???          |
@@ -38,7 +38,7 @@
 - hod2bios.zip
 
 
-|  Name                   | Roms       | parent    |  Version / Region               | Native Widescreen| Widescreen  | Widescreen Cheats  | NOTES---------------         |
+|  Name                   | Roms       | parent    |  Version / Region               | Native Widescreen| Widescreen  | Widescreen Cheats  | NOTES         |
 | ------------------------| ---------- | --------- | ------------------------------  |----------------- | ------------ | ----------------- |------------   |
 | The House of the Dead 2 | hotd2      |	hod2bios | USA                           |  ???             | ???          | ???               |  ???          |
 | The House of the Dead 2 | hotd2e     |	hotd2    | Export                        |  ???             | ???          | ???               |  ???          |
@@ -48,7 +48,7 @@
 
 ## Naomi List
  [back to Menu](#compatibility)  
-|  Name                                                                           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen  | Widescreen Cheats |                 NOTES---------------                    |
+|  Name                                                                           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen  | Widescreen Cheats |                 NOTES                    |
 | ------------------------------------------------------------------------------- | ---------- | --------- | ------------------------------ |----------------- | ------------ | ----------------- | ---------------------------------------- |
 | 18 Wheeler: American Pro Trucker                                                | 18wheelr   | naomi     | Deluxe, Rev A                  |  ???             | ???          | ???               | 025C64A8 43700000 ???                    |
 | 18 Wheeler: American Pro Trucker                                                | 18wheelro  | 18wheelr  | Deluxe                         |  ???             | ???          | ???               | 025C64A8 43700000 ???                    |
@@ -237,7 +237,7 @@
 Naomi-gd
  [back to Menu](#compatibility)  
 
-|  Name                                                                   | Roms       | parent    | GD-ROM     | Version / Region    | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES---------------                   |
+|  Name                                                                   | Roms       | parent    | GD-ROM     | Version / Region    | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   |
 | ----------------------------------------------------------------------- | ---------- | --------- | ---------- | ------------------- |----------------- | ------------ | ----------------- | ---------------------------------------------- |
 | Azumanga Daioh Puzzle Bobble                                            | azumanga   | naomigd   | GDL-0018   |                     |  ???             | ???          | ???              |                                                              |
 | Border Down                                                             | bdrdown    | naomigd   | GDL-0023A  | Rev A               |  ???             | ???          | ???              |                                                              |
@@ -341,7 +341,7 @@ Naomi-gd
 # Atomiswave 
  [back to Menu](#compatibility)  
 
-| Name                                                                | Roms         | Parent    |  Version / Region      | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES---------------                                                                      | 
+| Name                                                                | Roms         | Parent    |  Version / Region      | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                                                                      | 
 | ------------------------------------------------------------------- | ---------    | --------  |  --------------------- | ----------------- | ------------ | ----------------- | --------------------------------------------------------------------------------------------- | 
 | Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskt     |	awbios   | 24 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
 | Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskta    |	anmlbskt | 19 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
@@ -391,7 +391,7 @@ Naomi-gd
 ## NAOMI 2 Cartridge:
 [Back to the Top](#naomi-2)
 
- | Name                                                                | Roms      | Parent   |  CHD       |  Version / Region           | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES---------------                   | 
+ | Name                                                                | Roms      | Parent   |  CHD       |  Version / Region           | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   | 
  | ------------------------------------------------------------------- | --------- | -------- | ---------- |  -------------------------- | ----------------- | ------------ | ----------------- | ----------------------- |
  |  Club Kart: European Session                                        | clubk2k3  | naomi2   |   No       |  Rev A, 2003                |   ???             | ???          | ???               |  ???                    |
  |  Club Kart: European Session                                        | clubk2kf  | naomi2   |   No       |  Rev A, 2003, Not Protected |   ???             | ???          | ???               |  ???                    |
@@ -456,7 +456,7 @@ Naomi-gd
 ## NAOMI 2 Satellite Terminal
 [Back to the Top](#naomi-2)
 																																	
-|  Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES---------------                   | 
+|  Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   | 
 |  ------------------------------------------------------------------- | --------- | -------- | ---------- |  ----------------------- | ----------------- | ------------ | ----------------- | ----------------------- |
 |  World Club Champion Football European Clubs 2004-2005               | wccf310j  |          | CDV-10013  | Japan                    |   ???             | ???          | ???               |  ???                    |
 |  World Club Champion Football European Clubs 2004-2005 Ver.1.1       | wccf331e  |          | CDV-10015  | Ver.1.1, Export          |   ???             | ???          | ???               |  ???                    |
@@ -477,7 +477,7 @@ Naomi-gd
 
 
 
-| Name                                                               | Roms         | Parent    | CHD        |  Version / Region         | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES--------------- |
+| Name                                                               | Roms         | Parent    | CHD        |  Version / Region         | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES |
 | -------------------------------------------------------------------| ------------ | --------- | ---------- | ------------------------  | ----------------- | ------------ | ----------------- | ----------------------- | 
 | Aminosan                                                           | aminosan     | segasp    |            | satellite                 |   ???             | ???          | ???               |  ???                    |
 | Bingo Galaxy                                                       | bingogal     | segasp    |            | main                      |   ???             | ???          | ???               |  ???                    |
