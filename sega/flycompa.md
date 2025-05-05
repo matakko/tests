@@ -6,6 +6,45 @@
 - [Atomiswave](#atomiswave)
 - [System SP](#system-sp)
 
+																													 
+# Airline Pilots
+- airlbios.zip
+
+|  Name           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen  | Widescreen Cheats  | CODES                          |                                                                             
+| ----------------| ---------- | --------- | ------------------------------ |----------------- | ------------ | ----------------- | -------------------------------|
+| Airline Pilots  | alpiltdx   |           | Deluxe, Rev B                  |  ???             | ???          | ???               |    ???                         |
+| Airline Pilots  | alpilot    |           | World, Rev B                   |  ???             | ???          | ???               |    ???                         |
+                                                                        
+                                                                            
+# F355                                                                     
+                                                                            
+- f355bios.zip
+- f355dlx.zip
+ 
+## Roms List
+
+
+|  Name                                                     | Roms       | parent    |  Version / Region                                    | Native Widescreen| Widescreen  | Widescreen Cheats  |  CODES        |
+| ----------------------------------------------------------| ---------- | --------- | ------------------------------ --------------------- |----------------- | ------------ | ----------------- |---------------|
+| Ferrari F355 Challenge                                    | f355       | f355dlx   | Deluxe, no link                                      |  ???             | ???          | ???               |  ???          |
+| Ferrari F355 Challenge                                    | f355p      | f355      | Private show version                                 |  ???             | ???          | ???               |  ???          |
+| Ferrari F355 Challenge                                    | f355twin   | f355bios  | Twin/deluxe                                          |  ???             | ???          | ???               |  ???          |
+| f355twinp Ferrari F355 Challenge                          | f355twinp  | f355twin  | Twin/deluxe, preview                                 |  ???             | ???          | ???               |  ???          |
+| Ferrari F355 Challenge 2 - International Course Edition   | f355twn2   | f355bios  | Twin/deluxe                                          |  ???             | ???          | ???               |  ???          |
+                                                                                                                                            |  ???             | ???          | ???               |               |
+
+# House of the Dead hotd  
+
+- hod2bios.zip
+
+
+|  Name                   | Roms       | parent    |  Version / Region               | Native Widescreen| Widescreen  | Widescreen Cheats  | CODES         |
+| ------------------------| ---------- | --------- | ------------------------------  |----------------- | ------------ | ----------------- |------------   |
+| The House of the Dead 2 | hotd2      |	hod2bios | USA                           |  ???             | ???          | ???               |  ???          |
+| The House of the Dead 2 | hotd2e     |	hotd2    | Export                        |  ???             | ???          | ???               |  ???          |
+| The House of the Dead 2 | hotd2o     |	hotd2    |                               |  ???             | ???          | ???               |  ???          |
+| The House of the Dead 2 | hotd2p     |	hotd2    | Prototype                     |  ???             | ???          | ???               |  ???          |
+                                                                                                                                         
 
 ## Naomi List
  [back to Menu](#compatibility)  
