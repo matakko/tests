@@ -3,7 +3,13 @@ Naomi
 
 # Naomi
 
+airlbios.zip
 
+| Roms       | parent    |  Version / Region              |  Name                                                                           |
+| ---------- | --------- | ------------------------------ | ------------------------------------------------------------------------------- |
+| alpiltdx   |           | Deluxe, Rev B                     | Airline Pilots   
+| alpilot    |           | World, Rev B                      | Airline Pilots
+     
 
 # F355
 ## Bios
