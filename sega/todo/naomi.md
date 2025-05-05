@@ -5,24 +5,22 @@ Naomi
 
 
 
-
-
 # F355
 ## Bios
 
 - f355bios.zip
+- f355dlx.zip
  
 ## Roms List
 
+
 | Roms       | parent    |  Version / Region              |  Name                                                                           |
 | ---------- | --------- | ------------------------------ | ------------------------------------------------------------------------------- |
-| f355       | f355dlx   |                                |                                                                                 |
-| f355bios   |           |                                |                                                                                 |
-| f355dlx    |           |                                |                                                                                 |
-| f355p      | f355      |                                |                                                                                 |
-| f355twin   | f355bios  |                                |                                                                                 |
-| f355twinp  | f355twin  |                                |                                                                                 |
-| f355twn2   | f355bios  |                                |                                                                                 |
+| f355       | f355dlx   | Deluxe, no link                | Ferrari F355 Challenge                                                          |
+| f355p      | f355      | Private show version           | Ferrari F355 Challenge                                                          |
+| f355twin   | f355bios  | Twin/deluxe                    | Ferrari F355 Challenge                                                          |
+| f355twinp  | f355twin  | Twin/deluxe, preview           | f355twinp Ferrari F355 Challenge                                                |
+| f355twn2   | f355bios  | Twin/deluxe                    | Ferrari F355 Challenge 2 - International Course Edition                         |
 
 
 # House of the Dead hotd 
@@ -31,13 +29,13 @@ Naomi
 
 - hod2bios.zip
 
+
 | Roms       | parent    |  Version / Region              |  Name                                                                           |
 | ---------- | --------- | ------------------------------ | ------------------------------------------------------------------------------- |
-| hod2bios|	no    |
-| hotd2   |	hod2bios   |
-| hotd2e  |	hotd2 |
-| hotd2o  |	hotd2 |
-| hotd2p  |	hotd2 |
+| hotd2      |	hod2bios | USA                            | The House of the Dead 2                                                         |
+| hotd2e     |	hotd2    | Export                         | The House of the Dead 2                                                         |
+| hotd2o     |	hotd2    |                                | The House of the Dead 2                                                         |
+| hotd2p     |	hotd2    | Prototype                      | The House of the Dead 2                                                         |
 
 
 ## Bios 
