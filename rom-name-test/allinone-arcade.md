@@ -23,8 +23,8 @@
 - f355dlx.zip
 
 
-|  Name                                                     | Roms       | parent    |  Version / Region                                    | Native Widescreen| Widescreen  | Widescreen Cheats  |  NOTES        |
-| ----------------------------------------------------------| ---------- | --------- | --------------------------------------------------- |----------------- | ------------ | ----------------- |---------------|
+|  Name                                                     | Roms       | parent    |  Version / Region                                   | Native Widescreen| Widescreen   | Widescreen Cheats  |  NOTES        |
+| ----------------------------------------------------------| ---------- | --------- | ---------------------------------------------------- |----------------- | ------------ | ----------------- |---------------|
 | Ferrari F355 Challenge                                    | f355       | f355dlx   | Deluxe, no link                                      |  ???             | ???          | ???               |  ???          |
 | Ferrari F355 Challenge                                    | f355p      | f355      | Private show version                                 |  ???             | ???          | ???               |  ???          |
 | Ferrari F355 Challenge                                    | f355twin   | f355bios  | Twin/deluxe                                          |  ???             | ???          | ???               |  ???          |
@@ -37,8 +37,8 @@
 - hod2bios.zip
 
 
-|  Name                   | Roms       | parent    |  Version / Region               | Native Widescreen| Widescreen  | Widescreen Cheats  | NOTES         |
-| ------------------------| ---------- | --------- | ------------------------------  |----------------- | ------------ | ----------------- |------------   |
+|  Name                   | Roms       | parent          |  Version / Region             | Native Widescreen| Widescreen   | Widescreen Cheats | NOTES         |
+| ------------------------| ---------- | --------------- | ----------------------------- |----------------- | ------------ | ----------------- | ------------- |
 | The House of the Dead 2 | hotd2      |	hod2bios | USA                           |  ???             | ???          | ???               |  ???          |
 | The House of the Dead 2 | hotd2e     |	hotd2    | Export                        |  ???             | ???          | ???               |  ???          |
 | The House of the Dead 2 | hotd2o     |	hotd2    |                               |  ???             | ???          | ???               |  ???          |
@@ -49,7 +49,7 @@
  [back to Menu](#compatibility)  
 - naomi.zip
 
-|  Name                                                                           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen  | Widescreen Cheats |                 NOTES                    |
+|  Name                                                                           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen   | Widescreen Cheats |                 NOTES                    |
 | ------------------------------------------------------------------------------- | ---------- | --------- | ------------------------------ |----------------- | ------------ | ----------------- | ---------------------------------------- |
 | 18 Wheeler: American Pro Trucker                                                | 18wheelr   | naomi     | Deluxe, Rev A                  |  ???             | ???          | ???               | 025C64A8 43700000 ???                    |
 | 18 Wheeler: American Pro Trucker                                                | 18wheelro  | 18wheelr  | Deluxe                         |  ???             | ???          | ???               | 025C64A8 43700000 ???                    |
@@ -237,8 +237,8 @@
  [back to Menu](#compatibility)  
 - naomigd.zip
 
-|  Name                                                                   | Roms       | parent    | GD-ROM     | Version / Region    | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   |
-| ----------------------------------------------------------------------- | ---------- | --------- | ---------- | ------------------- |----------------- | ------------ | ----------------- | ---------------------------------------------- |
+|  Name                                                                   | Roms       | parent    | GD-ROM     | Version / Region    | Native Widescreen| Widescreen   | Widescreen Cheats| NOTES                                                        |
+| ----------------------------------------------------------------------- | ---------- | --------- | ---------- | ------------------- | ---------------- | ------------ | ---------------- | ------------------------------------------------------------ |
 | Azumanga Daioh Puzzle Bobble                                            | azumanga   | naomigd   | GDL-0018   |                     |  ???             | ???          | ???              |                                                              |
 | Border Down                                                             | bdrdown    | naomigd   | GDL-0023A  | Rev A               |  ???             | ???          | ???              |                                                              |
 | Chaos Field                                                             | cfield     | naomigd   | GDL-0025   | Japan               |  ???             | ???          | ???              |                                                              |
@@ -433,7 +433,7 @@
  [back to Menu](#compatibility)  
 - awbios.zip
 
-| Name                                                                | Roms         | Parent    |  Version / Region      | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                                                                      | 
+| Name                                                                | Roms         | Parent    |  Version / Region      | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                                                                                         | 
 | ------------------------------------------------------------------- | ---------    | --------  |  --------------------- | ----------------- | ------------ | ----------------- | --------------------------------------------------------------------------------------------- | 
 | Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskt     |	awbios   | 24 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
 | Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskta    |	anmlbskt | 19 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
@@ -480,7 +480,7 @@
 [back to Menu](#compatibility) 
 - segasp.zip
 
-| Name                                                               | Roms         | Parent    | CHD        |  Version / Region         | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES |
+| Name                                                               | Roms         | Parent    | CHD        |  Version / Region         | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   |
 | -------------------------------------------------------------------| ------------ | --------- | ---------- | ------------------------  | ----------------- | ------------ | ----------------- | ----------------------- | 
 | Aminosan                                                           | aminosan     | segasp    |            | satellite                 |   ???             | ???          | ???               |  ???                    |
 | Bingo Galaxy                                                       | bingogal     | segasp    |            | main                      |   ???             | ???          | ???               |  ???                    |
