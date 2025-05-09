@@ -1,0 +1,38 @@
+    <system>
+        <name>xbox360</name>
+        <fullname>Microsoft Xbox 360</fullname>
+        <path>%ROMPATH%\xbox360</path>
+        <extension>. .iso .ISO .xex .XEX .zar .ZAR</extension>
+        <command label="xenia_canary (Standalone)">%STARTDIR%=%EMUDIR% %EMULATOR_XENIA_CANARY% %ROM%</command>
+        <command label="xenia (Standalone)">%STARTDIR%=%EMUDIR% %EMULATOR_XENIA% %ROM%</command>
+        <platform>xbox360</platform>
+        <theme>xbox360</theme>
+    </system>
+
+  <system>
+	<name>xbox360</name>
+	<fullname>Microsoft Xbox 360</fullname>
+	<path>%ROMPATH%/xbox360/roms</path>
+	<extension>.iso .ISO . .xex .XEX .zar .ZAR</extension>
+  <command label="xenia (Standalone)">%EMULATOR_XENIA% %ROM%</command>
+	<command label="Xenia (Proton)">/bin/bash /run/media/mmcblk0p1/Emulation/tools/launchers/xenia.sh z:%ROM% %INJECT%=%BASENAME%.esprefix</command>
+	<platform>xbox360</platform>
+	<theme>xbox360</theme>
+  </system>
+
+
+
+ <emulator name="XENIA_CANARY">
+        <!-- Microsoft Xbox 360 emulator xenia -->
+        <rule type="staticpath">
+            <entry>D:\Emulation\Emulators\xenia_canary\xenia_canary.exe</entry>
+            <entry>D:\Emulation\..\Emulators\xenia_canary\xenia_canary.exe</entry>
+        </rule>
+    </emulator>
+    <emulator name="XENIA">
+        <!-- Microsoft Xbox 360 emulator xenia -->
+        <rule type="staticpath">
+            <entry>D:\Emulation\Emulators\xenia\xenia.exe</entry>
+            <entry>D:\Emulation\..\Emulators\xenia\xenia.exe</entry>
+        </rule>
+    </emulator>
