@@ -1,14 +1,14 @@
 # Compatibility
+[Bios List](#bios)
+  
+| [Naomi](#naomi) |  [Naomigd](#naomigd)  | [Naomi 2](#naomi-2) | [Atomiswave](#atomiswave)  |  [System SP](#system-sp) |
+| - | - | - | - | - |  
 
-- [Naomi](#naomi) 
-- [Naomigd](#naomigd) 
-- [Naomi 2](#naomi-2) 
-- [Atomiswave](#atomiswave)
-- [System SP](#system-sp)
-- 
-- [Bios List](#bios)
-																													 
+| [Airline Pilots](#airline-pilots) | [F355](#f355) | [House of the Dead](#house-of-the-dead) |
+| - | - | - |
+																												 
 ## Airline Pilots
+ [back to Menu](#compatibility)  
 - airlbios.zip
 
 |  Name           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen  | Widescreen Cheats  | NOTES                          |                                                                             
@@ -18,7 +18,7 @@
                                                                         
                                                                             
 ## F355                                                                     
-                                                                            
+ [back to Menu](#compatibility)  
 - f355bios.zip
 - f355dlx.zip
 
@@ -33,7 +33,7 @@
                                                                                                                                         
 
 ## House of the Dead  
-
+ [back to Menu](#compatibility)  
 - hod2bios.zip
 
 
