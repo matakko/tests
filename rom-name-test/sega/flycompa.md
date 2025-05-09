@@ -476,7 +476,7 @@
 
 
 
-# System SP : 
+# System SP
 [back to Menu](#compatibility) 
 - segasp.zip
 
