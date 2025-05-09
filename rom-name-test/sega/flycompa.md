@@ -7,7 +7,7 @@
 - [System SP](#system-sp)
 
 																													 
-# Airline Pilots
+## Airline Pilots
 - airlbios.zip
 
 |  Name           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen  | Widescreen Cheats  | NOTES                          |                                                                             
@@ -16,12 +16,10 @@
 | Airline Pilots  | alpilot    |           | World, Rev B                   |  ???             | ???          | ???               |    ???                         |
                                                                         
                                                                             
-# F355                                                                     
+## F355                                                                     
                                                                             
 - f355bios.zip
 - f355dlx.zip
- 
-## Roms List
 
 
 |  Name                                                     | Roms       | parent    |  Version / Region                                    | Native Widescreen| Widescreen  | Widescreen Cheats  |  NOTES        |
@@ -33,7 +31,7 @@
 | Ferrari F355 Challenge 2 - International Course Edition   | f355twn2   | f355bios  | Twin/deluxe                                          |  ???             | ???          | ???               |  ???          |
                                                                                                                                         
 
-# House of the Dead hotd  
+## House of the Dead hotd  
 
 - hod2bios.zip
 
@@ -46,7 +44,7 @@
 | The House of the Dead 2 | hotd2p     |	hotd2    | Prototype                     |  ???             | ???          | ???               |  ???          |
                                                                                                                                          
 
-## Naomi List
+# Naomi List
  [back to Menu](#compatibility)  
 |  Name                                                                           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen  | Widescreen Cheats |                 NOTES                    |
 | ------------------------------------------------------------------------------- | ---------- | --------- | ------------------------------ |----------------- | ------------ | ----------------- | ---------------------------------------- |
@@ -338,50 +336,6 @@ Naomi-gd
 | World Series Baseball / Super Major League                              | wsbbgd     | naomigd   | GDS-0010   |                     |  ???             | ???          | ???              |                                                              |
                                                                                                                       
 
-# Atomiswave 
- [back to Menu](#compatibility)  
-
-| Name                                                                | Roms         | Parent    |  Version / Region      | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                                                                      | 
-| ------------------------------------------------------------------- | ---------    | --------  |  --------------------- | ----------------- | ------------ | ----------------- | --------------------------------------------------------------------------------------------- | 
-| Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskt     |	awbios   | 24 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
-| Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskta    |	anmlbskt | 19 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
-| Block Pong-Pong (2005)                                              | blokpong     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Chase 1929 (2004)                                                   |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
-| Demolish Fist (2003                                                 | demofist     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Dirty Pigskin Football (2004)                                       | dirtypig     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Dolphin Blue (2003)                                                 | dolphin      |	awbios   |                        |   ???             | ???          | Perfect           | 023F2E2C 43B90000 <br /> 023F2190 3FAA9FBE <br /> 023F2E6C 43B90000 <br />  023F215C 43F00000 |
-| Extreme Hunting (2005)                                              | xtrmhnt2     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Extreme Hunting 2 Tournament Edition (2006)                         | xtrmhunt     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Fist Of The Northstar / Hokuto No Ken (2005)                        | fotns        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Faster Than Speed (2004)                                            | ftspeed      |	awbios   |                        |   ???             | ???          | Perfect           | 023488E0 3F400000                                                                             |
-| Force Five (2004)                                                   |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
-| Guilty Gear Isuka (2003)                                            | ggisuka      |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Guilty Gear X Ver. 1.5 (2003)                                       | ggx15        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Kenju (2005)                                                        |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
-| Knights of Valour: The Seven Spirits (2003)                         | kov7sprt     |	awbios   |                        |   ???             | ???          | Perfect           | 02475B70 3F400000 <br /> 02475B40 43F00000                                                    |
-| Maximum Speed (2003)                                                | maxspeed     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Metal Slug 6 (2006)                                                 | mslug6       |	awbios   |                        |   ???             | ???          | Perfect           | 02E93478 3F400000 <br /> 02E9347C 3F8872B0                                                    |
-| NeoGeo Battle Coliseum (2005)                                       | ngbc         |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| NeoGeo Battle Coliseum (2005)                                       | ngbcj        |	ngbc     | Japan                  |   ???             | ???          | ???               |  ???                                                                                          |
-| Net Select Keiba Horse Racing Victory Furlong (2005)                | vfurlong     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Net Select Salaryman Kintarou (2004)                                | salmankt     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Premier Eleven (2003)                                               |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
-| Ranger Mission (2004)                                               | rangrmsn     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Samurai Spirits Tenkaichi Kenkakuden (2005)                         | samsptk      |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Sega Bass Fishing Challenge (2009)                                  | basschal     |	awbios   | Ver. A                 |   ???             | ???          | ???               |  ???                                                                                          |
-| Sega Bass Fishing Challenge (2009)                                  | basschalo    |	basschal | Japan                  |   ???             | ???          | ???               |  ???                                                                                          |
-| Sega Clay Challenge (2009)                                          | claychal     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Sports Shooting USA (2003)                                          | sprtshot     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Sushi Bar (2003)                                                    | sushibar     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| The King of Fighters Neowave (2004)                                 | kofnw        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| The King of Fighters Neowave (2004)                                 | kofnwj       |	kofnw    | Japan                  |   ???             | ???          | ???               |  ???                                                                                          |
-| The King of Fighters XI (2005)                                      | kofxi        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| The Rumble Fish (2004)                                              | rumblef      |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| The Rumble Fish 2 (2005)                                            | rumblef2     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| The Rumble Fish (2004)                                              | rumblefp     |	rumblef  | Prototype              |   ???             | ???          | ???               |  ???                                                                                          |
-| The Rumble Fish 2 (2005)                                            | rumblf2p     |	rumblef2 | Prototype              |   ???             | ???          | ???               |  ???                                                                                          |
-| Wai Wai Drive (2005)                                                | waidrive     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-
 # NAOMI 2
  [back to Menu](#compatibility) 
 
@@ -472,7 +426,54 @@ Naomi-gd
 |  World Club Champion Football Serie A 2002-2003 Ver.2.34             | wccf234j  |          | CDV-10008  | Ver.2.34, Japan          |   ???             | ???          | ???               |  ???                    |
 
 
-## System SP : 
+
+# Atomiswave 
+ [back to Menu](#compatibility)  
+
+| Name                                                                | Roms         | Parent    |  Version / Region      | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                                                                      | 
+| ------------------------------------------------------------------- | ---------    | --------  |  --------------------- | ----------------- | ------------ | ----------------- | --------------------------------------------------------------------------------------------- | 
+| Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskt     |	awbios   | 24 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
+| Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskta    |	anmlbskt | 19 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
+| Block Pong-Pong (2005)                                              | blokpong     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Chase 1929 (2004)                                                   |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
+| Demolish Fist (2003                                                 | demofist     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Dirty Pigskin Football (2004)                                       | dirtypig     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Dolphin Blue (2003)                                                 | dolphin      |	awbios   |                        |   ???             | ???          | Perfect           | 023F2E2C 43B90000 <br /> 023F2190 3FAA9FBE <br /> 023F2E6C 43B90000 <br />  023F215C 43F00000 |
+| Extreme Hunting (2005)                                              | xtrmhnt2     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Extreme Hunting 2 Tournament Edition (2006)                         | xtrmhunt     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Fist Of The Northstar / Hokuto No Ken (2005)                        | fotns        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Faster Than Speed (2004)                                            | ftspeed      |	awbios   |                        |   ???             | ???          | Perfect           | 023488E0 3F400000                                                                             |
+| Force Five (2004)                                                   |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
+| Guilty Gear Isuka (2003)                                            | ggisuka      |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Guilty Gear X Ver. 1.5 (2003)                                       | ggx15        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Kenju (2005)                                                        |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
+| Knights of Valour: The Seven Spirits (2003)                         | kov7sprt     |	awbios   |                        |   ???             | ???          | Perfect           | 02475B70 3F400000 <br /> 02475B40 43F00000                                                    |
+| Maximum Speed (2003)                                                | maxspeed     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Metal Slug 6 (2006)                                                 | mslug6       |	awbios   |                        |   ???             | ???          | Perfect           | 02E93478 3F400000 <br /> 02E9347C 3F8872B0                                                    |
+| NeoGeo Battle Coliseum (2005)                                       | ngbc         |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| NeoGeo Battle Coliseum (2005)                                       | ngbcj        |	ngbc     | Japan                  |   ???             | ???          | ???               |  ???                                                                                          |
+| Net Select Keiba Horse Racing Victory Furlong (2005)                | vfurlong     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Net Select Salaryman Kintarou (2004)                                | salmankt     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Premier Eleven (2003)                                               |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
+| Ranger Mission (2004)                                               | rangrmsn     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Samurai Spirits Tenkaichi Kenkakuden (2005)                         | samsptk      |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Sega Bass Fishing Challenge (2009)                                  | basschal     |	awbios   | Ver. A                 |   ???             | ???          | ???               |  ???                                                                                          |
+| Sega Bass Fishing Challenge (2009)                                  | basschalo    |	basschal | Japan                  |   ???             | ???          | ???               |  ???                                                                                          |
+| Sega Clay Challenge (2009)                                          | claychal     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Sports Shooting USA (2003)                                          | sprtshot     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Sushi Bar (2003)                                                    | sushibar     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| The King of Fighters Neowave (2004)                                 | kofnw        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| The King of Fighters Neowave (2004)                                 | kofnwj       |	kofnw    | Japan                  |   ???             | ???          | ???               |  ???                                                                                          |
+| The King of Fighters XI (2005)                                      | kofxi        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| The Rumble Fish (2004)                                              | rumblef      |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| The Rumble Fish 2 (2005)                                            | rumblef2     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| The Rumble Fish (2004)                                              | rumblefp     |	rumblef  | Prototype              |   ???             | ???          | ???               |  ???                                                                                          |
+| The Rumble Fish 2 (2005)                                            | rumblf2p     |	rumblef2 | Prototype              |   ???             | ???          | ???               |  ???                                                                                          |
+| Wai Wai Drive (2005)                                                | waidrive     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+
+
+
+# System SP : 
 [back to Menu](#compatibility) 
 
 
