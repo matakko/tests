@@ -7,6 +7,7 @@
 |---- | ----|
 | test:test | fix 🥖 |
 
+### Flycast all in one [Arcade](https://github.com/matakko/tests/blob/main/rom-name-test/allinone-arcade.md)
 
 ## Arcade 
 
