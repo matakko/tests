@@ -521,123 +521,136 @@
 The bios list might be incrrect . This is not representative of what you need inside your zip . 
 Its an attempt to list files.
 
-
 Bios : 
-`main_eeprom.bin     ?  ` 
-`x76f100_eeprom.bin  ?`
-
 
 - airlbios.zip
 ```
-epr-21802.ic27
-epr-21801.ic27
+epr-21802.ic27 (maincpu $0 - 2MB) (Export)
+epr-21801.ic27 (maincpu $0 - 2MB) (USA)
+main_eeprom.bin (main_eeprom $0 - 128 bytes)
+76f100_eeprom.bin (naomibd_eeprom $0 - 132 bytes)
 ```
 
 - f355bios.zip
 ```
-epr-22851.ic27
-epr-22850.ic27
-epr-22849.ic27
+epr-22851.ic27 (maincpu $0 - 2MB) Ferrari F355 (Export)
+epr-22850.ic27 (maincpu $0 - 2MB) Ferrari F355 (USA)
+epr-22849.ic27 (maincpu $0 - 2MB) Ferrari F355 (Japan)
+main_eeprom.bin (main_eeprom $0 - 128 bytes)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132 bytes)
 ```
 
 - f355dlx.zip
 ```
-epr-21864.ic27
-epr-21863.ic27
-epr-21862.ic27
-epr-21864p.ic27
-epr-21862p.ic27
+epr-21864.ic27 (maincpu $0 - 2MB) Ferrari F355 Deluxe (Export)
+epr-21863.ic27 (maincpu $0 - 2MB) Ferrari F355 Deluxe (USA)
+epr-21862.ic27 (maincpu $0 - 2MB) Ferrari F355 Deluxe (Japan)
+epr-21864p.ic27 (maincpu $0 - 2MB) Ferrari F355 Deluxe (Export, prototype)
+epr-21862p.ic27 (maincpu $0 - 2MB) Ferrari F355 Deluxe (Japan, prototype)
+main_eeprom.bin (main_eeprom $0 - 128 bytes)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132 bytes)
 ```
 
 - hod2bios.zip
 ```
-epr-21332.ic27
-epr-21331.ic27
-epr-21330.ic27
-epr-21329.ic27
-hotd2biosproto.ic27
+epr-21331.ic27 (cpu1 $0 - 2MB) HOTD2 (Export)
+epr-21330.ic27 (cpu1 $0 - 2MB) HOTD2 (USA)
+epr-21329.ic27 (cpu1 $0 - 2MB) HOTD2 (Japan)
+epr-21332.ic27 (cpu1 $0 - 2MB) HOTD2 (Korea)
+hotd2biosproto.ic27 (cpu1 $0 - 2MB) HOTD2 (Proto)
+main_eeprom.bin (main_eeprom $0 - 128 bytes)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132 bytes)
 ```
 
 - naomi.zip
 ```
-epr-21576h.ic27
-epr-21576g.ic27
-epr-21576e.ic27
-epr-21576d.ic27
-epr-21576c.ic27
-epr-21576b.ic27
-epr-21576a.ic27
-epr-21576.ic27
-epr-21578h.ic27
-epr-21578g.ic27
-epr-21578f.ic27
-epr-21578e.ic27
-epr-21578d.ic27
-epr-21578a.ic27
-epr-21577h.ic27
-epr-21577g.ic27
-epr-21577e.ic27
-epr-21577d.ic27
-epr-21577a.ic27
-epr-21579d.ic27
-epr-21579.ic27
-boot_rom_64b8.ic606
-develop110.ic27
-develop.ic27
-zukinver0930.ic25
-epr-21576h_multi.ic27
-boot_rom_64b8.ic606
-develop110.ic27
-develop.ic27
-315-6188.ic31 ?
+epr-21576h.ic27 (maincpu $0 - 2MB) Japan
+epr-21576g.ic27 (maincpu $0 - 2MB) Japan
+epr-21576e.ic27 (maincpu $0 - 2MB) Japan
+epr-21576d.ic27 (maincpu $0 - 2MB) Japan
+epr-21576c.ic27 (maincpu $0 - 2MB) Japan
+epr-21576b.ic27 (maincpu $0 - 2MB) Japan
+epr-21576a.ic27 (maincpu $0 - 2MB) Japan
+epr-21576.ic27 (maincpu $0 - 2MB) Japan
+epr-21578h.ic27 (maincpu $0 - 2MB) Export
+epr-21578g.ic27 (maincpu $0 - 2MB) Export
+epr-21578f.ic27 (maincpu $0 - 2MB) Export
+epr-21578e.ic27 (maincpu $0 - 2MB) Export
+epr-21578d.ic27 (maincpu $0 - 2MB) Export
+epr-21578a.ic27 (maincpu $0 - 2MB) Export
+epr-21577h.ic27 (maincpu $0 - 2MB) USA
+epr-21577g.ic27 (maincpu $0 - 2MB) USA
+epr-21577e.ic27 (maincpu $0 - 2MB) USA
+epr-21577d.ic27 (maincpu $0 - 2MB) USA
+epr-21577a.ic27 (maincpu $0 - 2MB) USA
+epr-21579d.ic27 (maincpu $0 - 2MB) Korea
+epr-21579.ic27 (maincpu $0 - 2MB) Korea
+boot_rom_64b8.ic606 (maincpu $0 - 512k) Set4 Dev BIOS
+develop110.ic27 (maincpu $0 - 2MB) Dev BIOS v1.10
+develop.ic27 (maincpu $0 - 2MB) "Dev BIOS (Nov 1998)
+zukinver0930.ic25 (maincpu $0 - 2MB) Development ROM Board
+epr-21576h_multi.ic27 (maincpu $0 - 2MB) Multi-region hack
+epr-21336a.ic27 (maincpu $0 - 2MB) Dev BIOS v1.2
+naomi_boot_2491.ic27 (maincpu $0 - 2MB) Dev Naomi Boot 2491
+315-6188.ic31 (altera_pof $0 - 8244)
+main_eeprom.bin (main_eeprom $0 - 128)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132)
 ```
 
 - naomigd.zip
 ```
-epr-21576h.ic27
-epr-21576g.ic27
-epr-21576e.ic27
-epr-21578h.ic27
-epr-21578g.ic27
-epr-21578e.ic27
-epr-21577h.ic27
-epr-21577g.ic27
-epr-21577e.ic27
+epr-21576e.ic27 (maincpu $0 - 2MB) Japan
+epr-21576g.ic27 (maincpu $0 - 2MB) Japan
+epr-21576h.ic27 (maincpu $0 - 2MB) Japan
+epr-21578h.ic27 (maincpu $0 - 2MB) Export
+epr-21578g.ic27 (maincpu $0 - 2MB) Export
+epr-21578e.ic27 (maincpu $0 - 2MB) Export
+epr-21577h.ic27 (maincpu $0 - 2MB) USA
+epr-21577g.ic27 (maincpu $0 - 2MB) USA
+epr-21577e.ic27 (maincpu $0 - 2MB) USA
+main_eeprom.bin (main_eeprom $0 - 128)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132)
 ```
 
 - naomi2.zip
 ```
-epr-23605.ic27
-epr-23605a.ic27
-epr-23605b.ic27
-epr-23605c.ic27
-epr-23605c_multi.ic27
-epr-23607.ic27
-epr-23607b.ic27
-epr-23607c.ic27
-epr-23608.ic27
-epr-23608a.ic27
-epr-23608b.ic27
-epr-23608c.ic27
-epr-23609b.ic27
+epr-23605c.ic27 (maincpu $0 - 2MB) Japan
+epr-23605b.ic27 (maincpu $0 - 2MB) Japan
+epr-23605a.ic27 (maincpu $0 - 2MB) Japan
+epr-23605.ic27 (maincpu $0 - 2MB) Japan
+epr-23608c.ic27 (maincpu $0 - 2MB) Export
+epr-23608b.ic27 (maincpu $0 - 2MB) Export
+epr-23608a.ic27 (maincpu $0 - 2MB) Export
+epr-23608.ic27 (maincpu $0 - 2MB) Export
+epr-23607c.ic27 (maincpu $0 - 2MB) USA
+epr-23607b.ic27 (maincpu $0 - 2MB) USA
+epr-23607.ic27 (maincpu $0 - 2MB) USA
+epr-23609b.ic27 (maincpu $0 - 2MB) Korea
+epr-23605c_multi.ic27 (maincpu $0 - 2MB) Multi-region hack
+main_eeprom.bin (main_eeprom $0 - 128)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132)
 ```    
    
 - awbios.zip
 ```
-bios0.ic23
-bios1.ic23
-fpr-24363.ic48
+bios0.ic23 (awflash $0 - 128k) (Sammy BIOS)
+bios1.ic23 (awflash $0 - 128k) (Sammy BIOS)
+fpr-24363.ic48 (awflash $0 - 512k) (Sega BIOS)
 ```
 
 - segasp.zip:
 ```
-epr-24236a.ic50
-epr-24328.ic50
-epr-24328a.ic50
-mb_eeprom_exp.ic54s
-mb_eeprom_us.ic54s
-mb_serial.ic57
-net_eeprom.ic74s
-net_firm_119.ic72
-```  
+epr-24236a.ic50 (maincpu $0 - 2MB) BOOT VER 1.01
+epr-24328.ic50 (maincpu $0 - 2MB) BOOT VER 2.00
+epr-24328a.ic50 (maincpu $0 - 2MB) BOOT VER 2.01
+mb_serial.ic57 (main_eeprom $0 - 128 bytes)
+net_eeprom.ic74s (netcpu $0 - 512 bytes)
+net_firm_119.ic72 (netcpu $0 - 2MB)
+fpr-24208a.ic72 (netcpu $0 - 2MB)
+fpr-24329.ic72 (netcpu $0 - 2MB)
+fpr-24407.ic72 (netcpu $0 - 2MB)
+fpr-24407_123.ic72 (netcpu $0 - 2MB)
+mb_eeprom_us.ic54s (sp_eeprom $0 - 128 bytes)
+mb_eeprom_exp.ic54s (sp_eeprom $0 - 128 bytes)
+```
 
