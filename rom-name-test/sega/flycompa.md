@@ -44,8 +44,10 @@
 | The House of the Dead 2 | hotd2p     |	hotd2    | Prototype                     |  ???             | ???          | ???               |  ???          |
                                                                                                                                          
 
-# Naomi List
+# Naomi
  [back to Menu](#compatibility)  
+- naomi.zip
+
 |  Name                                                                           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen  | Widescreen Cheats |                 NOTES                    |
 | ------------------------------------------------------------------------------- | ---------- | --------- | ------------------------------ |----------------- | ------------ | ----------------- | ---------------------------------------- |
 | 18 Wheeler: American Pro Trucker                                                | 18wheelr   | naomi     | Deluxe, Rev A                  |  ???             | ???          | ???               | 025C64A8 43700000 ???                    |
@@ -230,10 +232,9 @@
 																														   
 																														   
 																														   
- # naomigd   
-
-Naomi-gd
+ # Naomigd   
  [back to Menu](#compatibility)  
+- naomigd.zip
 
 |  Name                                                                   | Roms       | parent    | GD-ROM     | Version / Region    | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   |
 | ----------------------------------------------------------------------- | ---------- | --------- | ---------- | ------------------- |----------------- | ------------ | ----------------- | ---------------------------------------------- |
@@ -338,7 +339,7 @@ Naomi-gd
 
 # NAOMI 2
  [back to Menu](#compatibility) 
-
+- naomi2.zip
 
 | [NAOMI 2 Cartridge](#naomi-2-cartridge)  |  [NAOMI 2 GD-ROM](#naomi-2-gd-rom)   |  [NAOMI 2 Satellite Terminal](#naomi-2-satellite-terminal) |
 
@@ -429,6 +430,7 @@ Naomi-gd
 
 # Atomiswave 
  [back to Menu](#compatibility)  
+- awbios.zip
 
 | Name                                                                | Roms         | Parent    |  Version / Region      | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                                                                      | 
 | ------------------------------------------------------------------- | ---------    | --------  |  --------------------- | ----------------- | ------------ | ----------------- | --------------------------------------------------------------------------------------------- | 
@@ -475,8 +477,7 @@ Naomi-gd
 
 # System SP : 
 [back to Menu](#compatibility) 
-
-
+- segasp.zip
 
 | Name                                                               | Roms         | Parent    | CHD        |  Version / Region         | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES |
 | -------------------------------------------------------------------| ------------ | --------- | ---------- | ------------------------  | ----------------- | ------------ | ----------------- | ----------------------- | 
