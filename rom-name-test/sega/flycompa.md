@@ -5,7 +5,8 @@
 - [Naomi 2](#naomi-2) 
 - [Atomiswave](#atomiswave)
 - [System SP](#system-sp)
-
+- 
+- [Bios List](#bios)
 																													 
 ## Airline Pilots
 - airlbios.zip
@@ -31,7 +32,7 @@
 | Ferrari F355 Challenge 2 - International Course Edition   | f355twn2   | f355bios  | Twin/deluxe                                          |  ???             | ???          | ???               |  ???          |
                                                                                                                                         
 
-## House of the Dead hotd  
+## House of the Dead  
 
 - hod2bios.zip
 
@@ -513,3 +514,129 @@
 | Western Dream Gold                                                 | westdrmg     | segasp    |            |                           |   ???             | ???          | ???               |  ???                    |
                                                                                                                   
 																												  
+
+# Bios 
+[back to Menu](#compatibility) 
+
+The bios list might be incrrect . This is not representative of what you need inside your zip . 
+Its an attempt to list files.
+
+Bios : 
+`main_eeprom.bin     ?  ` 
+`x76f100_eeprom.bin  ?`
+
+
+- airlbios.zip
+```
+epr-21802.ic27  
+epr-21801.ic27  
+```
+
+- f355bios.zip
+```
+epr-22851.ic27  
+epr-22850.ic27  
+epr-22849.ic27  
+```
+
+- f355dlx.zip
+```
+epr-21864.ic27  
+epr-21863.ic27  
+epr-21862.ic27  
+epr-21864p.ic27 
+epr-21862p.ic27 
+```
+
+- hod2bios.zip
+```
+epr-21332.ic27      
+epr-21331.ic27      
+epr-21330.ic27      
+epr-21329.ic27      
+hotd2biosproto.ic27 
+```
+
+- naomi.zip
+```
+epr-21576h.ic27      
+epr-21576g.ic27      
+epr-21576e.ic27      
+epr-21576d.ic27      
+epr-21576c.ic27      
+epr-21576b.ic27      
+epr-21576a.ic27      
+epr-21576.ic27       
+epr-21578h.ic27      
+epr-21578g.ic27      
+epr-21578f.ic27      
+epr-21578e.ic27      
+epr-21578d.ic27      
+epr-21578a.ic27      
+epr-21577h.ic27      
+epr-21577g.ic27      
+epr-21577e.ic27      
+epr-21577d.ic27      
+epr-21577a.ic27      
+epr-21579d.ic27      
+epr-21579.ic27       
+boot_rom_64b8.ic606  
+develop110.ic27      
+develop.ic27         
+zukinver0930.ic25    
+epr-21576h_multi.ic27
+boot_rom_64b8.ic606  
+develop110.ic27      
+develop.ic27         
+315-6188.ic31 ?      
+```
+
+- naomigd.zip
+```
+epr-21576h.ic27  
+epr-21576g.ic27  
+epr-21576e.ic27  
+epr-21578h.ic27  
+epr-21578g.ic27  
+epr-21578e.ic27  
+epr-21577h.ic27  
+epr-21577g.ic27  
+epr-21577e.ic27  
+```
+
+- naomi2.zip
+```
+epr-23605.ic27        
+epr-23605a.ic27       
+epr-23605b.ic27       
+epr-23605c.ic27       
+epr-23605c_multi.ic27 
+epr-23607.ic27        
+epr-23607b.ic27       
+epr-23607c.ic27       
+epr-23608.ic27        
+epr-23608a.ic27       
+epr-23608b.ic27       
+epr-23608c.ic27       
+epr-23609b.ic27   
+```    
+   
+- awbios.zip
+```
+bios0.ic23       
+bios1.ic23       
+fpr-24363.ic48   
+```
+
+- segasp.zip:
+```
+epr-24236a.ic50      
+epr-24328.ic50       
+epr-24328a.ic50      
+mb_eeprom_exp.ic54s  
+mb_eeprom_us.ic54s   
+mb_serial.ic57       
+net_eeprom.ic74s     
+net_firm_119.ic72  
+```  
+
