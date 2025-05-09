@@ -1,0 +1,7 @@
+. "$env:APPDATA\EmuDeck\backend\vars.ps1"
+. "$env:APPDATA\emudeck\settings.ps1"
+. "$env:APPDATA\EmuDeck\backend\functions\createLink.ps1"
+. "$env:APPDATA\EmuDeck\backend\functions\createLauncher.ps1"
+. "$env:APPDATA\EmuDeck\backend\functions\helperFunctions.ps1"
+. "$env:APPDATA\EmuDeck\backend\functions\ToolScripts\emuDeckSaveSync.ps1"
+. "$env:APPDATA\EmuDeck\backend\functions\emulatorInit.ps1"
