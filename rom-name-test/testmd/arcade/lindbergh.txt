@@ -1,0 +1,58 @@
+
+
+
+Games
+Title 	Kernel 	Resolution 	Preserved
+After Burner Climax 	? 	? 	?
+Ami-Gyo 	? 	? 	?
+Ami-No-San 	? 	? 	?
+Hummer Extreme Edition 	? 	? 	?
+Initial D Arcade Stage 4 	? 	? 	?
+Initial D Arcade Stage 4 Kai 	? 	? 	?
+Initial D Arcade Stage 4 Limited 	? 	? 	?
+Initial D Arcade Stage 5 	? 	? 	?
+Lets Go Jungle 	? 	? 	?
+Lets Go Jungle Special 	? 	? 	?
+Outrun 2 SP SDX / Outrun 2 SP DX 	? 	? 	?
+Outrun 2 Special Tours 	? 	? 	?
+Power Smash 3 / Virtua Tennis 3 	? 	1360x768 	DVP-0005C
+Psy Phi 	? 	? 	?
+R Tuned: Ultimate Street Racing 	? 	? 	?
+Sega Race TV 	? 	? 	DVP-0044
+SNC 	? 	? 	?
+SNC Ver 2.0 	? 	? 	?
+The House of the Dead 4 	? 	? 	DVP-0003A
+The House of the Dead 4 Special 	? 	? 	?
+The World of Three Kingdoms 	? 	? 	?
+Toamigyo 	? 	? 	?
+Virtua Fighter 5 	? 	? 	?
+Virtua Fighter 5 Final Showdown 	? 	? 	?
+Virtua Fighter 5 R 	? 	? 	?
+Virtua Fighter 5 Version B 	? 	? 	?
+Virtua Fighter 5 Version C 	? 	? 	?
+Virtua Fighter 5 Version D 	? 	? 	?
+Derby Owners Club 2008: Feel the Rush 	? 	? 	?
+Derby Owners Club 2008: Feel the Rush V2.0 	? 	? 	?
+Star Horse 2 	? 	? 	?
+Star Horse 2 Fifth Expansion 	? 	? 	?
+Star Horse 2 Final Destination 	? 	? 	?
+Star Horse 2 Fourth Ambition 	? 	? 	?
+Star Horse 2 Second Fusion 	? 	? 	?
+Star Horse 2 Third Evolution 	? 	? 	?
+World Club Champion Football Intercontinental Clubs 2006-2007 	? 	? 	?
+World Club Champion Football Intercontinental Clubs 2007-2008 	? 	? 	?
+World Club Champion Football Intercontinental Clubs 2008-2009 	? 	? 	?
+World Club Champion Football Intercontinental Clubs 2009-2010 	? 	? 	?
+2 Spicy 	? 	? 	DVP-0027A
+Answer X Answer 	? 	? 	?
+Answer X Answer 1.1 	? 	? 	?
+Answer X Answer DX 	? 	? 	?
+Answer X Answer Premium 	? 	? 	?
+Club Majesty Extend 	? 	? 	?
+Club Majesty Formal 	? 	? 	?
+Ghost Squad Evolution 	? 	? 	DVP-0029A
+Primevil Hunt 	? 	? 	DVP-0048A
+SEGA Network Taisen Mahjong MJ4 	? 	? 	?
+The House of the Dead EX 	? 	? 	?
+Harley Davidson: King of the Road 	? 	? 	?
+Rambo 	? 	? 	DVP-0069 

@@ -1,0 +1,59 @@
+ames list
+Name 	Executable file 	Version 	Revision 	ID 	Genre 	Working ? 	Notes 	
+2 Spicy 	apacheM.elf 			2spicy 	Gun 	✔ 	Left/right d-pad on light guns to go left/right 	
+After Burner Climax (Export) 	abc 		Rev B 	abclimax 	Flight 	✔ 		
+	abc 		Rev A 	abclimaxa 	Flight 	:?: 		
+	abc 	SDX 	Rev A 	abclimsdx 	Flight 	✔ 		
+	abc 	SE 	Rev A 	abclimse 	Flight 	:?: 		
+Ghost Squad Evolution 	vsg or gsevo 		Rev A 	ghostsev 	Gun 	✔ 	Left d-pad on light guns to switch rate of fire 	
+Harley-Davidson: King of the Road 	chopperM.elf 			hdkotr 	Wheel 	✔ 		
+Hummer 	a.elf 		Rev A 	hummer 	Wheel 	✔ 		
+	a.elf 	SDLX 	Rev A 	hummerlx 	Wheel 	:?: 		
+Hummer Extreme 	hummer_Master.elf 		Rev A 	hummerxt 	Wheel 	✔ 		
+	hummer_Master.elf 	MDX 	Rev A 	hummerxtm 	wheel 	:?: 		
+Initial D 4 (Export) 	id4.elf 		Rev D 	initiad4ex 	Wheel 	✔ 		
+	id4.elf 		Rev B 	initiad4exb 	Wheel 	✔ 		
+	id4.elf 		Rev C 	initiad4exc 	Wheel 	✔ 		
+Initial D Arcade Stage 4 	id4.elf 		Rev G 	initiad4 	Wheel 	✔ 		
+	id4.elf 		Rev A 	initiad4a 	Wheel 	✔ 		
+	id4.elf 		Rev B 	initiad4b 	Wheel 	✔ 		
+	id4.elf 		Rev C 	initiad4c 	Wheel 	✔ 		
+	id4.elf 		Rev D 	initiad4d 	Wheel 	✔ 		
+Initial D 5 (Export) 	id5.elf 	4.0 		initiad5ex 	Wheel 	✔ 		
+	id5.elf 	2.0 		initiad5exa 	Wheel 	✔ 		
+	id5.elf 	2.0 	Rev A 	initiad5exab 	Wheel 	:?: 		
+Initial D Arcade Stage 5 	id5.elf 		Rev B 	initiad5 	Wheel 	:?: 		
+	id5.elf 		Rev A 	initiad5a 	Wheel 	:?: 		
+Let's go Jungle! 	lgj_final 		Rev B 	letsgoju 	Gun 	:!: 	START button for action; super sensitive axis 	
+	lgj_final 		Rev A 	letsgojua 	Gun 	:?: 		
+Let's go Jungle! Special 	lgjsp_app 			letsgojusp 	Gun 	✔ 	START button for action 	
+OutRun 2 SP SDX 	Jennifer 			outr2sdx 	Wheel 	✔ 		
+OutRun 2 SP SDX 	Jennifer 			outr2sdxa 	Wheel 	:?: 		
+OutRun 2 SP SDX 	Jennifer 	Bootleg 		outr2sdxg 	Wheel 	✔ 	Hacked music track 	
+Primeval Hunt 	main.exe 			primevah 	Gun 	✔ 		
+R-Tuned Ultimate Street Racing 	dsr 			rtuned 	Wheel 	✔ 		
+Rambo 	ramboM.elf 			rambo 	Gun 	✔ 		
+Sega Race TV 	drive.elf 			segartv 	Wheel 	✔ 		
+The House of the Dead 4 	hod4M.elf 		Rev C 	hotd4 	Gun 	✔ 		
+	hod4M.elf 		Rev A 	hotd4a 	Gun 	✔ 		
+	hod4M.elf 		Rev B 	hotd4b 	Gun 	✔ 		
+The House of the Dead 4 Special 	hod4M.elf 	Export 		hotd4sp 	Gun 	✔ 		
+	hod4M.elf 		Rev B 	hotd4spb 	Gun 	:?: 		
+The House of the Dead EX 	hodexRI.elf 			hotdex 	Gun 	✔ 		
+Virtua fighter 5 (Export) 	vf5 			vf5 	Fight 	✔ 		
+	vf5 		Rev A 	vf5a 	Fight 	✔ 		
+	vf5 		Rev B 	vf5b 	Fight 	✔ 		
+	vf5 		Rev C 	vf5c 	Fight 	✔ 		
+	vf5 		Rev D 	vf5d 	Fight 	✔ 		
+Virtua fighter 5 C 	vf5 	Public C 	Rev E 	vf5e 	Fight 	✔ 		
+Virtua fighter 5 Final Showdown 	vf5 	6.0 	Rev B 	vf5fs 	Fight 	✔ 		
+	vf5 	1.0 	Rev A 	vf5fsa1 	Fight 	✔ 		
+	vf5 	2.0 	Rev A 	vf5fsa2 	Fight 	✔ 		
+	vf5 	6.0 	Rev A 	vf5fsa6 	Fight 	✔ 		
+	vf5 	1.0 	Rev B 	vf5fsb1 	Fight 	✔ 		
+Virtua fighter 5 R 	vf5 		Rev G 	vf5r 	Fight 	✔ 		
+	vf5 		Rev D 	vf5rd 	Fight 	✔ 		
+Virtua Tennis 3 	vt3 or vt3_Lindbergh 		Rev C 	vtennis3 	Sport 	✔ 		
+Virtua Tennis 3 	vt3 or vt3_Lindbergh 		Rev A 	vtennis3 	Sport 	✔ 		
+Virtua Tennis 3 	vt3 or vt3_Lindbergh 		Rev B 	vtennis3 	Sport 	✔ 		
+Game specific notes
