@@ -11,7 +11,7 @@
  [back to Menu](#compatibility)  
 - airlbios.zip
 
-|  Name           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen  | Widescreen Cheats  | NOTES                          |                                                                             
+|  Name           | Roms       | parent    |  Version / Region              | Works Status| Widescreen  | Widescreen Cheats  | NOTES                          |                                                                             
 | ----------------| ---------- | --------- | ------------------------------ |----------------- | ------------ | ----------------- | -------------------------------|
 | Airline Pilots  | alpiltdx   |           | Deluxe, Rev B                  |  ???             | ???          | ???               |    ???                         |
 | Airline Pilots  | alpilot    |           | World, Rev B                   |  ???             | ???          | ???               |    ???                         |
@@ -23,7 +23,7 @@
 - f355dlx.zip
 
 
-|  Name                                                     | Roms       | parent    |  Version / Region                                   | Native Widescreen| Widescreen   | Widescreen Cheats  |  NOTES        |
+|  Name                                                     | Roms       | parent    |  Version / Region                                   | Works Status| Widescreen   | Widescreen Cheats  |  NOTES        |
 | ----------------------------------------------------------| ---------- | --------- | ---------------------------------------------------- |----------------- | ------------ | ----------------- |---------------|
 | Ferrari F355 Challenge                                    | f355       | f355dlx   | Deluxe, no link                                      |  ???             | ???          | ???               |  ???          |
 | Ferrari F355 Challenge                                    | f355p      | f355      | Private show version                                 |  ???             | ???          | ???               |  ???          |
@@ -37,7 +37,7 @@
 - hod2bios.zip
 
 
-|  Name                   | Roms       | parent          |  Version / Region             | Native Widescreen| Widescreen   | Widescreen Cheats | NOTES         |
+|  Name                   | Roms       | parent          |  Version / Region             | Works Status| Widescreen   | Widescreen Cheats | NOTES         |
 | ------------------------| ---------- | --------------- | ----------------------------- |----------------- | ------------ | ----------------- | ------------- |
 | The House of the Dead 2 | hotd2      |	hod2bios | USA                           |  ???             | ???          | ???               |  ???          |
 | The House of the Dead 2 | hotd2e     |	hotd2    | Export                        |  ???             | ???          | ???               |  ???          |
@@ -49,7 +49,7 @@
  [back to Menu](#compatibility)  
 - naomi.zip
 
-|  Name                                                                           | Roms       | parent    |  Version / Region              | Native Widescreen| Widescreen   | Widescreen Cheats |                 NOTES                    |
+|  Name                                                                           | Roms       | parent    |  Version / Region              | Works Status| Widescreen   | Widescreen Cheats |                 NOTES                    |
 | ------------------------------------------------------------------------------- | ---------- | --------- | ------------------------------ |----------------- | ------------ | ----------------- | ---------------------------------------- |
 | 18 Wheeler: American Pro Trucker                                                | 18wheelr   | naomi     | Deluxe, Rev A                  |  ???             | ???          | ???               | 025C64A8 43700000 ???                    |
 | 18 Wheeler: American Pro Trucker                                                | 18wheelro  | 18wheelr  | Deluxe                         |  ???             | ???          | ???               | 025C64A8 43700000 ???                    |
@@ -237,7 +237,7 @@
  [back to Menu](#compatibility)  
 - naomigd.zip
 
-|  Name                                                                   | Roms       | parent    | GD-ROM     | Version / Region    | Native Widescreen| Widescreen   | Widescreen Cheats| NOTES                                                        |
+|  Name                                                                   | Roms       | parent    | GD-ROM     | Version / Region    | Works Status| Widescreen   | Widescreen Cheats| NOTES                                                        |
 | ----------------------------------------------------------------------- | ---------- | --------- | ---------- | ------------------- | ---------------- | ------------ | ---------------- | ------------------------------------------------------------ |
 | Azumanga Daioh Puzzle Bobble                                            | azumanga   | naomigd   | GDL-0018   |                     |  ???             | ???          | ???              |                                                              |
 | Border Down                                                             | bdrdown    | naomigd   | GDL-0023A  | Rev A               |  ???             | ???          | ???              |                                                              |
@@ -347,7 +347,7 @@
 ## NAOMI 2 Cartridge:
 [Back to the Top](#naomi-2)
 
- | Name                                                                | Roms      | Parent   |  CHD       |  Version / Region           | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   | 
+ | Name                                                                | Roms      | Parent   |  CHD       |  Version / Region           | Works Status | Widescreen   | Widescreen Cheats | NOTES                   | 
  | ------------------------------------------------------------------- | --------- | -------- | ---------- |  -------------------------- | ----------------- | ------------ | ----------------- | ----------------------- |
  |  Club Kart: European Session                                        | clubk2k3  | naomi2   |   No       |  Rev A, 2003                |   ???             | ???          | ???               |  ???                    |
  |  Club Kart: European Session                                        | clubk2kf  | naomi2   |   No       |  Rev A, 2003, Not Protected |   ???             | ???          | ???               |  ???                    |
@@ -378,7 +378,7 @@
 ## NAOMI 2 GD-ROM
 [Back to the Top](#naomi-2)																										
 																										
-|  Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   | 
+|  Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Works Status | Widescreen   | Widescreen Cheats | NOTES                   | 
 |  ------------------------------------------------------------------- | --------- | -------- | ---------- |  ----------------------- | ----------------- | ------------ | ----------------- | ----------------------- |
 |  Beach Spikers                                                       | beachspi  | naomi2   | GDS-0014   |                          |   ???             | ???          | Perfect           | 02065A7C 44558000       |
 |  Club Kart Cycraft Edition                                           | clubkcyc  | naomi2   | GDS-0029A  | Rev A                    |   ???             | ???          | ???               | ???                     |
@@ -412,7 +412,7 @@
 ## NAOMI 2 Satellite Terminal
 [Back to the Top](#naomi-2)
 																																	
-|  Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   | 
+|  Name                                                                | Roms      | Parent   |  CHD       |  Version / Region        | Works Status | Widescreen   | Widescreen Cheats | NOTES                   | 
 |  ------------------------------------------------------------------- | --------- | -------- | ---------- |  ----------------------- | ----------------- | ------------ | ----------------- | ----------------------- |
 |  World Club Champion Football European Clubs 2004-2005               | wccf310j  |          | CDV-10013  | Japan                    |   ???             | ???          | ???               |  ???                    |
 |  World Club Champion Football European Clubs 2004-2005 Ver.1.1       | wccf331e  |          | CDV-10015  | Ver.1.1, Export          |   ???             | ???          | ???               |  ???                    |
@@ -433,46 +433,46 @@
  [back to Menu](#compatibility)  
 - awbios.zip
 
-| Name                                                                | Roms         | Parent    |  Version / Region      | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                                                                                         | 
-| ------------------------------------------------------------------- | ---------    | --------  |  --------------------- | ----------------- | ------------ | ----------------- | --------------------------------------------------------------------------------------------- | 
-| Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskt     |	awbios   | 24 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
-| Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskta    |	anmlbskt | 19 Jan 2005            |   ???             | ???          | ???               |  ???                                                                                          |
-| Block Pong-Pong (2005)                                              | blokpong     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Chase 1929 (2004)                                                   |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
-| Demolish Fist (2003                                                 | demofist     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Dirty Pigskin Football (2004)                                       | dirtypig     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Dolphin Blue (2003)                                                 | dolphin      |	awbios   |                        |   ???             | ???          | Perfect           | 023F2E2C 43B90000 <br /> 023F2190 3FAA9FBE <br /> 023F2E6C 43B90000 <br />  023F215C 43F00000 |
-| Extreme Hunting (2005)                                              | xtrmhnt2     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Extreme Hunting 2 Tournament Edition (2006)                         | xtrmhunt     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Fist Of The Northstar / Hokuto No Ken (2005)                        | fotns        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Faster Than Speed (2004)                                            | ftspeed      |	awbios   |                        |   ???             | ???          | Perfect           | 023488E0 3F400000                                                                             |
-| Force Five (2004)                                                   |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
-| Guilty Gear Isuka (2003)                                            | ggisuka      |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Guilty Gear X Ver. 1.5 (2003)                                       | ggx15        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Kenju (2005)                                                        |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
-| Knights of Valour: The Seven Spirits (2003)                         | kov7sprt     |	awbios   |                        |   ???             | ???          | Perfect           | 02475B70 3F400000 <br /> 02475B40 43F00000                                                    |
-| Maximum Speed (2003)                                                | maxspeed     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Metal Slug 6 (2006)                                                 | mslug6       |	awbios   |                        |   ???             | ???          | Perfect           | 02E93478 3F400000 <br /> 02E9347C 3F8872B0                                                    |
-| NeoGeo Battle Coliseum (2005)                                       | ngbc         |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| NeoGeo Battle Coliseum (2005)                                       | ngbcj        |	ngbc     | Japan                  |   ???             | ???          | ???               |  ???                                                                                          |
-| Net Select Keiba Horse Racing Victory Furlong (2005)                | vfurlong     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Net Select Salaryman Kintarou (2004)                                | salmankt     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Premier Eleven (2003)                                               |              |	         | Unreleased             |   ???             | ???          | ???               |  ???                                                                                          |
-| Ranger Mission (2004)                                               | rangrmsn     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Samurai Spirits Tenkaichi Kenkakuden (2005)                         | samsptk      |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Sega Bass Fishing Challenge (2009)                                  | basschal     |	awbios   | Ver. A                 |   ???             | ???          | ???               |  ???                                                                                          |
-| Sega Bass Fishing Challenge (2009)                                  | basschalo    |	basschal | Japan                  |   ???             | ???          | ???               |  ???                                                                                          |
-| Sega Clay Challenge (2009)                                          | claychal     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Sports Shooting USA (2003)                                          | sprtshot     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| Sushi Bar (2003)                                                    | sushibar     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| The King of Fighters Neowave (2004)                                 | kofnw        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| The King of Fighters Neowave (2004)                                 | kofnwj       |	kofnw    | Japan                  |   ???             | ???          | ???               |  ???                                                                                          |
-| The King of Fighters XI (2005)                                      | kofxi        |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| The Rumble Fish (2004)                                              | rumblef      |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| The Rumble Fish 2 (2005)                                            | rumblef2     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
-| The Rumble Fish (2004)                                              | rumblefp     |	rumblef  | Prototype              |   ???             | ???          | ???               |  ???                                                                                          |
-| The Rumble Fish 2 (2005)                                            | rumblf2p     |	rumblef2 | Prototype              |   ???             | ???          | ???               |  ???                                                                                          |
-| Wai Wai Drive (2005)                                                | waidrive     |	awbios   |                        |   ???             | ???          | ???               |  ???                                                                                          |
+| Name                                                                | Roms         | Parent    |  Version / Region      | Works Status | Native Widescreen / Widescreen Hack  | Widescreen Cheat Codes                                                                 | 
+| ------------------------------------------------------------------- | ---------    | --------  |  --------------------- | ------------ | ------------------------------------ | -------------------------------------------------------------------------------------- | 
+| Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskt     |	awbios   | 24 Jan 2005            |   ???        | ???                                  |  ???                                                                                   |
+| Animal Basket / Hustle Tamaire Kyousou (2005)                       | anmlbskta    |	anmlbskt | 19 Jan 2005            |   ???        | ???                                  |  ???                                                                                   |
+| Block Pong-Pong (2005)                                              | blokpong     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Chase 1929 (2004)                                                   |              |	         | Unreleased             |   ???        | ???                                  |  ???                                                                                   |
+| Demolish Fist (2003                                                 | demofist     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Dirty Pigskin Football (2004)                                       | dirtypig     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Dolphin Blue (2003)                                                 | dolphin      |	awbios   |                        |   ???        | Perfect                              | 023F2E2C 43B90000<br />023F2190 3FAA9FBE<br />023F2E6C 43B90000<br />023F215C 43F00000 |
+| Extreme Hunting (2005)                                              | xtrmhnt2     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Extreme Hunting 2 Tournament Edition (2006)                         | xtrmhunt     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Fist Of The Northstar / Hokuto No Ken (2005)                        | fotns        |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Faster Than Speed (2004)                                            | ftspeed      |	awbios   |                        |   ???        | Perfect                              | 023488E0 3F400000                                                                      |
+| Force Five (2004)                                                   |              |	         | Unreleased             |   ???        | ???                                  |  ???                                                                                   |
+| Guilty Gear Isuka (2003)                                            | ggisuka      |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Guilty Gear X Ver. 1.5 (2003)                                       | ggx15        |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Kenju (2005)                                                        |              |	         | Unreleased             |   ???        | ???                                  |  ???                                                                                   |
+| Knights of Valour: The Seven Spirits (2003)                         | kov7sprt     |	awbios   |                        |   ???        | Perfect                              | 02475B70 3F400000 <br /> 02475B40 43F00000                                             |
+| Maximum Speed (2003)                                                | maxspeed     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Metal Slug 6 (2006)                                                 | mslug6       |	awbios   |                        |   ???        | Perfect                              | 02E93478 3F400000 <br /> 02E9347C 3F8872B0                                             |
+| NeoGeo Battle Coliseum (2005)                                       | ngbc         |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| NeoGeo Battle Coliseum (2005)                                       | ngbcj        |	ngbc     | Japan                  |   ???        | ???                                  |  ???                                                                                   |
+| Net Select Keiba Horse Racing Victory Furlong (2005)                | vfurlong     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Net Select Salaryman Kintarou (2004)                                | salmankt     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Premier Eleven (2003)                                               |              |	         | Unreleased             |   ???        | ???                                  |  ???                                                                                   |
+| Ranger Mission (2004)                                               | rangrmsn     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Samurai Spirits Tenkaichi Kenkakuden (2005)                         | samsptk      |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Sega Bass Fishing Challenge (2009)                                  | basschal     |	awbios   | Ver. A                 |   ???        | ???                                  |  ???                                                                                   |
+| Sega Bass Fishing Challenge (2009)                                  | basschalo    |	basschal | Japan                  |   ???        | ???                                  |  ???                                                                                   |
+| Sega Clay Challenge (2009)                                          | claychal     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Sports Shooting USA (2003)                                          | sprtshot     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| Sushi Bar (2003)                                                    | sushibar     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| The King of Fighters Neowave (2004)                                 | kofnw        |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| The King of Fighters Neowave (2004)                                 | kofnwj       |	kofnw    | Japan                  |   ???        | ???                                  |  ???                                                                                   |
+| The King of Fighters XI (2005)                                      | kofxi        |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| The Rumble Fish (2004)                                              | rumblef      |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| The Rumble Fish 2 (2005)                                            | rumblef2     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
+| The Rumble Fish (2004)                                              | rumblefp     |	rumblef  | Prototype              |   ???        | ???                                  |  ???                                                                                   |
+| The Rumble Fish 2 (2005)                                            | rumblf2p     |	rumblef2 | Prototype              |   ???        | ???                                  |  ???                                                                                   |
+| Wai Wai Drive (2005)                                                | waidrive     |	awbios   |                        |   ???        | ???                                  |  ???                                                                                   |
 
 
 
@@ -480,38 +480,38 @@
 [back to Menu](#compatibility) 
 - segasp.zip
 
-| Name                                                               | Roms         | Parent    | CHD        |  Version / Region         | Native Widescreen | Widescreen   | Widescreen Cheats | NOTES                   |
-| -------------------------------------------------------------------| ------------ | --------- | ---------- | ------------------------  | ----------------- | ------------ | ----------------- | ----------------------- | 
-| Aminosan                                                           | aminosan     | segasp    |            | satellite                 |   ???             | ???          | ???               |  ???                    |
-| Bingo Galaxy                                                       | bingogal     | segasp    |            | main                      |   ???             | ???          | ???               |  ???                    |
-| Bingo Galaxy                                                       | bingogalo    | segasp    | MDA-C0039A | main                      |   ???             | ???          | ???               |  ???                    |
-| Bingo Galaxy                                                       | bingogals    | segasp    |            | satellite                 |   ???             | ???          | ???               |  ???                    |
-| Bingo Parade                                                       | bingopar     | segasp    | MDA-C0008E | main                      |   ???             | ???          | ???               |  ???                    |
-| Brick People / Block PeePoo                                        | brickppl     | segasp    |            | Ver 1.002                 |   ???             | ???          | ???               |  ???                    |
-| Dinosaur King - D-Team VS. the Alpha Fortress                      | dinoki25     | segasp    | MDA-C0047  | Export, Ver 2.500         |   ???             | ???          | ???               |  ???                    |
-| Kodai Ouja Kyouryuu King - Mezame yo! Arata-naru Chikara!!         | dinoki4      | segasp    | MDA-C0061  | Japan, Ver 4.000          |   ???             | ???          | ???               |  ???                    |
-| Konglongwang - D-Kids VS Alpha Yaosai                              | dinokich     | segasp    | MDA-C0081  | China, Ver 2.501          |   ???             | ???          | ???               |  ???                    |
-| Dinosaur King                                                      | dinoking     | segasp    |            | USA                       |   ???             | ???          | ???               |  ???                    |
-| Dinosaur King - Operation: Dinosaur Rescue                         | dinokior     | segasp    | MDA-C0021  | USA, Export               |   ???             | ???          | ???               |  ???                    |
-| Galileo Factory                                                    | galilfac     | segasp    |            | main                      |   ???             | ???          | ???               |  ???                    |
-| Heat Up Hockey Image                                               | huhimage     | segasp    |            | Ver.1.003R                |   ???             | ???          | ???               |  ???                    |
-| Isshoni Wanwan Waiwai Puppy 2008                                   | isshoni      | segasp    |            |                           |   ???             | ???          | ???               |  ???                    |
-| Yataimura Kingyosukui (1-player)                                   | kingyo       | segasp    |            | Japan, Ver 1.005          |   ???             | ???          | ???               |  ???                    |
-| Yataimura Kingyosukui (4-player)                                   | kingyoch     | segasp    |            | China, Ver 1.000          |   ???             | ???          | ???               |  ???                    |
-| Love And Berry - 3rd-5th Collection                                | loveber3     | segasp    | MDA-C0042  | USA, Export, Ver 1.002    |   ???             | ???          | ???               |  023C16E4 3F400000      |
-| Love And Berry - 3rd-5th Collection                                | loveber3cn   | segasp    | MDA-C0071  | China, Ver 1.001          |   ???             | ???          | ???               |  ???                    |
-| Love And Berry - 1st-2nd Collection                                | lovebero     | segasp    |            | Export, Ver 1.003         |   ???             | ???          | ???               |  ???                    |
-| Love And Berry - 1st-2nd Collection                                | lovebery     | segasp    |            | Export, Ver 2.000         |   ???             | ???          | ???               | 024E92D0 3F400000       |
-| Magical Poppins                                                    | magicpop     | segasp    |            |                           |   ???             | ???          | ???               |  ???                    |
-| Manpuku Suizokukan                                                 | manpuku      | segasp    |            |                           |   ???             | ???          | ???               |  ???                    |
-| Mirage World                                                       | mirworld     | segasp    |            | satellite                 |   ???             | ???          | ???               |  ???                    |
-| Ocha-Ken Hot Medal                                                 | ochaken      | segasp    |            |                           |   ???             | ???          | ???               |  ???                    |
-| Puyo Puyo! The Medal Edition                                       | puyomedal    | segasp    |            |                           |   ???             | ???          | ???               |  ???                    |
-| Yataimura Shateki (1-player)                                       | shateki      | segasp    |            | Japan, Ver 1.000          |   ???             | ???          | ???               |  ???                    |
-| Tetris Giant / Tetris Dekaris                                      | tetgiano     | tetgiant  |            |                           |   ???             | ???          | ???               |  ???                    |
-| Tetris Giant / Tetris Dekaris                                      | tetgiant     | segasp    | MDA-C0076  | Ver.2.000                 |   ???             | ???          | ???               |  ???                    |
-| UNO the Medal                                                      | unomedal     | segasp    |            |                           |   ???             | ???          | ???               |  ???                    |
-| Western Dream Gold                                                 | westdrmg     | segasp    |            |                           |   ???             | ???          | ???               |  ???                    |
+| Name                                                               | Roms         | Parent    | CHD        |  Version / Region         |  Works Status     | Native Widescreen / Widescreen Hack  | Widescreen Cheat Codes  | 
+| -------------------------------------------------------------------| ------------ | --------- | ---------- | ------------------------  | ----------------- | ------------------------------------ | ----------------------- | 
+| Aminosan                                                           | aminosan     | segasp    |            | satellite                 |   ???             | ???                                  |  ???                    |
+| Bingo Galaxy                                                       | bingogal     | segasp    |            | main                      |   ???             | ???                                  |  ???                    |
+| Bingo Galaxy                                                       | bingogalo    | segasp    | MDA-C0039A | main                      |   ???             | ???                                  |  ???                    |
+| Bingo Galaxy                                                       | bingogals    | segasp    |            | satellite                 |   ???             | ???                                  |  ???                    |
+| Bingo Parade                                                       | bingopar     | segasp    | MDA-C0008E | main                      |   ???             | ???                                  |  ???                    |
+| Brick People / Block PeePoo                                        | brickppl     | segasp    |            | Ver 1.002                 |   ???             | ???                                  |  ???                    |
+| Dinosaur King - D-Team VS. the Alpha Fortress                      | dinoki25     | segasp    | MDA-C0047  | Export, Ver 2.500         |   ???             | ???                                  |  ???                    |
+| Kodai Ouja Kyouryuu King - Mezame yo! Arata-naru Chikara!!         | dinoki4      | segasp    | MDA-C0061  | Japan, Ver 4.000          |   ???             | ???                                  |  ???                    |
+| Konglongwang - D-Kids VS Alpha Yaosai                              | dinokich     | segasp    | MDA-C0081  | China, Ver 2.501          |   ???             | ???                                  |  ???                    |
+| Dinosaur King                                                      | dinoking     | segasp    |            | USA                       |   ???             | ???                                  |  ???                    |
+| Dinosaur King - Operation: Dinosaur Rescue                         | dinokior     | segasp    | MDA-C0021  | USA, Export               |   ???             | ???                                  |  ???                    |
+| Galileo Factory                                                    | galilfac     | segasp    |            | main                      |   ???             | ???                                  |  ???                    |
+| Heat Up Hockey Image                                               | huhimage     | segasp    |            | Ver.1.003R                |   ???             | ???                                  |  ???                    |
+| Isshoni Wanwan Waiwai Puppy 2008                                   | isshoni      | segasp    |            |                           |   ???             | ???                                  |  ???                    |
+| Yataimura Kingyosukui (1-player)                                   | kingyo       | segasp    |            | Japan, Ver 1.005          |   ???             | ???                                  |  ???                    |
+| Yataimura Kingyosukui (4-player)                                   | kingyoch     | segasp    |            | China, Ver 1.000          |   ???             | ???                                  |  ???                    |
+| Love And Berry - 3rd-5th Collection                                | loveber3     | segasp    | MDA-C0042  | USA, Export, Ver 1.002    |   ???             | ???                                  | 023C16E4 3F400000       |
+| Love And Berry - 3rd-5th Collection                                | loveber3cn   | segasp    | MDA-C0071  | China, Ver 1.001          |   ???             | ???                                  |  ???                    |
+| Love And Berry - 1st-2nd Collection                                | lovebero     | segasp    |            | Export, Ver 1.003         |   ???             | ???                                  |  ???                    |
+| Love And Berry - 1st-2nd Collection                                | lovebery     | segasp    |            | Export, Ver 2.000         |   ???             | ???                                  | 024E92D0 3F400000       |
+| Magical Poppins                                                    | magicpop     | segasp    |            |                           |   ???             | ???                                  |  ???                    |
+| Manpuku Suizokukan                                                 | manpuku      | segasp    |            |                           |   ???             | ???                                  |  ???                    |
+| Mirage World                                                       | mirworld     | segasp    |            | satellite                 |   ???             | ???                                  |  ???                    |
+| Ocha-Ken Hot Medal                                                 | ochaken      | segasp    |            |                           |   ???             | ???                                  |  ???                    |
+| Puyo Puyo! The Medal Edition                                       | puyomedal    | segasp    |            |                           |   ???             | ???                                  |  ???                    |
+| Yataimura Shateki (1-player)                                       | shateki      | segasp    |            | Japan, Ver 1.000          |   ???             | ???                                  |  ???                    |
+| Tetris Giant / Tetris Dekaris                                      | tetgiano     | tetgiant  |            |                           |   ???             | ???                                  |  ???                    |
+| Tetris Giant / Tetris Dekaris                                      | tetgiant     | segasp    | MDA-C0076  | Ver.2.000                 |   ???             | ???                                  |  ???                    |
+| UNO the Medal                                                      | unomedal     | segasp    |            |                           |   ???             | ???                                  |  ???                    |
+| Western Dream Gold                                                 | westdrmg     | segasp    |            |                           |   ???             | ???                                  |  ???                    |
                                                                                                                   
 																												  
 
