@@ -1,0 +1,207 @@
+種	NO.	カード名	強さ/テク	タイプ	*	データ	*	Dinosaur King 2007 CODE39  Species	No.	Name of card	Strength/Tech	Type	*	Data	*
+竜	22	アリオラムス	1000	カウンター	*	SEGAHT4AU9JP	*	Dragon	02 2 2	Ariolamous	1000	Counter	*	SEGAHT4AU9JP	*
+竜	23	パタゴサウルス	1200	そっこう	*	SEGAK8KGTCXK	*	Dragon	02 3	Patagosaurus	1200	So, let's go.	*	SEGAK 8KG TCXK	*
+竜	24	アリノケラトプス	1600	ピンチ	*	SEGAR95ZXQV2	*	Dragon	0 24	Agnokeratops	1600	Pinch	*	SEGAR95ZXQV2	*
+竜	25	ノドサウルス	1400	そっこう	*	SEGA8UE3HTUK	*	Dragon	0 25	Nodosaurus	1400	So, let's go.	*	Sega 8ue 3 HTUK	*
+竜	26	アルティリヌス	1800	ピンチ	*	SEGA39DVTFPO	*	Dragon	26	Altilinian	1800	Pinch	*	Sega 39 DVF FPO	*
+竜	27	メガラプトル	2000	カウンター	*	SEGA69HADJP4	*	Dragon	0 27	Megaraptor	2000	Counter	*	SEGA69 HADJP4	*
+技	52	トリプルヘッドバッド	!	-	*	SEGATG4MZDCU	*	Techniques	05 2	Triple Headbad	!	-	*	SEGA T T 4 MZ D C	*
+技	53	サウラのいやし	!	-	*	SEGA54B6YWHX	*	Techniques	53	Saura's healing	!	-	*	SEGA54B6YWHX	*
+技	54	わざふうじ	!	-	*	SEGAUBXVSTXW	*	Techniques	05 4	わざふうじ	!	-	*	Sega B X V TX W	*
+草	75	スーパーインパクト	-	-	*	SEGAAVYQF3IS	*	Grass	75	Super Impact	-	-	*	Segaavy QF3 is	*
+風	80	ダイノイリュージョン	-	-	*	SEGA8DGY5JUR	*	The wind.	80	Dynoidylation	-	-	*	Sega 8dgy 5Jur	*
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+竜	-	ディノニクス	2000	ピンチ	*	SEGA190AG42O	*	Dragon	-	Dinonics	2000	Pinch	*	Sega 190 AG42O	*
+竜	1	ティラノサウルス	2000	カウンター	*	SEGAEF4BFWU0	*	Dragon	1	Tyrannosaurus	2000	Counter	*	SEGAEF 4BFWU0	*
+竜	2	スティラコサウルス	2000	ピンチ	*	SEGAZPTWJVRG	*	Dragon	2	Silacosaurus	2000	Pinch	*	SegazptwJVRG	*
+竜	3	パラサウロロフス	2000	ピンチ	*	SEGAJIQWOU02	*	Dragon	3	Palasaurus	2000	Pinch	*	SEGAJI Q WOU02	*
+竜	4	アマルガサウルス	1800	ピンチ	*	SEGAYCSP42UQ	*	Dragon	4	Amalgasaurus	1800	Pinch	*	SEGAYCSP42UQ	*
+竜	5	パキリノサウルス	1800	カウンター	*	SEGAHJR5BHUC	*	Dragon	5	Paquilinosaurus	1800	Counter	*	Segah JR 5BHUC	*
+竜	6	ステゴサウルス	1800	ピンチ	*	SEGA8HYWB3LY	*	Dragon	6	Stegosaurus	1800	Pinch	*	Sega 8hy WB3LY	*
+竜	7	バリオニクス	1600	カウンター	*	SEGAOW5047CC	*	Dragon	7	Barionic	1600	Counter	*	SEGAOW5047CC	*
+竜	8	エドモントニア	1600	そっこう	*	SEGAL1K3DUYH	*	Dragon	8	Edmontonia	1600	So, let's go.	*	Segal 1K3DuryH	*
+竜	9	ケラトサウルス	1600	ピンチ	*	SEGAH1K17EW7	*	Dragon	9	Keratosaurus	1600	Pinch	*	SEGAH1K17EW7	*
+竜	10	トリケラトプス	1400	カウンター	*	SEGAD8HA6Y59	*	Dragon	10	Triceratops	1400	Counter	*	SEGAD 8HA6Y59	*
+竜	11	アンキロサウルス	1400	ピンチ	*	SEGA7WFFT71H	*	Dragon	01 1	Ankyrosaurus	1400	Pinch	*	SEGA 7WFFT71H	*
+竜	12	アロサウルス	1400	そっこう	*	SEGA50E8BFLE	*	Dragon	01 2	Allosaurus	1400	So, let's go.	*	Sega 50E 8BFBLE	*
+竜	13	ギガノトサウルス	1400	カウンター	*	SEGA9B2CB4IX	*	Dragon	13	Giganotosaurus	1400	Counter	*	SEGA9B2CB4IX	*
+竜	14	スコミムス	1400	ピンチ	*	SEGAL90WY24W	*	Dragon	14	Scomighs	1400	Pinch	*	SEGAL 90WY24W	*
+竜	15	イグアノドン	1400	そっこう	*	SEGA3O0PTOIU	*	Dragon	15	Iguanodon	1400	So, let's go.	*	Sega 3O0 PTOIU	*
+竜	16	タルボサウルス	1200	そっこう	*	SEGARZLA6RON	*	Dragon	16	Tarbosaurus	1200	So, let's go.	*	Segarzla 6ron	*
+竜	17	カマラサウルス	1200	ピンチ	*	SEGA5W12WGQ5	*	Dragon	17	Camarasaurus	1200	Pinch	*	SEGA5W12WGQ5	*
+竜	18	チンタオサウルス	1200	カウンター	*	SEGAWETV364B	*	Dragon	18	Tintaosaur	1200	Counter	*	Segawe TV 364B	*
+竜	19	ゴルゴサウルス	1000	カウンター	*	SEGA7CTESGHS	*	Dragon	19	Golgosaurus	1000	Counter	*	SEGA7 CTESGHS	*
+竜	20	ウエロサウルス	1000	ピンチ	*	SEGAZWF51NGB	*	Dragon	20	Aerosaurus	1000	Pinch	*	SEGAZWF51NGB	*
+竜	-	マイアサウラ	1400	ピンチ	*	SEGAJAF0UYWH	*	Dragon	-	Maiasaura	1400	Pinch	*	Sega Ja F0 Uy Why	*
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+技	28	テイルスマッシュ	200	-	*	SEGA6GGPXC4U	*	Techniques	28	Tails Mash	200	-	*	SEGA 6GGP XC 4U	*
+技	29	ストンピングハンマー	500	-	*	SEGA4IH4WP0G	*	Techniques	29	Stomping hammer	500	-	*	SEGA4IH4WP0G	*
+技	30	ダイビングプレス	800	-	*	SEGAF5BNP16W	*	Techniques	30	Diving Press	800	-	*	SEGAF5BNP16W	*
+技	31	必殺ふうじ	!	-	*	SEGA2U1DCGHM	*	Techniques	31	Special killing fuji	!	-	*	SEGA2U1DCGHM	*
+技	32	最後の力	!	-	*	SEGAGED1DAVL	*	Techniques	32	The Last Power.	!	-	*	Segaged 1 DaVL	*
+技	33	カミカゼタックル	200	-	*	SEGASVBUSIHI	*	Techniques	33	Kamikaze Tackle	200	-	*	Segav Busihi	*
+技	34	デスグラインド	500	-	*	SEGA87BMGLVU	*	Techniques	0 34	Desgrind	500	-	*	Sega 87BMGLVU	*
+技	35	ヘルサンド	800	-	*	SEGAKXA0L3KE	*	Techniques	0 35	Helsand	800	-	*	Sega K X A 0L 3KE	*
+技	36	あいこやぶり	!	-	*	SEGA6YPD2VYR	*	Techniques	36	Aikoyaburi	!	-	*	Sega 6YPD2VYR	*
+技	37	必殺よこく	!	-	*	SEGAJ1UB94D1	*	Techniques	37	Special killing yokoku	!	-	*	SEGAJ1UB94D1	*
+技	38	ネッククラッシャー	200	-	*	SEGAJ84LNKIB	*	Techniques	38	Neck crusher	200	-	*	Sega J84 L N K IB	*
+技	39	アトミックボム	500	-	*	SEGAJFIW9CRI	*	Techniques	39	Atomic bomb	500	-	*	Sega J FI W 9 CRI	*
+技	40	ダイノスイング	800	-	*	SEGAJKCYE1TR	*	Techniques	0 40	Dino Swing	800	-	*	Sega J K Cye 1 TR	*
+技	41	あせらせ	!	-	*	SEGA7AMTDNBW	*	Techniques	04 1	Let's fuck off.	!	-	*	Sega 7 AMT D N B W	*
+技	42	はんげきかいふく	!	-	*	SEGA14I8SEWD	*	Techniques	42	HANGEKIKAIFUKU	!	-	*	Sega 14I 8SEWD	*
+技	43	アタックアップ	!	-	*	SEGAN0M8COJW	*	Techniques	43	Attack up	!	-	*	SEGAN0M8COJW	*
+技	44	ディフェンスアップ	!	-	*	SEGAFHP7SYJQ	*	Techniques	44	Defensive up	!	-	*	SEGA F HP 7 SYJQ	*
+技	45	エレメントパワー	!	-	*	SEGAS5H7Q3EE	*	Techniques	45	Elemental power	!	-	*	SEGAS5H7Q3EE	*
+技	46	パワードレイン	!	-	*	SEGAJ9VHC2BK	*	Techniques	46	Powerdrain	!	-	*	SEGAJ9VHC2BK	*
+技	47	ベノムファング	!	-	*	SEGA7B191V9Y	*	Techniques	47	Benomfang	!	-	*	SEGA7B191V9Y	*
+技	48	百烈ビンタ	!	-	*	SEGAW0LPP87B	*	Techniques	48	Hyakutsuri Binta	!	-	*	SEGAW0LP 87B	*
+技	49	かいふく	!	-	*	SEGAOJ0J6XRD	*	Techniques	49	Kaifuku	!	-	*	SEGAOJ0J6XRD	*
+技	50	パウパウパワー	!	-	*	SEGA8ICDMAEJ	*	Techniques	50	Pau Pau Power	!	-	*	SEGA8 ICDMAEJ	*
+技	51	わざポカーン	!	-	*	SEGA5DVF0NPQ	*	Techniques	05 1	わざとポカ	!	-	*	SEGA5DVF0NPQ	*
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+炎	55	ビッグファイアキャノン	-	-	*	SEGA4M5FPGZM	*	Flames	05 5	Big Fire Cannon	-	-	*	SEGA4M5FPGZM	*
+炎	56	ビッグファイアボム	-	-	*	SEGAGZDOJW3B	*	Flames	56	Big Firebomb	-	-	*	Sega GZDOJW3B	*
+炎	57	フライトブレイズスピン	-	-	*	SEGAJHBV2R11	*	Flames	05 7	Flight Blaise Spin	-	-	*	SEGA JHBV2R11	*
+炎	58	ボルケーノバースト	-	-	*	SEGAUP5SR4B7	*	Flames	58	Volcanoburst	-	-	*	SEGAUP 5SR4B7	*
+水	59	ウオーターソード	-	-	*	SEGA5WMYVFLA	*	Water	59	Waterswords	-	-	*	Sega 5W My V Fula	*
+水	60	トラジェディーオブザボール	-	-	*	SEGATISZT9L3	*	Water	0 60	Tragedy of the Ball	-	-	*	SEGATISZ T9L3	*
+水	61	フラッドストラップ	-	-	*	SEGAJR91IFFL	*	Water	06 1	Flood straps	-	-	*	Sega JR 91 Iiffl	*
+水	62	ショックウェーブ	-	-	*	SEGAYB17CGCR	*	Water	06 2	Shockwave	-	-	*	SEGAYB 17CGCR	*
+雷	63	ギガライディーン	-	-	*	SEGASYODRU3Y	*	Thunder	06 3	Gigalyredin	-	-	*	Sega Syodru 3Y	*
+雷	64	サンダーバズーカ	-	-	*	SEGALN1S1J7Y	*	Thunder	64	Thunderbazooka	-	-	*	Sega L N 1 S 1 J 7Y	*
+雷	65	ライトニングスラスト	-	-	*	SEGAD9ABA24D	*	Thunder	0 5 5	Lightning thrust	-	-	*	SEGAD9ABA24D	*
+雷	66	エレクトリックチェージ	-	-	*	SEGAIWDDYXS4	*	Thunder	66	Electric Chezi	-	-	*	SEGAIWDDYXS4	*
+土	67	ラッシュスパイン	-	-	*	SEGALVKMZDI9	*	Sat	67	Rush Spine	-	-	*	Segalvk MZDI9	*
+土	68	ビッグモールアタック	-	-	*	SEGAQP1G1H0S	*	Sat	68	Big Mall Attack	-	-	*	SEGAQP1G1H0S	*
+土	69	ヘルアースクエイク	-	-	*	SEGA5D8FOM6V	*	Sat	69	Heller's Quake	-	-	*	SEGA5D8FOM6V	*
+土	70	アースバリア	-	-	*	SEGAX2OS60HJ	*	Sat	70	Earthbarrier	-	-	*	SEGAX2OS60HJ	*
+草	71	エッグスリボルバー	-	-	*	SEGA9DNXWFSO	*	Grass	71	Eggs Sribolber	-	-	*	SEGA9 DNX WFSO	*
+草	72	ビッグフットアサルト	-	-	*	SEGACEM3MLDV	*	Grass	72	Bigfoot Assault	-	-	*	Seg Ace M 3 MLDV	*
+草	73	メタルウイング	-	-	*	SEGAJAMHT4GM	*	Grass	73	Metal Wing	-	-	*	Sega Jamcht 4GM	*
+草	74	ネイチャーズブレッシング	-	-	*	SEGAT6YZKGAT	*	Grass	74	Nature's Blessing	-	-	*	Segat 6YZKGT	*
+風	76	カマイタチ	-	-	*	SEGARMWOPON9	*	The wind.	76	Kamaitachi	-	-	*	Segarm Wopon 9	*
+風	77	ニンジャアタック	-	-	*	SEGAPI608L0N	*	The wind.	77	Ninja Attack	-	-	*	SEGAPI608L0N	*
+風	78	トルネードブロー	-	-	*	SEGALS8WVD2B	*	The wind.	78	Tornadobrough	-	-	*	SEGALS 8WVD2B	*
+風	79	サイクロン	-	-	*	SEGA5PVWCUOB	*	The wind.	79	Cyclones	-	-	*	Sega 5 PV W CUOB	*
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+EGG	1	炎のたまご	-	-	*	SEGA8EVXJ7FB	*	Egg	1	Eggs of Fire	-	-	*	SEGA8EVXJ7FB	*
+-	D-09	マルム（草）恐竜王	-	-	*	SEGAM8C6EQHM	*	-	D-09	Marm (grass) dinosaur king	-	-	*	SEGAM8C6EQHM	*
+-	-	超恐竜王カード03　マルム	-	-	*	SEGA8HZMRS2M	*	-	-	Super Dinosaur King Card03 Malm	-	-	*	SEGA8HZMRS2M	*
+-	-	アクト団Dr.ソーノイダ	-	-	*	SEGA0ET2DF87	*	-	-	Act Group Dr. Sonoida	-	-	*	SEGA0ET2DF87	*
+-	-	【第１紀＋(プラス)】	-	-	-	-	-	-	-	[1st year + (plus)]	-	-	-	-	-
+竜	-	パキケファロサウルス	2000	そっこう	*	SEGAC8J4CDQL	*	Dragon	-	Paquikefarosaurus	2000	So, let's go.	*	SEGAC8J4CDQL	*
+竜	-	エウオプロケファルス	2000	ピンチ	*	SEGA0Z42L309	*	Dragon	-	Eou Procefals	2000	Pinch	*	SEGA0Z42L309	*
+竜	-	コリトサウルス	1400	カウンター	*	SEGA1HPY2WVV	*	Dragon	-	Coritosaurus	1400	Counter	*	SEGA1HPY2WVV	*
+竜	-	エウストレプトスポンディルス	1200	ピンチ	*	SEGAGB2VU9BV	*	Dragon	-	Eustreptops Pondilus	1200	Pinch	*	SEGAGB2VU9BV	*
+土	-	クエイクセイバー	-	-	*	SEGAOFA2WXHA	*	Sat	-	Quake Saber	-	-	*	SEGAOFA2WXHA	*
+竜	-	スピノサウルス	2000	そっこう	*	SEGA4RTXYUXC	*	Dragon	-	Spinosaurus	2000	So, let's go.	*	Sega 4RTXYUXC	*
+竜	-	カルカロドントサウルス	1800	そっこう	*	SEGA4MPNH5PB	*	Dragon	-	Carthodontosaurus	1800	So, let's go.	*	SEGA 4MPNH 5PB	*
+竜	-	シャントゥンゴサウルス	1600	カウンター	*	SEGAGRQ7RVWY	*	Dragon	-	Shantungosaurus	1600	Counter	*	Sega Gr Q 7RVWY	*
+竜	-	カスモサウルス	1400	ピンチ	*	SEGASRWZQGYP	*	Dragon	-	Kasmosaurus	1400	Pinch	*	Sega Srewzqgyp	*
+竜	-	ケントロサウルス	1400	そっこう	*	SEGACN6361O6	*	Dragon	-	Kentosaurus	1400	So, let's go.	*	SEGACN 63 61 O6	*
+竜	-	モノロフォサウルス	1200	ピンチ	*	SEGAAGBGH3LW	*	Dragon	-	Monolophosaurus	1200	Pinch	*	Sega AGBGH 3LW	*
+竜	-	エイニオサウルス	1000	ピンチ	*	SEGA77YL5U7O	*	Dragon	-	Aeniosaurus	1000	Pinch	*	Sega 77YL5U7O	*
+-	DMC-01/02	Ｄキッズ・メンバーズカード	-	-	*	SEGAF4XLP2Z8	*	-	DMC-01/02	D Kids Members Card	-	-	*	SEGAF4XLP2Z8	*
+-	-	【第２紀】	-	-	-	-	-	-	-	[Second century]	-	-	-	-	-
+竜	-	パキケファロサウルス	2000	あいこ	*	SEGAZ0NJFH34	*	Dragon	-	Paquikefarosaurus	2000	Aiko	*	SEGAZ0NJFH34	*
+-	AN01	ガブ	1600	超ピンチ	*	SEGA9B6G6VQZ	*	-	AN01	Gab	1600	Super-pinch	*	SEGA9B6G6VQZ	*
+-	AN02	エース	1600	超そっこう	*	SEGAFP3DAU7L	*	-	AN02	Ace	1600	Super soso	*	Segf 3DAU7L	*
+-	AN03	パラパラ	1600	超カウンター	*	SEGAEQ0BBZ2B	*	-	AN03	Parapara	1600	Super Counter	*	SEGAEQ0BBZ2B	*
+竜	38	サウロロフス	2000	そっこう	*	SEGA8VMI8KAK	*	Dragon	38	Saurolovus	2000	So, let's go.	*	SEGA8VMI8KAK	*
+竜	29	ダスプレトサウルス	1800	そっこう	*	SEGA8NCVMX1F	*	Dragon	29	Daspretosaurus	1800	So, let's go.	*	SEGA8 NCVM MX1F	*
+竜	42	デルタドロメウス	1600	そっこう	*	SEGAE9B81T5T	*	Dragon	42	Delta Delomeus	1600	So, let's go.	*	SEGAE 9B81T5T	*
+竜	37	ダケントルルス	1200	カウンター	*	SEGAO9OIJEUV	*	Dragon	37	Dakentrulus	1200	Counter	*	SEGAO9OIJEUV	*
+竜	32	オピストコエリカウディア	1000	ピンチ	*	SEGANAKEBCU1	*	Dragon	32	Opistocoelikadia	1000	Pinch	*	Seganake BCU 1	*
+竜	34	ブラキケラトプス	1000	そっこう	*	SEGA8R2QU45B	*	Dragon	0 34	Brakikeratops	1000	So, let's go.	*	SEGA8R2QU45B	*
+炎	78	デスファイア	-	-	*	SEGAJO6WYC81	*	Flames	78	Deathfire	-	-	*	Segajo 6 WYC 81	*
+水	83	フタバメガキャノン	-	-	*	SEGAN2A8I8P7	*	Water	83	Futaba Mega Cannon	-	-	*	SEGAN2A8I8P7	*
+技	69	スカイダイブ	!	-	*	SEGA3U3EX03B	*	Techniques	69	Skydive	!	-	*	SEGA3U3EX03B	*
+技	72	あいこバクダン	!	-	*	SEGARCZ4HO07	*	Techniques	72	Aiko Bakdan	!	-	*	SEGARCZ4HO07	*
+竜	EX03	フクイサウルス	1200	ピンチ	*	SEGAVT796Q6F	*	Dragon	EX03	Fukiasaurus	1200	Pinch	*	SEGAVT 796Q6F	*
+竜	EX04	フクイラプトル	1200	そっこう	*	SEGAPUJ9JPK7	*	Dragon	EX04	Fukiraptor	1200	So, let's go.	*	SEGAPU J9JPK7	*
+-	-	【第３紀】	-	-	-	-	-	-	-	[Third century]	-	-	-	-	-
+-	AN04	ティラノ　アクト団	1600	超こうげき	*	SEGA3JH79ZSI	*	-	AN04	Tirano Act	1600	Super Kogeki	*	SEGA3 JH79ZSI	*
+-	AN05	スピノ　アクト団	1600	超あいこ	*	SEGACKT6EP1B	*	-	AN05	Spino Act	1600	Super Aiko	*	Segac T 6 EP 1B	*
+-	AN06	サイカ　アクト団	1600	超まもり	*	SEGA0HNJOLH7	*	-	AN06	Saika Act	1600	Super Mamori	*	SEGA0HN PROJOLH7	*
+竜	4	サイカニア	2000	とつげき	*	SEGALWIRB9EX	*	Dragon	4	Saicania	2000	とつげき	*	Segalwir B 9ex	*
+竜	8	ユタラプトル	1800	ハンター	*	SEGAZK86PO4C	*	Dragon	8	Yutaraptor	1800	Hunter	*	SEGAZK 86PO4C	*
+竜	12	アクロカントサウルス	1400	そっこう	*	SEGANN4BIORL	*	Dragon	01 2	Acrocantosaurus	1400	So, let's go.	*	SEGANN4 BIORL	*
+竜	13	サルタサウルス	1400	ゆうき	*	SEGAGA7JZJCT	*	Dragon	13	Sartasaurus	1400	Yuuki	*	Segaga 7 JZJCT	*
+竜	14	マイアサウラ	1400	とつげき	*	SEGAJAF0UYWH	*	Dragon	14	Maiasaura	1400	とつげき	*	Sega Ja F0 Uy Why	*
+竜	16	エウセントロサウルス	1200	ハンター	*	SEGAW1P3VOQ1	*	Dragon	16	Eustenkosaurus	1200	Hunter	*	SEGAW1P3VOQ1	*
+竜	33	アンベロサウルス	2000	ハンター	*	SEGAPUTIULWF	*	Dragon	33	Anberosaurus	2000	Hunter	*	Sega Tatiulw	*
+竜	34	タルキア	1800	ゆうき	*	SEGAIDUKH2K9	*	Dragon	0 34	Talchia	1800	Yuuki	*	SEGAIDUKH2K9	*
+竜	35	ヤンチュアノサウルス	1600	とつげき	*	SEGAFE17ODLA	*	Dragon	0 35	Yanchuanosaurus	1600	とつげき	*	Segafe 17dla	*
+竜	36	シンラプトル	1400	ゆうき	*	SEGA3E0BZ3EN	*	Dragon	36	Shinraptor	1400	Yuuki	*	Sega 3E0 BZ3EN	*
+竜	37	アケロウサウルス	1200	ゆうき	*	SEGAC8UVNUPP	*	Dragon	37	Akelosaurus	1200	Yuuki	*	SEGAC 8 UV NUPPP	*
+竜	38	ムツタブラサウルス	1000	ハンター	*	SEGAUGF4DXZ9	*	Dragon	38	Mutstaburasaurus	1000	Hunter	*	Sagag F 4 DX Z9	*
+技	68	ライフチェンジ	!	-	*	SEGA8XO21ARZ	*	Techniques	68	Life change	!	-	*	SEGA 8XO21ARZ	*
+技	69	あいこアタック	!	-	*	SEGAMG6D1PRQ	*	Techniques	69	Aiko Attack	!	-	*	SEGAMG 6D1PRQ	*
+技	70	アクトダイス	!	-	*	SEGARZARDFAZ	*	Techniques	70	Actodice	!	-	*	Segarzadaz	*
+炎	75	マグマブラスター	-	-	*	SEGAZ45VLQA6	*	Flames	75	Magma Blaster	-	-	*	SEGAZ 45VLQA6	*
+水	79	アクアボルテックス	-	-	*	SEGAGVW59FZT	*	Water	79	Aquavortex	-	-	*	SEGAGVW59FZT	*
+雷	85	ブリッツカウンター	-	-	*	SEGA0W35YNC5	*	Thunder	85	Blitz Counter	-	-	*	SEGA0W35YNC5	*
+土	89	クリスタルブレイク	-	-	*	SEGAYR2KGG6A	*	Sat	89	Crystal Break	-	-	*	SEGAYR 2KGG6A	*
+竜	KS001	タルボサウルス	1200	ふっかつ	*	SEGA8XYHMLW4	*	Dragon	KS001	Tarbosaurus	1200	ふっかつ	*	Sega 8XYHMLW4	*
+竜	KS002	モノロフォサウルス	1200	ふっかつ	*	SEGAHJ96ST0L	*	Dragon	KS002	Monolophosaurus	1200	ふっかつ	*	Segah J96 ST0L	*
+竜	KS003	ディロフォサウルス	1000	ふっかつ	*	SEGAAQ6H8M9B	*	Dragon	KS003	Dilophosaurus	1000	ふっかつ	*	SEGAAQ6H8M9B	*
+竜	KS004	エウオプロケファルス	2000	ふっかつ	*	SEGA4CX3FUHR	*	Dragon	KS004	Eou Procefals	2000	ふっかつ	*	SEGA4CX3 FUHR	*
+竜	-	テリジノサウルス	?	カウンター	*	SEGAV92OTJLZ	*	Dragon	-	Terriginosaurus	?	Counter	*	SEGAV92 OTJLZ	*
+竜	EGG-003-竜	アクト恐竜のたまご	-	-	*	SEGAOCB6OWPS	*	Dragon	EGG-003-Dragon	Category: Eggs of an act dinosaur	-	-	*	Sega Ocb 6 wps	*
+竜	EGG-004-竜	雷のたまご	-	-	*	SEGAB1Z8LZYG	*	Dragon	EGG-004-Dragon	Thunder Eggs	-	-	*	SEGAB1Z8LZYG	*
+竜	EGG-005-竜	炎のたまご	-	-	*	SEGAH6VL5XN2	*	Dragon	EGG-005-Dragon	Eggs of Fire	-	-	*	SEGAH6VL5XN2	*
+竜	EGG-006-竜	風のたまご	-	-	*	SEGAG7MN0RXA	*	Dragon	EGG-006-Dragon	The wind egg.	-	-	*	SEGAG7 MN0RXA	*
+竜	EGG-007-竜	土のたまご	-	-	*	SEGA71SZNSVN	*	Dragon	EGG-007-Dragon	Soil eggs	-	-	*	SEGA71 SZN SVN	*
+竜	EGG-008-竜	水のたまご	-	-	*	SEGAK1X7W2HZ	*	Dragon	EGG-008-Dragon	Eggs of water	-	-	*	SEGAK1X7W2HZ	*
+竜	EGG-009-竜	草のたまご	-	-	*	SEGAPFOE71QU	*	Dragon	EGG-009-Dragon	Eggs of Grass	-	-	*	SEGAPFOE 71QU	*
+竜	EX05	サウロファガナクス	2000	超こうげき	*	SEGAF1C7TSUO	*	Dragon	EX05	Saurophaganax	2000	Super Kogeki	*	SEGAF1C7TSUO	*
+-	-	【第４紀】	-	-	-	-	-	-	-	[The 4th century]	-	-	-	-	-
+竜	SP07	テリジノサウルス	2000	まもり	*	SEGA7BBJKSV6	*	Dragon	SP07	Terriginosaurus	2000	Mamori	*	SEGA7 BB J K SV 6	*
+竜	SP08	パキケファロサウルス	2000	あいこ	*	SEGAZ0NJFH34	*	Dragon	SP08	Paquikefarosaurus	2000	Aiko	*	SEGAZ0NJFH34	*
+竜	SP09	ディノニクス	2000	こうげき	*	SEGAV5A9EWR2	*	Dragon	SP09	Dinonics	2000	Kogeki	*	SEGAV5A9EWR2	*
+竜	KS005	アクロカントサウルス	1400	ふっかつ	*	SEGA492VEHU7	*	Dragon	KS005	Acrocantosaurus	1400	ふっかつ	*	Sega 492 VEHU7	*
+竜	KS006	サウロロフス	2000	ふっかつ	*	SEGA3KZ9COJV	*	Dragon	KS006	Saurolovus	2000	ふっかつ	*	SEGA3KZ9COJV	*
+竜	KS007	シンラプトル	1400	ふっかつ	*	SEGATNIBATHJ	*	Dragon	KS007	Shinraptor	1400	ふっかつ	*	Sega Twitch J	*
+竜	4	カルノタウルス	2000	ゆうき	*	SEGARCMMAII6	*	Dragon	4	Carnotaurus	2000	Yuuki	*	Segarch MMA II 6	*
+竜	10	トロサウルス	1600	ゆうき	*	SEGAZSC0KBU3	*	Dragon	10	Torosaurus	1600	Yuuki	*	SEGAZSC0KBU3	*
+竜	16	サウロペルタ	1600	ゆうき	*	SEGA3CY29KZ1	*	Dragon	16	Sauloperta	1600	Yuuki	*	SEGA3CY29KZ1	*
+竜	28	アンペロサウルス	2000	ハンター	*	SEGAPUTIULWF	*	Dragon	28	Amperosaurus	2000	Hunter	*	Sega Tatiulw	*
+竜	29	ペンタケラトプス	2000	ハンター	*	SEGAWGNJK3E8	*	Dragon	29	Pentegratops	2000	Hunter	*	SEGAWG NJ K 3E8	*
+竜	31	マジュンガサウルス	1800	とつげき	*	SEGALOFWM9U4	*	Dragon	31	Majungasaurus	1800	とつげき	*	SEGALO F M 9U4	*
+竜	33	アナトティタン	1600	ゆうき	*	SEGA7Y8P9VX6	*	Dragon	33	Anatotitan	1600	Yuuki	*	SEGA7Y8P9VX6	*
+竜	34	ディクラエオサウルス	1400	とっしん	*	SEGAXI2EDT6D	*	Dragon	0 34	Diclaeosaur	1400	Tosshin	*	SEGAXI2EDT 6D	*
+竜	35	アルバートサウルス	1200	ゆうき	*	SEGAYGL1H4LK	*	Dragon	0 35	Albertsaurus	1200	Yuuki	*	Segaygl1H4LK	*
+竜	37	タラルルス	1000	とっしん	*	SEGAISE6W3Z6	*	Dragon	37	Taralullus	1000	Tosshin	*	SEGAISE6 W3Z6	*
+技	71	ぬいぐるびーむ	-	-	*	SEGAR2OG7JWH	*	Techniques	71	ぬいぐるびーむ	-	-	*	SEGAR2OG7 JWH	*
+雷	86	ガトリングスパーク	-	-	*	SEGABUW7B23K	*	Thunder	86	Gatling Spark	-	-	*	Segabuw 7B 23K	*
+風	100	カゲロウ	-	-	*	SEGA93PXRR82	*	The wind.	100	Kagero	-	-	*	SEGA 93 PX RR 82	*
+竜	-	ゴジラサウルス	1000	とつげき	*	SEGADYE28DRW	*	Dragon	-	Godzillasaurus	1000	とつげき	*	Sega Drew	*
+技	-	恐竜のおなら(デスグラインド)	500	-	*	SEGA4N2Q3FH0	*	Techniques	-	Dinosaur Fart (Death Grinding)	500	-	*	SEGA4N2Q3FH0	*
+-	-	【第４紀＋プラス】	-	-	-	-	-	-	-	[4th century + plus]	-	-	-	-	-
+竜	AN10	ブラックティラノサウルス	2000	デス	*	SEGADYOCKF1J	*	Dragon	AN 10	Black Tyrannosaurus	2000	Death	*	Sega Dyock F1J	*
+竜	23	シュノサウルス	1600	ハンター	*	SEGAQG2STW0D	*	Dragon	02 3	Shnosaurus	1600	Hunter	*	SEGAQG2STW0D	*
+竜	33	モノクロニウス	1200	とつげき	*	SEGANFFE1GIL	*	Dragon	33	Monotony	1200	とつげき	*	Segan F F F F 1 Gil	*
+竜	34	カロノサウルス	1800	ハンター	*	SEGA3U4JSNYN	*	Dragon	0 34	Caronosaurus	1800	Hunter	*	SEGA3U4JSNYN	*
+竜	46	リリエンステルヌス	1000	ゆうき	*	SEGA9SYW9V9R	*	Dragon	46	Liliensternus	1000	Yuuki	*	SEGA9SYW9V9R	*
+竜	47	ガストニア	1400	ハンター	*	SEGAHYHVOV6N	*	Dragon	47	Gastonia	1400	Hunter	*	Segahyvov 6n	*
+竜	KS008	ティラノサウルス(=KS001ミスプリ)	2000	ふっかつ	*	SEGA8XYHMLW4	*	Dragon	KS008	Tyrannosaurus (= KS001 Mispri)	2000	ふっかつ	*	Sega 8XYHMLW4	*
+竜	KS008	ティラノサウルス	2000	ふっかつ	*	SEGA4SOT894X	*	Dragon	KS008	Tyrannosaurus	2000	ふっかつ	*	SEGA4SOT894X	*
+竜	ACT008	超アロサウルス	1800	どく	*	SEGATXR4V9A1	*	Dragon	ACT008	Super-Arosaurus	1800	どく	*	SEGA T X R 4V 9A1	*
+竜	ACT009	超カスモサウルス	1800	どく	*	SEGAFIE9WMK1	*	Dragon	ACT009	Super-Kasmosaurus	1800	どく	*	SEGA FIE 9WMK1	*
+竜	ACT010	超ケントロサウルス	1800	どく	*	SEGAZSIVL6LR	*	Dragon	ACT010	Super Kentosaurus	1800	どく	*	SEGA ZSIVL 6LR	*
+技	81	テクニックアップ	!	-	*	SEGA1NWB157R	*	Techniques	81	Technique up	!	-	*	SEGA1NWB157R	*
+草	105	エメラルドガーデン	!	-	*	SEGADNA5VNN8	*	Grass	105	Emerald Garden	!	-	*	SEGA DNA 5VNN8	*
+秘密	-	秘密のたまご	?	-	*	SEGAOYKF6TZK	*	Secret	-	The secret egg.	?	-	*	Segaoyykf 6TZK	*
+-	D-10	恐竜王　リュウタ（炎）	-	-	*	SEGA6BTVH8Z2	*	-	D-10	Dinosaur King Ryuta (Fire)	-	-	*	SEGA 6BTVH8Z2	*
+-	D-11	恐竜王　レックス（水）	-	-	*	SEGAGHMT4HA1	*	-	D-11	Dinosaur King Rex (Water)	-	-	*	Segaghm 4 HA1	*
+-	D-12	恐竜王　マルム（土）	-	-	*	SEGA7HP5QH4M	*	-	D-12	Dinosaur King Malm (Sat)	-	-	*	SEGA7HP5QH4M	*
+-	D-13	恐竜王　リュウタ（草）	-	-	*	SEGACPHMEFZ4	*	-	D-13	Dinosaur King Ryuta (grass)	-	-	*	Sega C H M F Z 4	*
+-	D-14	恐竜王　レックス（土）	-	-	*	SEGAKAJLQSA9	*	-	D-14	Dinosaur King Rex (Sat)	-	-	*	Sega JL QSA9	*
+-	D-15	恐竜王　マルム（水）	-	-	*	SEGAR0Q6XTE7	*	-	D-15	Dinosaur King Malm (water)	-	-	*	SEGAR0Q6XTE7	*
+-	D-16	古代博士（風）	-	-	*	SEGA21SGRAC6	*	-	D-16	Ancient Doctor (Kaze)	-	-	*	SEGA21 SGRAC6	*
+-	D-17	恐竜王　リュウタ（雷）	-	-	*	SEGA1DOC4NZ8	*	-	D-17	Dinosaur King Ryuta (Thunder)	-	-	*	SEGA1DOC4NZ8	*
+-	D-18	恐竜王　レックス（風）	-	-	*	SEGARFSRE0A5	*	-	D-18	Dinosaur King Rex (Wind)	-	-	*	Segar Fre 0A5	*
+-	D-19	恐竜王　マルム（草）	-	-	*	SEGAM8C6EQHM	*	-	D-19	Dinosaur King Malm (grass)	-	-	*	SEGAM8C6EQHM	*
+-	D-20	古代博士（土）	-	-	*	SEGAUGJALFC0	*	-	D-20	Ancient Doctor (Sat)	-	-	*	Segaug Jal F0	*
+竜	AN11	パラパラ=AN03	1600	超カウンター	*	SEGAEQ0BBZ2B	*	Dragon	AN11	Parapara-AN03	1600	Super Counter	*	SEGAEQ0BBZ2B	*
+竜	AN12	ティラノ=AN04	1600	超こうげき	*	SEGA3JH79ZSI	*	Dragon	AN12	Tirano-AN04	1600	Super Kogeki	*	SEGA3 JH79ZSI	*
