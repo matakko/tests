@@ -53,35 +53,23 @@ ALL DINOSAUR KINGs (KING, ODR, KING 2)
 | SEGA25DJBVN8 | Dino    | 003  | 2000     | Parasaurolophus (2005 rocket)                | 
 | SEGAYTM3NXI1 | Dino    | 007  | 1800     | Utahraptor (2005 rocket)                     | 12???
 | SEGAGLCG3HZ4 | Dino    | 011  | 1400     | Saltasaurus (2005 rocket)                    | 
-| SEGA9SJV4UF7 | Dino    | 023  | 1000     | Wuerhosaurus (2005 rocket)                   |
-							    
+| SEGA9SJV4UF7 | Dino    | 023  | 1000     | Wuerhosaurus (2005 rocket)                   |						    
 | SEGA65BV7SO9 | Dino    | 005  | 1800     | Carcharodontosaurus (2005 rocket)            | 07?
-							    
 | SEGA4KFDK8E3 | Dino    | 010  | 1600     | Baryonyx (2005 rocket)                       |14 ???
-
 | SEGACJLAX6D8 | Dino    | 030  | 1000     | Dilophosaurus (2005 rocket)                  |
-
-
 | SEGAV5A9EWR2 | Dino    |S01/02| 2000     | Deinonychus (2005 rocket)                    | X01??
 | SEGA4W8UJ3L2 | Dino    | --   | 1000     | Acr-Dinosaur Ouranosaurus                    | 
-| SEGARXY8C2Y4 | Dino    | --   | 1000     | Acr-Dinosaur Irritator AC                    | 
-
-
-| SEGA7BBJKSV6 | Dino    |      | 1700     | Therizinosarus                               | 
-| SEGABNFD29H1 | Dino    |      | 1450     | Gorgosarus                                   | 
-							    
+| SEGARXY8C2Y4 | Dino    | --   | 1000     | Acr-Dinosaur Irritator AC                    |
+| SEGAOD043BN6 | Dino    | 002  | 2000     | Styracosarus                                 | 
+| SEGAQKVLBI52 | Dino    | 012  | 1600     | Edmontonia (2005 rocket)                     |16?
+| SEGAU9JBRVB5 | Dino    | 025  | 1400     | Iguanodon                                    |
+| SEGABNFD29H1 | Dino    | 033  | 1000     | Gorgosarus                                   | 
 | SEGACMDUVP41 | Dino    | --   | 1000     | Acr-Dinosaur Gorgosaurus AC                  |
 | SEGAECW68KD8 | Dino    | --   | 1000     | Acr-Dinosaur Wuerhosaurus AC                 |
-							    
-| SEGAOD043BN6 | Dino    |      | 2000     | Styracosarus                                 | 
-| SEGAQKVLBI52 | Dino    | 16   | 1600     | Edmontonia (2005 rocket)                     | 
-
-| SEGAU9JBRVB5 | Dino    |      | 1400     | Iguanodon                                    | 
-							    
-| SEGAZ0NJFH34 | Dino    |      | 1700     | Pachycephalosarus                            | 
-							    
 | SEGA0SZMA9O6 | Dino    | --   | 1000     | Acr-Dinosaur Einiosaurus AC                  | 
 | SEGA9ZN1OSI7 | Dino    | --   | 1000     | Acr-Dinosaur Dilophosaurus AC                | 
+| SEGA7BBJKSV6 | Dino    |      | 1700     | Therizinosarus                               |
+| SEGAZ0NJFH34 | Dino    |      | 1700     | Pachycephalosarus                            | 
 							    
 							    
 | SEGA0ET2DF87 | -       | --   | ----     | Character Dr. Z                              | 
@@ -209,24 +197,22 @@ ALL DINOSAUR KINGs (KING, ODR, KING 2)
 
 | SEGAV5A9EWR2 | Dino    |S01/02| 2000     | Deinonychus (2005 rocket)                    | X01??
 | SEGA4W8UJ3L2 | Dino    | --   | 1000     | Acr-Dinosaur Ouranosaurus                    | 
-| SEGARXY8C2Y4 | Dino    | --   | 1000     | Acr-Dinosaur Irritator AC                    | 
+| SEGARXY8C2Y4 | Dino    | --   | 1000     | Acr-Dinosaur Irritator AC                    |
 
-
-| SEGA7BBJKSV6 | Dino    |      | 1700     | Therizinosarus                               | 
-| SEGABNFD29H1 | Dino    |      | 1450     | Gorgosarus                                   | 
-							    
+ 
+| SEGAOD043BN6 | Dino    | 002  | 2000     | Styracosarus                                 | 
+| SEGAQKVLBI52 | Dino    | 012  | 1600     | Edmontonia (2005 rocket)                     |16?
+| SEGAU9JBRVB5 | Dino    | 025  | 1400     | Iguanodon                                    |
+| SEGABNFD29H1 | Dino    | 033  | 1000     | Gorgosarus                                   | 
 | SEGACMDUVP41 | Dino    | --   | 1000     | Acr-Dinosaur Gorgosaurus AC                  |
 | SEGAECW68KD8 | Dino    | --   | 1000     | Acr-Dinosaur Wuerhosaurus AC                 |
-							    
-| SEGAOD043BN6 | Dino    |      | 2000     | Styracosarus                                 | 
-| SEGAQKVLBI52 | Dino    | 16   | 1600     | Edmontonia (2005 rocket)                     | 
-
-| SEGAU9JBRVB5 | Dino    |      | 1400     | Iguanodon                                    | 
-							    
-| SEGAZ0NJFH34 | Dino    |      | 1700     | Pachycephalosarus                            | 
-							    
 | SEGA0SZMA9O6 | Dino    | --   | 1000     | Acr-Dinosaur Einiosaurus AC                  | 
 | SEGA9ZN1OSI7 | Dino    | --   | 1000     | Acr-Dinosaur Dilophosaurus AC                | 
+
+
+| SEGA7BBJKSV6 | Dino    |      | 1700     | Therizinosarus                               | 			    
+						    
+| SEGAZ0NJFH34 | Dino    |      | 1700     | Pachycephalosarus                            | 
 							    
 							    
 | SEGA0ET2DF87 | -       | --   | ----     | Character Dr. Z                              | 
