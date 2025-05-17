@@ -1,0 +1,207 @@
+[Dinosaur King CODE39]  Species	強さ/テク	NO.		Name of card	データ	*	データ	NO.	Dinosaur King 2007 CODE39  Species	Name of card	Strength/Tech	Type
+Dragon	2000	01P		Tyrannosaurus (locate)	PYBT6SBDGRE2	?	SEGAHT4AU9JP	22	Dragon	Ariolamous	1000	Counter
+Dragon	2000	04P		Saicania (rodete)	HS87Y5GFN984	?	SEGAK8KGTCXK	23	Dragon	Patagosaurus	1200	So, let's go.
+Dragon	1800	08P		Amalgasaurus (locate)	GREUIB2FCFD7	?	SEGAR95ZXQV2	24	Dragon	Agnokeratops	1600	Pinch
+Dragon	1800	11P		Lambeosaurus (locatee)	JFDUYHJ8JKL0	?	SEGA8UE3HTUK	25	Dragon	Nodosaurus	1400	So, let's go.
+Dragon	1600	15P		Torosaurus (locate)	CIYU2ODERJM0	?	SEGA39DVTFPO	26	Dragon	Altilinian	1800	Pinch
+Dragon	1600	18P		Keratosaurus (locate)	UECFD74JKBN3	?	SEGA69HADJP4	27	Dragon	Megaraptor	2000	Counter
+Thunder	-	01P		Gigalyredine (roquette)	V1VNJ7GFDVS9	?	SEGATG4MZDCU	52	Techniques	Triple Headbad	!	-
+The wind.	-	01P		Kamaitachi (locate)	NXZF87DFVJP5	?	SEGA54B6YWHX	53	Techniques	Saura's healing	!	-
+Sat	-	01P		Big Mall Attack (roquette)	SGDJFBTD67T2	?	SEGAUBXVSTXW	54	Techniques	わざふうじ	!	-
+Flames	-	01P		Big Firebomb (roquette)	EJ6KNHGT83V4	?	SEGAAVYQF3IS	75	Grass	Super Impact	-	-
+Water	-	01P		Flood strap (roquette)	HJBV73UPA3G8	?	SEGA8DGY5JUR	80	The wind.	Dynoidylation	-	-
+Grass	-	01P		Metal Wing (roquette)	KGQ7XR9DHWH6	?	-	-	-	-	-	-
+-	-	-		-	-	?	SEGA190AG42O	-	Dragon	Dinonics	2000	Pinch
+Dragon	2000	1		Tyrannosaurus (2005)	SEGA6SBDGRE2	OK	SEGAEF4BFWU0	1	Dragon	Tyrannosaurus	2000	Counter
+Dragon	2000	4		Saicania (2005 location)	SEGAY5GFN984	OK	SEGAZPTWJVRG	2	Dragon	Silacosaurus	2000	Pinch
+Dragon	1800	8		Amalgasaurus (2005 location)	SEGAIB2FCFD7	OK	SEGAJIQWOU02	3	Dragon	Palasaurus	2000	Pinch
+Dragon	1800	11		Lambeosaurus (2005 location)	SEGAYHJ8JKL0	OK	SEGAYCSP42UQ	4	Dragon	Amalgasaurus	1800	Pinch
+Dragon	1600	15		Torosaurus (2005 location)	SEGA2ODERJM0	OK	SEGAHJR5BHUC	5	Dragon	Paquilinosaurus	1800	Counter
+Dragon	1600	18		Keratosaurus (2005 location)	SEGAD74JKBN3	OK	SEGA8HYWB3LY	6	Dragon	Stegosaurus	1800	Pinch
+Dragon	1400	21		Triceratops (2005)	SEGA8AEBTRW7	OK	SEGAOW5047CC	7	Dragon	Barionic	1600	Counter
+Dragon	1400	24		Allosaurus (2005)	SEGAS1RVOKZ2	OK	SEGAL1K3DUYH	8	Dragon	Edmontonia	1600	So, let's go.
+Dragon	1400	25		Giganotosaurus (2005 location)	SEGABYSFYD09	OK	SEGAH1K17EW7	9	Dragon	Keratosaurus	1600	Pinch
+Dragon	1400	27		Kasmosaurus (2005 location)	SEGACBGHVNA3	OK	SEGAD8HA6Y59	10	Dragon	Triceratops	1400	Counter
+Dragon	1400	28		Kentorosaurus (2005 location)	SEGAIANJ6DN8	OK	SEGA7WFFT71H	11	Dragon	Ankyrosaurus	1400	Pinch
+Dragon	1400	30		Neovenatl (2005 location)	SEGAMD4EK9F1	OK	SEGA50E8BFLE	12	Dragon	Allosaurus	1400	So, let's go.
+Dragon	1200	31		Talbosaurus (2005)	SEGADSDHJV17	OK	SEGA9B2CB4IX	13	Dragon	Giganotosaurus	1400	Counter
+Dragon	1200	32		Camarasaurus (2005 location)	SEGANVB6SAU2	OK	SEGAL90WY24W	14	Dragon	Scomighs	1400	Pinch
+Dragon	1200	34		Sauroperta (2005 location)	SEGARCHJWNO9	IDK	SEGA3O0PTOIU	15	Dragon	Iguanodon	1400	So, let's go.
+Dragon	1200	35		Chintaosaurus (2005)	SEGAT8FDC1V5	OK	SEGARZLA6RON	16	Dragon	Tarbosaurus	1200	So, let's go.
+Dragon	1000	38		The Italian (2005)	SEGAD2IA1VB0	IDK	SEGA5W12WGQ5	17	Dragon	Camarasaurus	1200	Pinch
+Dragon	1000	41		Owlanosaurus (2005 location)	SEGA31BKKOS3	OK	SEGAWETV364B	18	Dragon	Tintaosaur	1200	Counter
+Dragon	2000	3		Carnotaurus	SEGA5JYTDRJ5	OK	SEGA7CTESGHS	19	Dragon	Golgosaurus	1000	Counter
+Dragon	1800	5		Stegosaurus	SEGAFCSUY6H8	OK	SEGAZWF51NGB	20	Dragon	Aerosaurus	1000	Pinch
+Dragon	1600	8		Shantungosaurus	SEGARJK2YGS9	IDK	SEGAJAF0UYWH	-	Dragon	Maiasaura	1400	Pinch
+Dragon	1400	10		Acrocantosaurus	SEGA82V6JD96	OK	-	-	-	-	-	-
+Dragon	1400	14		Scomighs	SEGA3UUL8XY0	OK	SEGA6GGPXC4U	28	Techniques	Tails Mash	200	-
+Dragon	1000	23		Aeniosaurus	SEGAOMV9QAR2	OK	SEGA4IH4WP0G	29	Techniques	Stomping hammer	500	-
+Dragon	2000	2		Spinosaurus	SEGAVRSO3KB3	OK	SEGAF5BNP16W	30	Techniques	Diving Press	800	-
+Dragon	1800	4		Paquilinosaurus	SEGALB5NGEW3	IDK	SEGA2U1DCGHM	31	Techniques	Special killing fuji	!	-
+Dragon	1600	6		Torvosaurus	SEGANYLOPM42	IDK	SEGAGED1DAVL	32	Techniques	The Last Power.	!	-
+Dragon	1400	10		Ankyrosaurus	SEGAGY3NFYR8	OK	SEGASVBUSIHI	33	Techniques	Kamikaze Tackle	200	-
+Dragon	1400	11		Maiasaura	SEGASVRNBKI7	OK	SEGA87BMGLVU	34	Techniques	Desgrind	500	-
+Dragon	1200	15		Monolophosaurus	SEGA5VNSYTD8	OK	SEGAKXA0L3KE	35	Techniques	Helsand	800	-
+Dragon	1200	限定		Saint-Rosaurus	SEGA5VDF8JG4	IDK	SEGA6YPD2VYR	36	Techniques	Aikoyaburi	!	-
+Dragon	2000	3		Palasaurus	SEGA25DJBVN8	OK	SEGAJ1UB94D1	37	Techniques	Special killing yokoku	!	-
+Dragon	1800	7		Yutaraptor	SEGAYTM3NXI1	OK	SEGAJ84LNKIB	38	Techniques	Neck crusher	200	-
+Dragon	1400	11		Sartasaurus	SEGAGLCG3HZ4	OK	SEGAJFIW9CRI	39	Techniques	Atomic bomb	500	-
+Dragon	1000	23		Aerosaurus	SEGA9SJV4UF7	OK	SEGAJKCYE1TR	40	Techniques	Dino Swing	800	-
+-	1000	-		Mini King	SEGAXO3UGN5E	ok	SEGA7AMTDNBW	41	Techniques	Let's fuck off.	!	-
+Dragon	1800	5		Carthodontosaurus	SEGA65BV7SO9	??	SEGA14I8SEWD	42	Techniques	HANGEKIKAIFUKU	!	-
+Dragon	1600	10		Barionic	SEGA4KFDK8E3	ok	SEGAN0M8COJW	43	Techniques	Attack up	!	-
+Dragon	1200	22		Eustenkosaurus	SEGA2SJ5GHSU	ok	SEGAFHP7SYJQ	44	Techniques	Defensive up	!	-
+Dragon	1000	30		Dilophosaurus	SEGACJLAX6D8	ok	SEGAS5H7Q3EE	45	Techniques	Elemental power	!	-
+Dragon	1200	EX03		Fukiasaurus	SEGAS1R4GUTG	ok	SEGAJ9VHC2BK	46	Techniques	Powerdrain	!	-
+Dragon	1200	EX0*		Fukiraptor	SEGA4NF8BZG6	ok	SEGA7B191V9Y	47	Techniques	Benomfang	!	-
+Dragon	2000	S01/02		Dinonics	SEGAV5A9EWR2	OK	SEGAW0LPP87B	48	Techniques	Hyakutsuri Binta	!	-
+-	1000	-		Act dinosaur Owlanosaurus	SEGA4W8UJ3L2	ok	SEGAOJ0J6XRD	49	Techniques	Kaifuku	!	-
+-	1000	-		Act dinosaur literalist	SEGARXY8C2Y4	ok	SEGA8ICDMAEJ	50	Techniques	Pau Pau Power	!	-
+-	-	-		-	-	*	SEGA5DVF0NPQ	51	Techniques	わざとポカ	!	-
+Thunder	-	1		Gigalydeen (2005)	SEGAJ7GFDVS9	ok	-	-	-	-	-	-
+The wind.	-	1		Kamaitachi (2005 location)	SEGA87DFVJP5	ok	SEGA4M5FPGZM	55	Flames	Big Fire Cannon	-	-
+Sat	-	2		Big Mall Attack (2005 Rocket)	SEGAFBTD67T2	ok	SEGAGZDOJW3B	56	Flames	Big Firebomb	-	-
+Flames	-	2		Big Firebomb (2005)	SEGANHGT83V4	ok	SEGAJHBV2R11	57	Flames	Flight Blaise Spin	-	-
+Water	-	2		Flood Strap (2005 Roquette)	SEGA73UPA3G8	ok	SEGAUP5SR4B7	58	Flames	Volcanoburst	-	-
+Grass	-	2		Metal Wing (2005 location)	SEGAXR9DTWH6	ok	SEGA5WMYVFLA	59	Water	Waterswords	-	-
+Techniques	200	1		Tails Mash (2005 location)	SEGA6BAVGVB5	ok	SEGATISZT9L3	60	Water	Tragedy of the Ball	-	-
+Techniques	500	2		Stomping Hammer (2005 location)	SEGA3C56VBM8	ok	SEGAJR91IFFL	61	Water	Flood straps	-	-
+Techniques	800	3		Diving Press (2005rote)	SEGADCYX6F26	ok	SEGAYB17CGCR	62	Water	Shockwave	-	-
+Techniques	!	4		Special Attack (2005rote)	SEGAGMFD41X1	ok	SEGASYODRU3Y	63	Thunder	Gigalyredin	-	-
+Techniques	!	5		The Last Power (2005)	SEGAABBJHAE0	ok	SEGALN1S1J7Y	64	Thunder	Thunderbazooka	-	-
+Techniques	200	6		Kamikaze Tackle (2005 location)	SEGAFJKLG5B1	ok	SEGAD9ABA24D	65	Thunder	Lightning thrust	-	-
+Techniques	500	7		Desgrind (2005)	SEGA4N2Q3FH0	ok	SEGAIWDDYXS4	66	Thunder	Electric Chezi	-	-
+Techniques	800	8		Hell Sand (2005 Roquette)	SEGA4BSGKW32	ok	SEGALVKMZDI9	67	Sat	Rush Spine	-	-
+Techniques	!	9		Aiko Yaburi (2005rote)	SEGA982HJDA7	ok	SEGAQP1G1H0S	68	Sat	Big Mall Attack	-	-
+Techniques	!	10		Special Attack (2005)	SEGA7G1TEWR6	ok	SEGA5D8FOM6V	69	Sat	Heller's Quake	-	-
+Techniques	200	11		Neck Crusher (2005 Roquette)	SEGABNAHBSX5	ok	SEGAX2OS60HJ	70	Sat	Earthbarrier	-	-
+Techniques	500	12		Atomic Bomb (2005)	SEGAVFXCTBL7	ok	SEGA9DNXWFSO	71	Grass	Eggs Sribolber	-	-
+Techniques	800	13		Dino Swing (2005 location)	SEGAABBE4GA3	ok	SEGACEM3MLDV	72	Grass	Bigfoot Assault	-	-
+Techniques	!	14		Ase-se (2005rote)	SEGAGWQACOF9	ok	SEGAJAMHT4GM	73	Grass	Metal Wing	-	-
+Techniques	!	15		Hangeki Kaifuku (2005 location)	SEGAVU78R4J0	ok	SEGAT6YZKGAT	74	Grass	Nature's Blessing	-	-
+Sat	-	43		Rush Spine	SEGAX64WG6Z3	kokk	SEGARMWOPON9	76	The wind.	Kamaitachi	-	-
+Grass	-	45		Bigfoot Assault	SEGAVS2FBCA8	ok	SEGAPI608L0N	77	The wind.	Ninja Attack	-	-
+The wind.	-	48		Tornadobrough	SEGAGFVQMAL9	ok	SEGALS8WVD2B	78	The wind.	Tornadobrough	-	-
+Flames	-	34		Big Fire Cannon	SEGA54NDN1G4	ok	SEGA5PVWCUOB	79	The wind.	Cyclones	-	-
+Water	-	36		Tragedy of the Ball	SEGA1DLBVSZ3	ok	-	-	-	-	-	-
+Thunder	-	39		Lightning thrust	SEGA7GEO2HW1	OK	SEGA8EVXJ7FB	1	Egg	Eggs of Fire	-	-
+Water	-	47		Shockwave	SEGAJZF8MD9H	*	SEGAM8C6EQHM	D-09	-	Marm (grass) dinosaur king	-	-
+Sat	-	52		Earthbarrier	SEGAJ1D695S8	*	SEGA8HZMRS2M	-	-	Super Dinosaur King Card03 Malm	-	-
+Grass	-	53		Eggs Sribolber	SEGABMJ5KLF8	*	SEGA0ET2DF87	-	-	Act Group Dr. Sonoida	-	-
+The wind.	-	57		Ninja Attack	SEGACWER4NK1	OK	-	-	-	[1st year + (plus)]	-	-
+Techniques	-	40		Attack up	SEGA7S8W9J1A	*	SEGAC8J4CDQL	-	Dragon	Paquikefarosaurus	2000	So, let's go.
+Techniques	-	41		Powerdrain	SEGAHF9UBLAC	*	SEGA0Z42L309	-	Dragon	Eou Procefals	2000	Pinch
+Techniques	-	42		わざとポカ	SEGAO6EUR1N2	*	SEGA1HPY2WVV	-	Dragon	Coritosaurus	1400	Counter
+Techniques	!	47		Defensive up	SEGACN6SJK3J	*	SEGAGB2VU9BV	-	Dragon	Eustreptops Pondilus	1200	Pinch
+Techniques	!	49		Benomfang	SEGAQT5YEWG1	*	SEGAOFA2WXHA	-	Sat	Quake Saber	-	-
+Techniques	!	50		Kaifuku	SEGAAQ4P12DN	*	SEGA4RTXYUXC	-	Dragon	Spinosaurus	2000	So, let's go.
+Flames	-	54		Flight Blaise Spin	SEGAL4IHZNG6	*	SEGA4MPNH5PB	-	Dragon	Carthodontosaurus	1800	So, let's go.
+Water	-	55		Waterswords	SEGAHDLGD8T7	OK	SEGAGRQ7RVWY	-	Dragon	Shantungosaurus	1600	Counter
+Thunder	-	61		Electric Charge	SEGAFH5JBF5S	*	SEGASRWZQGYP	-	Dragon	Kasmosaurus	1400	Pinch
+The wind.	-	71		Cyclones	SEGAV8D7JKJ9	*	SEGACN6361O6	-	Dragon	Kentosaurus	1400	So, let's go.
+Flames	-	58		Volcanoburst	SEGA15FQNVUE	*	SEGAAGBGH3LW	-	Dragon	Monolophosaurus	1200	Pinch
+Sat	-	68		Heller's Quake	SEGABHCVY1Q2	*	SEGA77YL5U7O	-	Dragon	Aeniosaurus	1000	Pinch
+-	-	-		-	-	*	SEGAF4XLP2Z8	DMC-01/02	-	D Kids Members Card	-	-
+Flames	-	D-01		Dinosaur King Ryuta	SEGA6BTVH8Z2	OK	-	-	-	[Second century]	-	-
+Thunder	-	D-02		Dinosaur King Ryuta	SEGA1DOC4NZ8	OK	SEGAZ0NJFH34	-	Dragon	Paquikefarosaurus	2000	Aiko
+Grass	-	D-03		Dinosaur King Ryuta	SEGACPHMEFZ4	OK	SEGA9B6G6VQZ	AN01	-	Gab	1600	Super-pinch
+Water	-	D-04		Dinosaur King Rex	SEGAGHMT4HA1	*	SEGAFP3DAU7L	AN02	-	Ace	1600	Super soso
+Sat	-	D-0-		Dinosaur King Rex	SEGAKAJLQSA9	*	SEGAEQ0BBZ2B	AN03	-	Parapara	1600	Super Counter
+The wind.	-	D-06		Dinosaur King Rex	SEGARFSRE0A5	*	SEGA8VMI8KAK	38	Dragon	Saurolovus	2000	So, let's go.
+Flames	-	A-01		Noraty~	SEGAS5TSBQB4	*	SEGA8NCVMX1F	29	Dragon	Daspretosaurus	1800	So, let's go.
+Thunder	-	A-02		Lotto	SEGAANOAFSE0	*	SEGAE9B81T5T	42	Dragon	Delta Delomeus	1600	So, let's go.
+Grass	-	A-03		Usalapa	SEGASVHEPNW9	*	SEGAO9OIJEUV	37	Dragon	Dakentrulus	1200	Counter
+Sat	-	A-04		Ed	SEGAD8JZUAG5	*	SEGANAKEBCU1	32	Dragon	Opistocoelikadia	1000	Pinch
+Water	-	A-05		Nopis	SEGAV1MS9VX6	*	SEGA8R2QU45B	34	Dragon	Brakikeratops	1000	So, let's go.
+The wind.	-	A-06		Loa	SEGAARS8VZM8	*	SEGAJO6WYC81	78	Flames	Deathfire	-	-
+-	-	-		Super Dinosaur King Card01 Ryuta	SEGAX87UV9Z5	*	SEGAN2A8I8P7	83	Water	Futaba Mega Cannon	-	-
+-	-	-		Super Dinosaur King Card02 Rex	SEGAT49O1BA0	*	SEGA3U3EX03B	69	Techniques	Skydive	!	-
+-	1000	-		2007New Year's card Golgosaurus	SEGABNFD29H1	*	SEGARCZ4HO07	72	Techniques	Aiko Bakdan	!	-
+Dragon	2000	2		Silacosaurus	SEGAOD043BN6	OK	SEGAVT796Q6F	EX03	Dragon	Fukiasaurus	1200	Pinch
+Dragon	1600	12		Edmontonia	SEGAQKVLBI52	OK	SEGAPUJ9JPK7	EX04	Dragon	Fukiraptor	1200	So, let's go.
+Dragon	1400	25		Iguanodon	SEGAU9JBRVB5	ok	-	-	-	[Third century]	-	-
+Dragon	1000	33		Golgosaurus	SEGABNFD29H1	OK	SEGA3JH79ZSI	AN04	-	Tirano Act	1600	Super Kogeki
+Dragon	2000	-		Super-Acrocantosaurus	SEGAZ3K5JDL7	*	SEGACKT6EP1B	AN05	-	Spino Act	1600	Super Aiko
+Techniques	!	56		Elemental power	SEGA1BA2U3C9	*	SEGA0HNJOLH7	AN06	-	Saika Act	1600	Super Mamori
+Techniques	!	59		Hyakutsuri Binta	SEGA2ZGCB8ZX	*	SEGALWIRB9EX	4	Dragon	Saicania	2000	とつげき
+Techniques	!	61		Baubau Power	SEGAN9SH4D1L	*	SEGAZK86PO4C	8	Dragon	Yutaraptor	1800	Hunter
+Thunder	-	72		Thunderbazooka	SEGABNV5SJ76	*	SEGANN4BIORL	12	Dragon	Acrocantosaurus	1400	So, let's go.
+Grass	-	82		Nature's Blessing	SEGAN4COI6X5	*	SEGAGA7JZJCT	13	Dragon	Sartasaurus	1400	Yuuki
+-	1000	-		Act dinosaur Weerosaurus AC	SEGAECW68KD8	ok	SEGAJAF0UYWH	14	Dragon	Maiasaura	1400	とつげき
+-	1000	-		Akto dinosaur Golgosaurus AC	SEGACMDUVP41	ok	SEGAW1P3VOQ1	16	Dragon	Eustenkosaurus	1200	Hunter
+-	1000	-		Akuninosaur Aniosaurus AC	SEGA0SZMA9O6	ok	SEGAPUTIULWF	33	Dragon	Anberosaurus	2000	Hunter
+-	1000	-		Dilophosaurus AC	SEGA9ZN1OSI7	ok	SEGAIDUKH2K9	34	Dragon	Talchia	1800	Yuuki
+							SEGAFE17ODLA	35	Dragon	Yanchuanosaurus	1600	とつげき
+							SEGA3E0BZ3EN	36	Dragon	Shinraptor	1400	Yuuki
+							SEGAC8UVNUPP	37	Dragon	Akelosaurus	1200	Yuuki
+							SEGAUGF4DXZ9	38	Dragon	Mutstaburasaurus	1000	Hunter
+							SEGA8XO21ARZ	68	Techniques	Life change	!	-
+							SEGAMG6D1PRQ	69	Techniques	Aiko Attack	!	-
+							SEGARZARDFAZ	70	Techniques	Actodice	!	-
+							SEGAZ45VLQA6	75	Flames	Magma Blaster	-	-
+							SEGAGVW59FZT	79	Water	Aquavortex	-	-
+							SEGA0W35YNC5	85	Thunder	Blitz Counter	-	-
+							SEGAYR2KGG6A	89	Sat	Crystal Break	-	-
+							SEGA8XYHMLW4	KS001	Dragon	Tarbosaurus	1200	ふっかつ
+							SEGAHJ96ST0L	KS002	Dragon	Monolophosaurus	1200	ふっかつ
+							SEGAAQ6H8M9B	KS003	Dragon	Dilophosaurus	1000	ふっかつ
+							SEGA4CX3FUHR	KS004	Dragon	Eou Procefals	2000	ふっかつ
+							SEGAV92OTJLZ	-	Dragon	Terriginosaurus	?	Counter
+							SEGAOCB6OWPS	EGG-003-竜	Dragon	Category: Eggs of an act dinosaur	-	-
+							SEGAB1Z8LZYG	EGG-004-竜	Dragon	Thunder Eggs	-	-
+							SEGAH6VL5XN2	EGG-005-竜	Dragon	Eggs of Fire	-	-
+							SEGAG7MN0RXA	EGG-006-竜	Dragon	The wind egg.	-	-
+							SEGA71SZNSVN	EGG-007-竜	Dragon	Soil eggs	-	-
+							SEGAK1X7W2HZ	EGG-008-竜	Dragon	Eggs of water	-	-
+							SEGAPFOE71QU	EGG-009-竜	Dragon	Eggs of Grass	-	-
+							SEGAF1C7TSUO	EX05	Dragon	Saurophaganax	2000	Super Kogeki
+							-	-	-	[The 4th century]	-	-
+							SEGA7BBJKSV6	SP07	Dragon	Terriginosaurus	2000	Mamori
+							SEGAZ0NJFH34	SP08	Dragon	Paquikefarosaurus	2000	Aiko
+							SEGAV5A9EWR2	SP09	Dragon	Dinonics	2000	Kogeki
+							SEGA492VEHU7	KS005	Dragon	Acrocantosaurus	1400	ふっかつ
+							SEGA3KZ9COJV	KS006	Dragon	Saurolovus	2000	ふっかつ
+							SEGATNIBATHJ	KS007	Dragon	Shinraptor	1400	ふっかつ
+							SEGARCMMAII6	4	Dragon	Carnotaurus	2000	Yuuki
+							SEGAZSC0KBU3	10	Dragon	Torosaurus	1600	Yuuki
+							SEGA3CY29KZ1	16	Dragon	Sauloperta	1600	Yuuki
+							SEGAPUTIULWF	28	Dragon	Amperosaurus	2000	Hunter
+							SEGAWGNJK3E8	29	Dragon	Pentegratops	2000	Hunter
+							SEGALOFWM9U4	31	Dragon	Majungasaurus	1800	とつげき
+							SEGA7Y8P9VX6	33	Dragon	Anatotitan	1600	Yuuki
+							SEGAXI2EDT6D	34	Dragon	Diclaeosaur	1400	Tosshin
+							SEGAYGL1H4LK	35	Dragon	Albertsaurus	1200	Yuuki
+							SEGAISE6W3Z6	37	Dragon	Taralullus	1000	Tosshin
+							SEGAR2OG7JWH	71	Techniques	ぬいぐるびーむ	-	-
+							SEGABUW7B23K	86	Thunder	Gatling Spark	-	-
+							SEGA93PXRR82	100	The wind.	Kagero	-	-
+							SEGADYE28DRW	-	Dragon	Godzillasaurus	1000	とつげき
+							SEGA4N2Q3FH0	-	Techniques	Dinosaur Fart (Death Grinding)	500	-
+							-	-	-	[4th century + plus]	-	-
+							SEGADYOCKF1J	AN10	Dragon	Black Tyrannosaurus	2000	Death
+							SEGAQG2STW0D	23	Dragon	Shnosaurus	1600	Hunter
+							SEGANFFE1GIL	33	Dragon	Monotony	1200	とつげき
+							SEGA3U4JSNYN	34	Dragon	Caronosaurus	1800	Hunter
+							SEGA9SYW9V9R	46	Dragon	Liliensternus	1000	Yuuki
+							SEGAHYHVOV6N	47	Dragon	Gastonia	1400	Hunter
+							SEGA8XYHMLW4	KS008	Dragon	Tyrannosaurus (= KS001 Mispri)	2000	ふっかつ
+							SEGA4SOT894X	KS008	Dragon	Tyrannosaurus	2000	ふっかつ
+							SEGATXR4V9A1	ACT008	Dragon	Super-Arosaurus	1800	どく
+							SEGAFIE9WMK1	ACT009	Dragon	Super-Kasmosaurus	1800	どく
+							SEGAZSIVL6LR	ACT010	Dragon	Super Kentosaurus	1800	どく
+							SEGA1NWB157R	81	Techniques	Technique up	!	-
+							SEGADNA5VNN8	105	Grass	Emerald Garden	!	-
+							SEGAOYKF6TZK	-	Secret	The secret egg.	?	-
+							SEGA6BTVH8Z2	D-10	-	Dinosaur King Ryuta (Fire)	-	-
+							SEGAGHMT4HA1	D-11	-	Dinosaur King Rex (Water)	-	-
+							SEGA7HP5QH4M	D-12	-	Dinosaur King Malm (Sat)	-	-
+							SEGACPHMEFZ4	D-13	-	Dinosaur King Ryuta (grass)	-	-
+							SEGAKAJLQSA9	D-14	-	Dinosaur King Rex (Sat)	-	-
+							SEGAR0Q6XTE7	D-15	-	Dinosaur King Malm (water)	-	-
+							SEGA21SGRAC6	D-16	-	Ancient Doctor (Kaze)	-	-
+							SEGA1DOC4NZ8	D-17	-	Dinosaur King Ryuta (Thunder)	-	-
+							SEGARFSRE0A5	D-18	-	Dinosaur King Rex (Wind)	-	-
+							SEGAM8C6EQHM	D-19	-	Dinosaur King Malm (grass)	-	-
+							SEGAUGJALFC0	D-20	-	Ancient Doctor (Sat)	-	-
+							SEGAEQ0BBZ2B	AN11	Dragon	Parapara-AN03	1600	Super Counter
+							SEGA3JH79ZSI	AN12	Dragon	Tirano-AN04	1600	Super Kogeki
