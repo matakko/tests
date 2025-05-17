@@ -75,67 +75,59 @@
 | SEGA7GEO2HW1 | Super Move| 03      | Paper    | Bolt      | ----            | Lightning Spear                    |
 | SEGAX64WG6Z3 | Super Move| 01      | Rock     | Earth     | ----            | Spike Arrows                       |
 | SEGAFBTD67T2 | Super Move| 02      | Scissors | Earth     | ----            | Mole Attack                        |
-| SEGAVS2FBCA8 | Super Move| 02      | Scissors | Grass     | ---             | Big Foot Assault (2005 Rocket)     |
+| SEGAVS2FBCA8 | Super Move| 02      | Scissors | Grass     | ----            | Big Foot Assault (2005 Rocket)     |
 | SEGAXR9DTWH6 | Super Move| 03      | Paper    | Grass     | ----            | Metal Wing                         |
-| SEGA87DFVJP5 | Super Move| 01      | Rock     | Wind      |                 | Biting Wind                        |
-| SEGAGFVQMAL9 | Super Move| 03      | Paper    | Wind      |                 | Tornado Toss                       |
-| SEGACWER4NK1 | Super Move| 57      | Scissors | Wind      | ---             | Ninja Attack (2005 Rocket)         |
+| SEGA87DFVJP5 | Super Move| 01      | Rock     | Wind      | ----            | Biting Wind                        |
+| SEGAGFVQMAL9 | Super Move| 03      | Paper    | Wind      | ----            | Tornado Toss                       |
+| SEGAL4IHZNG6 | Super Move| 54      | Paper    | Fire      | ----            | Blazing Spin Attack                | 
+| SEGAHDLGD8T7 | Super Move| 55      | Rock     | Water     | ----            | Water Sword                        | 
+| SEGACWER4NK1 | Super Move| 57      | Scissors | Wind      | ----            | Ninja Attack (2005 Rocket)         |
+| SEGABHCVY1Q2 | Super Move| 69      | Paper    | Earth     | ----            | Earthquake                         | 
+| SEGABNV5SJ76 | Super Move| 72      | Scissors | Bolt      | ----            | Thunder Bazooka                    | 
+
+
 																												   
-| SEGABNV5SJ76 | Super Move|         |          | Bolt      | ----            | Thunder Bazooka                    | 
-| SEGABHCVY1Q2 | Super Move|         |          | Earth     | ----            | Earthquake                         | 
-| SEGAL4IHZNG6 | Super Move|         |          | Fire      | ----            | Blazing Spin Attack                | 
-| SEGAHDLGD8T7 | Super Move| 55      |          | Water     | ----            | Water Sword                        | 
-																												   
-									            |                                                                  
-| SEGA0ET2DF87 | Character | --      |          |           | ----            | Character Dr. Z                    | 
-| SEGA3ESEVG85 | Character |         |          |           |                 | Character Dr Z  --        ----     |
-| SEGAALMV1D86 | Character |         |          |           |                 | Character Dr Z                     | 
-| SEGAZ9JGC681 | Character |         |          |           |                 | Character Dr Z                     | 
-| SEGAIKHETQ82 | Character |         |          |           |                 | Character Dr Z                     | 
-| SEGARS6YC981 | Character |         |          |           |                 | Character Dr Z                     |
-| SEGAQCOMYU83 | Character |         |          |           |                 | Character Dr Z                     |
-| SEGA8YOHCZC2 | Character |         |          |           |                 | Character Dr Taylor                |
-| SEGA21SGRAC6 | Character |         |          |           |                 | Character Dr Taylor                | 
-| SEGA3107GDC8 | Character |         |          |           |                 | Character Dr Taylor                |
-| SEGAJXTVR7C3 | Character |         |          |           |                 | Character Dr Taylor                | 
-| SEGARVM2BSC7 | Character |         |          |           |                 | Character Dr Taylor                | 
-| SEGAUGJALFC0 | Character |         |          |           |                 | Character Dr taylor                | 
-| SEGAX4HO0WC8 | Character |         |          |           |                 | Dr Taylor character card           | 
-| SEGAD8JZUAG5 | Character |         |          |           |                 | Character Ed                       | 
-| SEGAARS8VZM8 | Character |         |          |           |                 | Character Laura                    | 
-| SEGA6BTVH8Z2 | Character | D-01    |          | Fire      |                 | Ryuta / Max                        |
-| SEGA1DOC4NZ8 | Character | D-02    |          | Bolt      |                 | Ryuta / Max                        | d17
-| SEGACPHMEFZ4 | Character | D-03    |          | Grass     |                 | Ryuta / Max                        | d13
-| SEGABMJ5KLF8 | Character |         |          |           |                 | Ryuta / Max                        | 
-| SEGAX87UV9Z5 | Character |         |          |           |                 | Ryuta / Max Card01                 |
-																												   
-| SEGAGHMT4HA1 | Character | D-04    |          | Water     |                 | Rex                                |/D-11 
-| SEGAKAJLQSA9 | Character |         |          |           |                 | Rex                                | 
-| SEGARFSRE0A5 | Character | D-18    |          | Wind      |                 | Rex                                | 
-| SEGAT49O1BA0 | Character |         |          |           |                 | Character Rex Card02               | 
-| SEGAANOAFSE0 | Character |         |          |           |                 | Character Rod                      |  
-| SEGAV1MS9VX6 | Character |         |          |           |                 | Character Seth                     |
-| SEGASVHEPNW9 | Character |         |          |           |                 | Character Ursula                   |
-| SEGAS5TSBQB4 | Character |         |          |           |                 | Character Zander                   |
+									                                                                             
+| SEGA0ET2DF87 | Character |         |          |           |                 | Dr. Z                    | 
+| SEGA3ESEVG85 | Character |         |          |           |                 | Dr Z                     |
+| SEGAALMV1D86 | Character |         |          |           |                 | Dr Z                     | 
+| SEGAZ9JGC681 | Character |         |          |           |                 | Dr Z                     | 
+| SEGAIKHETQ82 | Character |         |          |           |                 | Dr Z                     | 
+| SEGARS6YC981 | Character |         |          |           |                 | Dr Z                     |
+| SEGAQCOMYU83 | Character |         |          |           |                 | Dr Z                     |
+| SEGA8YOHCZC2 | Character |         |          |           |                 | Dr Taylor                |
+| SEGA21SGRAC6 | Character | D-16    |          | Kaze      |                 | Dr Taylor                | 
+| SEGA3107GDC8 | Character |         |          |           |                 | Dr Taylor                |
+| SEGAJXTVR7C3 | Character |         |          |           |                 | Dr Taylor                | 
+| SEGARVM2BSC7 | Character |         |          |           |                 | Dr Taylor                | 
+| SEGAUGJALFC0 | Character |         |          |           |                 | Dr taylor                | 
+| SEGAX4HO0WC8 | Character |         |          |           |                 | Dr Taylor                | 
+| SEGAD8JZUAG5 | Character | A-04    |          | Earth     |                 | Ed                       | 
+| SEGAARS8VZM8 | Character | A-06    |          | Wind      |                 | Laura                    | 
+| SEGA6BTVH8Z2 | Character | D-01    |          | Fire      |                 | Max                      |
+| SEGA1DOC4NZ8 | Character | D-02    |          | Bolt      |                 | Max                      | 
+| SEGACPHMEFZ4 | Character | D-03    |          | Grass     |                 | Max                      | 
+| SEGABMJ5KLF8 | Character |         |          |           |                 | Max                      | 
+| SEGAX87UV9Z5 | Character |         |          |           |                 | Max Card01               |																											   
+| SEGAGHMT4HA1 | Character | D-04    |          | Water     |                 | Rex                      |
+| SEGAKAJLQSA9 | Character | D-05    |          | Earth     |                 | Rex                      | 
+| SEGARFSRE0A5 | Character | D-06    |          | Wind      |                 | Rex                      | 
+| SEGAT49O1BA0 | Character |         |          |           |                 | Rex Card02               | 
+| SEGAANOAFSE0 | Character | A-02    |          | Bolt      |                 | Rod                      |  
+| SEGAV1MS9VX6 | Character | A-05    |          | Water     |                 | Seth                     |
+| SEGASVHEPNW9 | Character | A-03    |          | Grass     |                 | Ursula                   |
+| SEGAS5TSBQB4 | Character | A-01    |          | Fire      |                 | Zander                   |
 
 
 
-SEGA7HP5QH4M	D-12	-	Dinosaur King Malm (Sat)
-SEGAKAJLQSA9	D-14	-	Dinosaur King Rex (Sat)
+SEGA7HP5QH4M	D-12	-	Dinosaur King Malm (Earth)
 SEGAR0Q6XTE7	D-15	-	Dinosaur King Malm (water)
-SEGA21SGRAC6	D-16	-	Ancient Doctor (Kaze)
 SEGAM8C6EQHM	D-19	-	Dinosaur King Malm (grass)
-SEGAUGJALFC0	D-20	-	Ancient Doctor (Sat)
-SEGAEQ0BBZ2B	AN11	Dragon	Parapara-AN03
-SEGA3JH79ZSI	AN12	Dragon	Tirano-AN04
+SEGAUGJALFC0	D-20	-	Ancient Doctor (Earth)
 
-Sat	-	D-0-		Dinosaur King Rex	SEGAKAJLQSA9
-The wind.	-	D-06		Dinosaur King Rex	SEGARFSRE0A5
-Flames	-	A-01		Noraty~	SEGAS5TSBQB4
-Thunder	-	A-02		Lotto	SEGAANOAFSE0
-Grass	-	A-03		Usalapa	SEGASVHEPNW9
-Sat	-	A-04		Ed	SEGAD8JZUAG5
-Water	-	A-05		Nopis	SEGAV1MS9VX6
-The wind.	-	A-06		Loa	SEGAARS8VZM8
--	-	-		Super Dinosaur King Card01 Ryuta	SEGAX87UV9Z5
--	-	-		Super Dinosaur King Card02 Rex	SEGAT49O1BA0
+
+
+
+
+
+
