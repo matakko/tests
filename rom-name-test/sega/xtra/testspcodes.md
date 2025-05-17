@@ -10,7 +10,7 @@ Dinosaur King - Operation: Dinosaur Rescue
 
 
 					
-| Codes        | Species | No. | Strength | Name of card                             | Str 
+| Codes        | Species | No. | Strength | Name of card                             | 
 | ------------ | ------- | --- | -------- | -------------------------------------------- | 
 | SEGA0ET2DF87 | -       | --  | ----     | Character Dr. Z                              | 
 | SEGA0SZMA9O6 | Dino    | --  | 1000     | Acr-Dinosaur Einiosaurus AC                  | 
