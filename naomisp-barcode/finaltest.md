@@ -1,21 +1,18 @@
 # Card Barcodes List
 [Back to the Top](#card-barcodes-list) REMOVE
 
-- [Dinosaur King](#dinoking)
-- [Dinosaur King - Operation: Dinosaur Rescue](#dinokior)
-- [Dinosaur King - D-Team VS. the Alpha Fortress](#dinoki25)
-- [](#)
+- [ALL DINOSAUR KINGs (KING, ODR, KING 2)](#all-dinosaur-kings-king-odr-king-2)
+- [DINOSAUR KING Operation: Dinosaur Rescue (only)](#dinosaur-king-operation-dinosaur-rescue-only) 
+- [DINOSAUR KING ODR and KING 2](#dinosaur-king-odr-and-king-2)
+- [list 3](#dinosaur-king-2-ver-2500-only)
 - [](#)
 - [MUSHIKING 2K4 2ND (Japan)](#mushi2k4)
 - [MUSHIKING 2K5 1ST (Japan)](#mushi2k5)
 
 # Dinosaur King Series
-[Back to the Top](#card-barcodes-list)
-- Dinosaur King  (dinoking): [list 1](#all-dinosaur-kings-king-odr-king-2) 
-- Dinosaur King - Operation: Dinosaur Rescue (dinokior) : [list 1](#all-dinosaur-kings-king-odr-king-2) [list 2](#dinosaur-king-operation-dinosaur-rescue-only) [list 3](#dinosaur-king-odr-and-king-2)
-- Dinosaur King - D-Team VS. the Alpha Fortress (dinoki25) : [list 1](#all-dinosaur-kings-king-odr-king-2) [list 2](#dinosaur-king-odr-and-king-2) [list 3](#dinosaur-king-2-ver-2500-only)
+
 ### ALL DINOSAUR KINGs (KING, ODR, KING 2)
-[Back to the Menu](#dinosaur-king-series)
+[Back to the Top](#card-barcodes-list)
 | Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Card Name                          |
 | ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
 | SEGA6SBDGRE2 | Dino      |  01     | Paper    | Fire      | 2000 / 300      | Tyrannosaurus (2005 Rocket)        |
@@ -133,12 +130,14 @@
 
 
 ### DINOSAUR KING Operation: Dinosaur Rescue (only)
+[Back to the Top](#card-barcodes-list)
 | Codes            |  Notes               |
 | ---------------- | -------------------- |
 | SEGAL4UQF9EF1500 | switch to 'Part Two' |
 | SEGALL0EFLN81500 | switch to 'Part One' |
 
 ### DINOSAUR KING ODR and KING 2
+[Back to the Top](#card-barcodes-list)
 | Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Card Name                          |
 | ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
 | SEGA2SJ5GHSU | Dino      | 22      | Rock     | Bolt      | 1200 / 900      | Eucentrosaurus (2005 rocket)       |
@@ -165,7 +164,7 @@
 
 
 ### DINOSAUR KING 2 (VER 2.500) (only)
-
+[Back to the Top](#card-barcodes-list)
 | Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Card Name                          |
 | ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
 | SEGAEF4BFWU0 | Dino      | 01      | Paper    | Fire      | 2000 / 300      | Tyrannosaurus                      |
@@ -378,23 +377,26 @@
 
 
 
-LOVE AND BERRY
+### LOVE AND BERRY
+[Back to the Top](#card-barcodes-list)
 Dress Up
 
 
-ALL ENGLISH MUSHIKINGs
-MUSHIKING II and IV (English)
-MUSHIKING IV (English)
-MUSHIKING 2K4 2ND (Japan)
-MUSHIKING 2K5 1ST (Japan)
-ISSYYOUI WAN WAN
+### ALL ENGLISH MUSHIKINGs
+[Back to the Top](#card-barcodes-list)
+
+### MUSHIKING II and IV (English)
+[Back to the Top](#card-barcodes-list)
+
+### MUSHIKING IV (English)
+[Back to the Top](#card-barcodes-list)
 
 
 
 
-## mushi2k4
-[Back to the Menu](#card-barcodes-list)
-### MUSHIKING 2K4 2ND (Japan) / Mushiking The King Of Beetles 2004 Second
+### MUSHIKING 2K4 2ND (Japan)
+[Back to the Top](#card-barcodes-list)
+
 #### License
  | Codes         | Card Name           |
  | ------------- | ------------------- | 
@@ -574,9 +576,9 @@ ISSYYOUI WAN WAN
  | L87WLZZ0AFM9Q | ???                 | 
 
 
-## mushi2k5
-[Back to the Menu](#card-barcodes-list)
-### MUSHIKING 2K5 1ST (Japan) / Mushiking The King Of Beetles 2005 First
+### MUSHIKING 2K5 1ST (Japan)
+[Back to the Top](#card-barcodes-list)
+
 #### License
  | Codes         | Card Name           |
  | ------------- | ------------------- | 
