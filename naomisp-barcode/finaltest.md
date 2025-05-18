@@ -387,13 +387,332 @@ Dress Up
 
 ### ALL ENGLISH MUSHIKINGs
 [Back to the Top](#card-barcodes-list)
+#### License
+ | Codes         | Card Name             |
+ | ------------- | --------------------- |
+ | AACR5N7GKB    | The Greatest Player   |
+ | BBG6RMWYP5    | The Greatest Champion |
+ 
+#### Beetle
+ | Codes         | Card Name                          |
+ | ------------- | ---------------------------------- |
+ | UFBEG27DMR    | Actaeon (Banging) 阿克達 rock       |
+ | REKXH2XQJS    | Giraffe (Bullock) 長頸鹿鋸          |
+ | NKFRZACSBW    | Hercules (Rolling Driver) 赫克力士  |
+ | Y6JO95SDI8    | Grandis 巨大扁鍬型蟲                 |
+ | TDA3YJLUG8    | Palawan (Aggressive) 巴拉望 siccors |
+ | LVYZ58SEGQ    | Caucasus (Aggressive) 高加索        |
+ | 1HCLVBLFII    | Elephant                           |
+ | BLRG6PQ4PK    | Parry                              |
+ | UHRJY5T8HW    | Neptune                            |
+ | IC2OFGHZP6    | Japanese Stag (Dragon Attack)      |
+ | 1GZA56NKZ3    | Flat Stag                          |
+ | 489PN8DOXG    | Atlas Beetle                       |
+ | NXK5VA42KC    | Five Horned                        |
+ | JD6P63VRAH    | Saw tooth                          |
+ | N6LHMQ5YWS    | Japanese Beetle                    |
+ | 0MT6LG4RAB    | Humorous                           |
+ | 8HL18B0E4O    | Deer Stag kingfisher hug           |
+ | LNG1IKS018    | Grant White tornado throw          |
+ | 25NIFRTHQZ    | Thailand 5                         |
+ | X93CMS17TV    | Rhino                              |
+ | FNK3A8E3MZ    | Specious                           |
+ | RZAGI2JHTV    | Armor Stag                         |
+ | JEZBY9MUG5    | Little Stag                        |
+ | E38TVKTZV8    | Upright                            |
+ | 7GHM4HWVMS    | Golden Stag 印加皇帝                |
+ | FJCYRYHI93    | Yellow-winged                      |
+ | CVNB0CHXAI    | Tarandus (Machine Gun) 馴鹿艷       |
+ | 8RFHLAJ354    | Chilean Stag                       |
+ | BA7LQHPUO8    | Rusty                              |
+ | W4HZJ9HMW3    | Flat Horn                          |
+ 
+#### Skill
+ | Codes         | Card Name                             |
+ | ------------- | ------------------------------------- |
+ | XJEJN0DRQK    | Banging Smash rock 20 猛烈狂打         |
+ | SRUQ5B4NG2    | Bull Lock siccors 20 獵犬猛撕          |
+ | UOHXN9UK2C    | Rolling Driver paper 20 轟天降         |
+ | ERG257Z0T1    | Dragon Attack rock 60 天龍出擊         |
+ | W0XGPTM4J3    | Rolling Clutch siccors 60 迴轉摑絞     |
+ | ZB831C7ZPA    | Sidescrew paper 60 側面漩渦            |
+ | UX15DGUXW6    | Dangun rock                           |
+ | RPKARM2E7X    | Kingfisher siccors 80                 |
+ | A37F0IWV0T    | Tornado Throw paper                   |
+ | JBYAQ7AMOJ    | Rolling Smash rock                    |
+ | WD0RQJUFR7    | Running Cutter siccors                |
+ | V62AQWVDEY    | Sidelock Bomb paper 80 翡翠拋流        |
+ | LP2A3PMK89    | Machine Gun 百裂拳 rock 20             |
+ | DU58POKJDR    | Crashing                              |
+ | 2RL9LWD946    | Daisharin                             |
+ | 3W6T40KERA    | Finishing Attack Stopper rock 必殺封技 |
+ | TLXEPD8BRM    | Tie Breaker siccors                   |
+ | I96RHYQ6MT    | Agitation I paper                     |
+ | 1HRSKHCABH    | Last Resort 必殺預告  rock             |
+ | 21AOKXVZVF    | Confusion 擾亂軍心 siccors             |
+ | PXWLIYH9UB    | Counter Attack Healing paper          |
+ | HWQHM6LACX    | Super Dangun                          |
+ | C21UJM972T    | Super Rolling Smash rock              |
+ | 759HGAXV87    | Super Kingfisher siccors              |
+ | GJTVEDSE42    | Super Running Cutter                  |
+ | AF0MIL8YVL    | Super Sidelock Bomb                   |
+ | SLF5MKLHAM    | Super Tornado Throw                   |
+ | 5D7K7RNDF2    | Super Daisharin                       |
+ | ELHEP4YDH1    | Healing paper                         |
 
 ### MUSHIKING II and IV (English)
 [Back to the Top](#card-barcodes-list)
 
+#### License
+ | Codes         | Card Name                             |
+ | ------------- | ------------------------------------- |
+ | GBAYHQW4TJ    | Dr.NEBU Master                        |
+	
+#### Skill
+ | Codes         | Card Name                             |
+ | ------------- | ------------------------------------- |
+ | TB70JOOHCH    | Hayate                                |
+ | P8H914SKF2    | Crossdive                             |
+ | F1RWWTU1ZG    | Cyclone Whip paper 60                 |
+ | NIB3ALXT6S    | Super Hayate                          |
+ | S7AB4M9YDY    | Defense Up                            |
+ | RML72OQFSU    | Special Skill Stopper                 |
+ | DPWRZ5UAL0    | Tie Bonus                             |
+ | JEK4ZUTO7P    | Power of Venus                        |
+ | EHR692790M    | Power Drain                           |
+ | KCH27WAQQX    | Agitation II                          |
+ | RNZADR48E2    | Submarine Attack rock 60              |
+ | J9FXEM9C96    | Complete Smash                        |
+ | EX30E1W4SJ    | Falcon Dive siccors 80                |
+ | K9TE317JPS    | Forest Bridge                         |
+ | HPWG5BT4YB    | SAS                                   |
+ | NJ788UIQ4X    | Earthquake Throw paper 20             |
+ | Y9ZOF9X7PL    | Super Falcon                          |
+ | JZCDNDQGN7    | Super Forest                          |
+ | ZIKD7B621H    | Illusion                              |
+ | V7KUSFG9HM    | Deception                             |
+ | F0RZQRIW4W    | Reverse Slam                          |
+ | LKVAKC4AZL    | Mole Attack                           |
+ | DSYOD5FVO6    | Rolling Cradle                        |
+ | MH9TDTIBEK    | Triple Suplex                         |
+ | ZP6SKANI0A    | Somersault                            |
+ | EQBML622RB    | Super Illusion                        |
+ | XZHGUKW2WO    | Super Reverse                         |
+ | JU5ZO3Q2PT    | Super Mole Attack                     |
+ | Q1ZGSMER3B    | Super Triple Suplex                   |
+	
+#### Beetle
+ | Codes         | Card Name                                |
+ | ------------- | ---------------------------------------- |
+ | F0X1GM8CK8    | giant africa 神馬大兜蟲 paper 140 龍捲陀螺  |
+ | AY2HO1A5S1    | gideon	                                |
+ | LWNIZHNE5L    | maximus stag                             |
+ | F953Z4M74Z    | moellenkampi                             |
+ | MZ2J9SGTA0    | mandibularis                             |
+ | V94FHY4B4O    | burmisteri                               |
+ | T7YCKCIVXN    | King, the Japanese Beetle                |
+ | JAVF8QXDAN    | Kabutomaru, the Samurai Japanese Beetle  |
+ | MIS7F8OITW    | alcides                                  |
+ | W6Y4E1X09N    | blue hercules 赫克力士青藍 earthquake throw|
+ | L8CNB3R7H9    | anubis                                   |
+ | GJHZF0MVXB    | Emperor                                  |
+ | PYM41RVS8M    | Fabricei                                 |
+ | PR7MLG1MVR    | Saturn                                   |
+ | 704Q07F4WZ    | Joe, the Saw Tooth Stag-beetle           |
+ | YGLFZ0AS1G    | Yaiba, the Ninja Upright Horned Beetle   |
+ | M9SYRCG4IO    | Actaeon (somer) 阿克達 rock               |
+ | L1CMHO7XYH    | didieri                                  |
+ | JB1DNY7QI6    | hasterti                                 |
+ | N0IYZJSYKY    | Feisthameli                              |
+ | D65YMTFLM8    | Micro                                    |
+ | 9GI2YLR8XU    | Juggernault                              |
+ | VA1Y5PGIJ3    | Trident                                  |
+ | CQTP771SA2    | Red Flat Stag (Super Aggressive)         |
+ | D1JVYEJM5L    | adder japanese stag (Dragon Attack)      |
+ | K6VHOXI0ZE    | adder atlas                              |
+ | SINJ2PH25M    | adder armor                              |
+ | TXA9UETBY0    | adder chilean                            |
+ | E6Y3KDUK7X    | adder giant african                      |
+ | AKRLTQYDMC    | adder anubis                             |
+ | YSV6KU96ML    | adder flat stag                          |
+ | KTK8L4IAKY    | adder thailand                           |
+ | FKDC5JYJ8G    | adder rhino                              |
+ | RU4O7LKF8T    | adder five horn                          |
+ | H1LM6BGMYL    | adder saw                                |
+ | BFVX1ZOGQC    | adder japanese                           |
+ | 6QFILGGW2J    | adder flat horned                        |
+ | F3B75MM5DS    | adder maximus                            |
+ | PMOUT0F3S7    | adder Emperor                            |
+ | PFYEH4SPO7    | adder humorous                           |
+ | X7FTNSYGOJ    | adder deer                               |
+ | RCPQNH0WZE    | adder grant white                        |
+ | HYFWQ8SGBK    | adder specious                           |
+ | VLNKBFA55Q    | adder little                             |
+ | NFJ1EXYVIN    | adder upright                            |
+ | UOK95KAKO5    | adder rusty                              |
+ | RXL5DR6V5M    | adder gideon                             |
+ | WAC998Y59L    | adder Fabricei                           |
+ | RJGMQVGQ87    | adder Hasterti                           |
+ | CEOX1ERP7Z    | adder Feisthameli                        |
+ | 3BVE7AE6KC    | adder Micro                              |
+ | WNLAMKMLX1    | adder Juggernaut                         |
+ | TVJR8HBCWQ    | adder trident                            |
+
 ### MUSHIKING IV (English)
 [Back to the Top](#card-barcodes-list)
-
+#### License
+ | Codes         | Card Name                             |
+ | ------------- | ------------------------------------- |
+ | GBADFY8A7I    | Mushiking Johnny Master               |
+ | GBAHT7RDFJ    | Proof of Mushi Tamer                  |
+	
+#### Bettle (location test)
+ | Codes           | Card Name                             |
+ | --------------- | ------------------------------------- |
+ | AKUTYIONB001    | Actaeon 阿克達 rock                    |
+ | GIRAFFAV001     | Giraffe                               |
+ | HERCULESB001    | Hercules                              |
+ | GRANDISV001     | Grandis                               |
+ | PALAWANV001     | Palawan                               |
+ | CAUCASUSB001    | Caucasus                              |
+ | ZOUB001         | Elephant                              |
+ | SEAKAV001       | Parry                                 |
+ | NEPTUNEB001     | Neptune                               |
+ | OOKUWAV001      | japanese stag                         |
+ | HIRATAV001      | Flat Stag                             |
+ | ATLASB001       | Atlas                                 |
+ | GOHONB001       | Five Horn                             |
+ | JAPNOKOGIRIV001 | Saw tooth                             |
+ | JAPKABUTOB001   | Japanese                              |
+ | MENGATAV001     | Humorous                              |
+ | HOSOAKAV001     | Deer                                  |
+ | SHIROB001       | Grand White                           |
+	
+#### Skill
+ | Codes         | Card Name                             |
+ | ------------- | ------------------------------------- |
+ | 6NXSQEVNMC    | Axis Spin rock 80                     |
+ | TU8G952F23    | DBB rock 80 擺臀炸彈                   |
+ | 2PVGNE04OX    | Surfing siccors 80                    |
+ | 51TX6P75IF    | Mystic Crash siccors                  |
+ | GR6NZU86GS    | Acid Rain paper                       |
+ | M4EVZNAFYL    | Dive Bomber paper 80                  |
+ | KIULDXM5PF    | King Tornado                          |
+ | SKKXEGC7WK    | G Neckbreaker siccors 20              |
+ | MD1BNZK3DE    | Super Axis Spin                       |
+ | PQZH8QEFV0    | Super DBB  rock 80 超級擺臀炸彈         |
+ | AN7PBEKANT    | Super Surfing Safari siccors          |
+ | G45OV8BTXS    | Super Mystic siccors                  |
+ | APNBD22JPC    | Heavy Blow siccors                    |
+ | YLPBFNWJR8    | Big Payback paper 加倍奉還             |
+ | Q8H47DH49B    | Air Capture siccors                   |
+ | NZHAO1A4L2    | Strike Back paper                     |
+ | KSQZTPSZQO    | Axel Grind siccors 80                 |
+ | L3RSJ1W7LN    | Pinwheel paper                        |
+ | 6EL3APQA7U    | GG Rush  rock 60                      |
+ | AMRBWJYL55    | Burning Burst                         |
+ | CCK4IG3ZLQ    | Hercules Spiral                       |
+ | MJNKGF4B6L    | Super Air Capture                     |
+ | TXKW0PKDK2    | Super Strike Back                     |
+ | 9H0J1HJMAF    | Super Axel Grind                      |
+ | TZJBNZ0704    | Super Pinwheel                        |
+ | 4FBG6MCQFB    | Courageous Blow                       |
+ | ES01ZQFG7D    | Buffalo Crash rock 60                 |
+ | N753RWFXS2    | Mars Hammer rock 20                   |
+ | JB2ENSNPL5    | The Scythe                            |
+ | 6LHW6BL0K7    | Tornado                               |
+ | HKT765MCZD    | Spinning Wheel                        |
+ | CS5ZIUF4I8    | Back Spin Blow                        |
+ | W3MCK9AXBV    | wind talk                             |
+ | MUVLQ5EKKQ    | emerald                               |
+ | ASCYFW3RWZ    | green arrow                           |
+ | TVE5AWAHAS    | head spin                             |
+ | KY5KJ52DDL    | ducking                               |
+ | DW6SQCO5YG    | AAA                                   |
+ | V7FGX1AY5Q    | hiding in                             |
+ | 2TQW94XRJB    | shark                                 |
+ | TA3E1RZ6G5    | super ducking                         |
+ | PG1MQZPTM8    | super AAA                             |
+ | CNM5VFSBFY    | super hiding siccors                  |
+ | 6V8UTWFNW9    | Super Shark Attack rock               |
+ | I7FBURVQFZ    | Super Head Spin rock                  |
+ | YLS9DLEZKK    | Super Green Arrow siccors             |
+ | LTE4TCRMAJ    | Super Wind Talker paper               |
+ | QHK9NS378A    | Super Emerald paper                   |
+ | N21COW57GZ    | Super Tornado rock                    |
+ | XNATEUU2YO    | Super Dragon Attack rock              |
+ | HS81R2RCB1    | Super King Tornado paper              |
+	
+#### Beetle
+ | Codes         | Card Name                             |
+ | ------------- | ------------------------------------- |
+ | B147GS68XA    | Giraffe (G.Neck)                      |
+ | BR5TN3OR61    | palawan (Super Aggressive)            |
+ | YWIXPXEJGZ    | Mushiking                             |
+ | QHX1V1LAWM    | Mikura                                |
+ | 9KGQ1P8QR7    | Leopoldi Axe                          |
+ | VH2MQ59QJN    | Cantori Pentagon                      |
+ | EW4ULRH4EF    | Cypri                                 |
+ | C0JG2OIYMA    | Hardwickei                            |
+ | UA1LJPPX6J    | Hyllus                                |
+ | ZMZLSD34L0    | Gyas                                  |
+ | NVM6QQD3V0    | Golden Buckleyi                       |
+ | RUFM2M4L5M    | Gigasu                                |
+ | ENET1P6N3B    | Papua Golden                          |
+ | B6B7LJIP3A    | Wallacei                              |
+ | P1D33URHA9    | Diamond Upright                       |
+ | IDRSG8U87V    | Hercules (Hercules Spi)               |
+ | GJDNATLTHF    | Caucasus (Super Aggressive)           |
+ | FKQ7FZRU98    | Jumbo, the Little Stag-beetle         |
+ | S9MP06UDVC    | Chan G, the Micro Stag-beetle         |
+ | PHYEPFRD26    | Stevensi                              |
+ | ZAVG9ZEXDJ    | Tityus Stag                           |
+ | 4HTEFDKXAH    | Mars                                  |
+ | AAEN7C8YBV    | Black Trident                         |
+ | 97VW9C5NTT    | Mandibularis 3                        |
+ | AJHJJ37SX8    | Melanesian 3 AAA                      |
+ | QKEB44WAV7    | Tityus White                          |
+ | Z4PH4L4IXL    | Red Leg                               |
+ | 53CXW7OXZU    | Black Five Horn                       |
+ | DS9K0FJBRQ    | Delicatus                             |
+ | 0SX0MY5VTO    | Alces Stag                            |
+ | H7UEBMZFCF    | Forsteri                              |
+ | ZLNH3U89UQ    | Iron Stripe Stag-beetle               |
+ | N5M6UK9NIR    | Japanese Stag (Tornado)               |
+ | CA3YY6FECG    | Tarandus (Buffalo Crash)              |
+ | WUKSYMI9EO    | Red Gideon (Super Aggressive)         |
+ | CEJYPGZJ5U    | Dr.NEBU's Grand White                 |
+ | 67LY6R8GDS    | adder Mikura                          |
+ | 2FNLP1AMQQ    | adder Leopoldi Axe                    |
+ | LFJH2XJUYH    | adder Cantori                         |
+ | L936R56CF5    | adder Cypri                           |
+ | YOSWZB4LL6    | adder Hardwickei                      |
+ | Y3IKRJDBQT    | adder Mandi                           |
+ | EBIL6M2GFI    | adder Saturn                          |
+ | FII7HL8TNQ    | adder Elephant                        |
+ | 5BTKMMNA52    | adder Golden Buckleyi                 |
+ | ZXID2OETOV    | adder Gigasu                          |
+ | 9PQIW1JA1T    | adder Papua                           |
+ | QO8B7QGEQ7    | adder Wallacei                        |
+ | B1NBHQY858    | adder Diamond Up                      |
+ | LUA4H6NJN9    | adder Blue Hercules                   |
+ | GZJ10QYTW6    | adder Grandis                         |
+ | MQL7C8UA8L    | adder Yellow-winged                   |
+ | YHMCYS5F0X    | adder Actaeon (Summer) 阿克達 rock     |
+ | 7Y6N71IPRQ    | adder Palawan (Super Aggressive)      |
+ | JP8TGTMT2R    | adder Moellenkampi                    |
+ | IC84PNNHBF    | adder alcides                         |
+ | LMYAS96WX6    | adder forsteri                        |
+ | DBL6VQILIA    | adder tityus stag                     |
+ | MTCPIA07XG    | adder black fivehorn                  |
+ | BFWDMANX9D    | adder black trident                   |
+ | LQG852Y38W    | adder steven                          |
+ | YAHOPJUTMB    | adder mandi 3                         |
+ | CH53RATRGK    | adder tityus white                    |
+ | VA9E3VIRLC    | adder melan AAA                       |
+ | RM6ANXPITF    | adder red leg                         |
+ | 4GTZYEVYV2    | adder delicatus                       |
+ | VMQKMIY7X3    | adder japanese stag (Tornado)         |
 
 
 
