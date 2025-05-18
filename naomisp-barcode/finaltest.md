@@ -16,7 +16,7 @@
 - Dinosaur King - D-Team VS. the Alpha Fortress (dinoki25) : [list 1](#all-dinosaur-kings-king-odr-king-2) [list 2](#dinosaur-king-odr-and-king-2) [list 3](#dinosaur-king-2-ver-2500-only)
 ### ALL DINOSAUR KINGs (KING, ODR, KING 2)
 [Back to the Menu](#dinosaur-king-series)
-| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Name of card                       |
+| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Card Name                          |
 | ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
 | SEGA6SBDGRE2 | Dino      |  01     | Paper    | Fire      | 2000 / 300      | Tyrannosaurus (2005 Rocket)        |
 | SEGAVRSO3KB3 | Dino      |  02     | Rock     | Water     | 2000 / 300      | Spinosaurus (2005 rocket)          |
@@ -139,7 +139,7 @@
 | SEGALL0EFLN81500 | switch to 'Part One' |
 
 ### DINOSAUR KING ODR and KING 2
-| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Name of card                       |
+| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Card Name                          |
 | ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
 | SEGA2SJ5GHSU | Dino      | 22      | Rock     | Bolt      | 1200 / 900      | Eucentrosaurus (2005 rocket)       |
 | SEGAXO3UGN5E | Dino      | EX02    | Scissors | Bolt      | 1000 / 1000     | Mini-King                          |
@@ -167,7 +167,7 @@
 ### DINOSAUR KING 2 (VER 2.500) (only)
 
 
-| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Name of card                       |
+| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Card Name                          |
 | ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
 | SEGAEF4BFWU0 | Dino      | 01      | Paper    | Fire      | 2000 / 300      | Tyrannosaurus                      |
 | SEGA4RTXYUXC | Dino      | 02      | Rock     | Water     | 2000 / 300      | Spinosaurus                        |
@@ -287,7 +287,7 @@
 
 
 
-| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Name of card                       |
+| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Card Name                       |
 | ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
 | SEGA0HNJOLH7 | Dino      | AN06    |          |           | 1600            | Tank                               |
 | SEGA0W35YNC5 | Bolt	   |         |          |           |                 | Counter Blitz                      |
