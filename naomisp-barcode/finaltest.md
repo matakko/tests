@@ -4,10 +4,13 @@
 - [ALL DINOSAUR KINGs (KING, ODR, KING 2)](#all-dinosaur-kings-king-odr-king-2)
 - [DINOSAUR KING Operation: Dinosaur Rescue (only)](#dinosaur-king-operation-dinosaur-rescue-only) 
 - [DINOSAUR KING ODR and KING 2](#dinosaur-king-odr-and-king-2)
-- [list 3](#dinosaur-king-2-ver-2500-only)
-- [](#)
-- [MUSHIKING 2K4 2ND (Japan)](#mushi2k4)
-- [MUSHIKING 2K5 1ST (Japan)](#mushi2k5)
+- [DINOSAUR KING 2 (VER 2.500) (only)](#dinosaur-king-2-ver-2500-only)
+- [LOVE AND BERRY](#love-and-berry)
+- [ALL ENGLISH MUSHIKINGs](#all-english-mushikings)
+- [MUSHIKING II and IV (English)](#mushiking-ii-and-iv-english)
+- [MUSHIKING IV (English)](#mushiking-iv-english)
+- [MUSHIKING 2K4 2ND (Japan)](#mushiking-2k4-2nd-japan)
+- [MUSHIKING 2K5 1ST (Japan)](#mushiking-2k5-1st-japan)
 
 # Dinosaur King Series
 
