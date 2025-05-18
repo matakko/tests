@@ -16,7 +16,7 @@
 - Dinosaur King - D-Team VS. the Alpha Fortress (dinoki25) : [list 1](#all-dinosaur-kings-king-odr-king-2) [list 2](#dinosaur-king-odr-and-king-2) [list 3](#dinosaur-king-2-ver-2500-only)
 ### ALL DINOSAUR KINGs (KING, ODR, KING 2)
 [Back to the Menu](#dinosaur-king-series)
-| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Card Name                          |
+| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Name of card                       |
 | ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
 | SEGA6SBDGRE2 | Dino      |  01     | Paper    | Fire      | 2000 / 300      | Tyrannosaurus (2005 Rocket)        |
 | SEGAVRSO3KB3 | Dino      |  02     | Rock     | Water     | 2000 / 300      | Spinosaurus (2005 rocket)          |
@@ -28,7 +28,7 @@
 | SEGAYTM3NXI1 | Dino      |  07     | Paper    | Wind      | 1800 / 400      | Utahraptor (2005 rocket)           |
 | SEGAIB2FCFD7 | Dino      |  08     | Scissors | Water     | 1800 / 400      | Amargasaurus (2005 rocket)         |
 | SEGALB5NGEW3 | Dino      |  09     | Paper    | Bolt      | 1800 / 400      | Pachyrhinosaurus (2005 rocket)     |
-| SEGAFCSUY6H8 | Dino      |  10     | Rock     | Earth     | 1800 / 400      | Stegosarus                         |
+| SEGAFCSUY6H8 | Dino      |  10     | Rock     | Earth     | 1800 / 400      | Stegosaurus                        |
 | SEGA4KFDK8E3 | Dino      |  10     | Paper    | Water     | 1600 / 600      | Baryonyx (2005 rocket)             |
 | SEGAYHJ8JKL0 | Dino      |  11     | Scissors | Grass     | 1800 / 400      | Lambeosaurus (2005 rocket)         |
 | SEGAGLCG3HZ4 | Dino      |  11     | Rock     | Water     | 1400 / 700      | Saltasaurus (2005 rocket)          |
@@ -36,13 +36,13 @@
 | SEGANYLOPM42 | Dino      |  13     | Scissors | Fire      | 1600 / 600      | Torvosaurus (2005 rocket)          |
 | SEGA2ODERJM0 | Dino      |  15     | Rock     | Bolt      | 1600 / 600      | Torosaurus (2005 rocket)           |
 | SEGARJK2YGS9 | Dino      |  17     | Paper    | Grass     | 1600 / 600      | Shantungosaurus (2005 rocket)      |
-| SEGAD74JKBN3 | Dino      |  18     | Rock     | Wind      | 1600 / 600      | Ceratosarus  (2005)                |
+| SEGAD74JKBN3 | Dino      |  18     | Rock     | Wind      | 1600 / 600      | Ceratosaurus  (2005)               |
 | SEGA82V6JD96 | Dino      |  19     | Paper    | Fire      | 1400 / 700      | Acrocanthosaurus (2005 rocket)     |
 | SEGA8AEBTRW7 | Dino      |  21     | Scissors | Bolt      | 1400 / 700      | Triceratops(2005 rocket)           |
 | SEGAGY3NFYR8 | Dino      |  22     | Paper    | Earth     | 1400 / 700      | Ankylosaurus (2005 rocket)         |
 | SEGASVRNBKI7 | Dino      |  23     | Rock     | Grass     | 1400 / 700      | Maiasaura (2005 rocket)            |
 | SEGA9SJV4UF7 | Dino      |  23     | Paper    | Earth     | 1000 / 1000     | Wuerhosaurus (2005 rocket)         |
-| SEGAS1RVOKZ2 | Dino      |  24     | Scissors | Wind      | 1400 / 700      | Allosarus (2005)                   |
+| SEGAS1RVOKZ2 | Dino      |  24     | Scissors | Wind      | 1400 / 700      | Allosaurus (2005)                  |
 | SEGABYSFYD09 | Dino      |  25     | Rock     | Fire      | 1400 / 700      | Giganotosaurus (2005 rocket)       |
 | SEGAU9JBRVB5 | Dino      |  25     | Scissors | Grass     | 1400 / 700      | Iguanodon                          |
 | SEGA3UUL8XY0 | Dino      |  26     | Scissors | Water     | 1400 / 700      | Suchomimus (2005 rocket)           |
@@ -62,7 +62,7 @@
 | SEGA5VDF8JG4 | Dino      |2006 EX01| Rock     | Bolt      | 1200 / 900      | Centrosaurus (2005 rocket)         |
 | SEGAV5A9EWR2 | Dino      |S01/S02  | Paper    | Secret    | 2000 / 1000     | Deinonychus (2005 rocket)          |
 | SEGA7BBJKSV6 | Dino      |SP06/SP05| Rock     | Secret    | 2000 / 1000     | Therizinosaurus                    |
-| SEGAZ0NJFH34 | Dino      |S04/SP04 | Scissors | Secret    | 2000 / 1000     | Pachycephalosarus                  |
+| SEGAZ0NJFH34 | Dino      |S04/SP04 | Scissors | Secret    | 2000 / 1000     | Pachycephalosaurus                 |
 | SEGARXY8C2Y4 | Dino      | ACT001  | Rock     | Water     | 1000 / 1000     | Alpha Irritator                    |
 | SEGA4W8UJ3L2 | Dino      | ACT002  | Rock     | Grass     | 1000 / 1000     | Alpha Ouranosaurus                 |
 | SEGACMDUVP41 | Dino      | ACT003  | Paper    | Fire      | 1000 / 1000     | Alpha Gorgosaurus                  |
