@@ -166,7 +166,6 @@
 
 ### DINOSAUR KING 2 (VER 2.500) (only)
 
-
 | Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Card Name                          |
 | ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
 | SEGAEF4BFWU0 | Dino      | 01      | Paper    | Fire      | 2000 / 300      | Tyrannosaurus                      |
@@ -283,219 +282,100 @@
 | SEGATXR4V9A1 | Dino      | ACT008  | Scissors | Wind      | 1800 / 500      | Alpha Allosaurus                   |
 | SEGAFIE9WMK1 | Dino      | ACT009  | Paper    | Bolt      | 1800 / 500      | Alpha Chasmosaurus                 |
 | SEGAZSIVL6LR | Dino      | ACT010  | Rock     | Earth     | 1800 / 500      | Alpha Kentrosaurus                 |
+| SEGA6GGPXC4U | Move      | 01      | Rock     | Normal    | 200             | Tail Smash                         |
+| SEGA4IH4WP0G | Move      | 02      | Rock     | Normal    | 500             | Stomping Hammer                    |
+| SEGAF5BNP16W | Move      | 03      | Rock     | Normal    | 800             | Diving Press                       |
+| SEGA2U1DCGHM | Move      | 04      | Rock     | Normal    | !               | Critical Block                     |
+| SEGAGED1DAVL | Move      | 05      | Rock     | Normal    | !               | Final Fury                         |
+| SEGASVBUSIHI | Move      | 06      | Scissors | Normal    | 200             | Kamikaze Tackle                    |
+| SEGA87BMGLVU | Move      | 07      | Scissors | Normal    | 500             | Death Grind                        |
+| SEGA6YPD2VYR | Move      | 09      | Scissors | Normal    | !               | Tie Breaker                        |
+| SEGAJ1UB94D1 | Move      | 10      | Scissors | Normal    | !               | Quick Strike                       |
+| SEGAJ84LNKIB | Move      | 11      | Paper    | Normal    | 200             | Neck Crusher                       |
+| SEGAJFIW9CRI | Move      | 12      | Paper    | Normal    | 500             | Atomic Bomb                        |
+| SEGAJKCYE1TR | Move      | 13      | Paper    | Normal    | 800             | Dino Swing                         |
+| SEGA7AMTDNBW | Move      | 14      | Paper    | Normal    | !               | Haste                              |
+| SEGA14I8SEWD | Move      | 15      | Paper    | Normal    | !               | Recovery                           |
+| SEGAN0M8COJW | Move      | 40      | Paper    | Normal    | !               | Attack Boost                       |
+| SEGAJ9VHC2BK | Move      | 41      | Rock     | Normal    | !               | Power Drain                        |
+| SEGA5DVF0NPQ | Move      | 42      | Paper    | Normal    | !               | Move Breaker                       |
+| SEGAFHP7SYJQ | Move      | 47      | Rock     | Normal    | !               | Defense Boost                      |
+| SEGA7B191V9Y | Move      | 49      | Scissors | Normal    | !               | Venom Fang                         |
+| SEGAOJ0J6XRD | Move      | 50      | Scissors | Normal    | !               | Light Recovery                     |
+| SEGATG4MZDCU | Move      | 52      | Scissors | Normal    | !               | Triple Headbutt                    |
+| SEGA54B6YWHX | Move      | 53      | Paper    | Normal    | !               | Leaellyn Cure                      |
+| SEGAUBXVSTXW | Move      | 54      | Rock     | Normal    | !               | Move Block                         |
+| SEGAW0LPP87B | Move      | 59      | Paper    | Normal    | !               | Stun Dash                          |
+| SEGA8ICDMAEJ | Move      | 61      | Rock     | Normal    | !               | Tag Team                           |
+| SEGA8XO21ARZ | Move      | 68      | Scissors | Normal    | !               | Life-Force Swap                    |
+| SEGA3U3EX03B | Move      | 69      | Rock     | Normal    | !               | Skydive                            |
+| SEGAMG6D1PRQ | Move      | 69      | Rock     | Normal    | !               | Tie Attack                         |
+| SEGARZARDFAZ | Move      | 70      | Paper    | Normal    | !               | Alpha Dice                         |
+| SEGAR2OG7JWH | Move      | 71/80   | Rock     | Normal    | !               | Dino Stuffer                       |
+| SEGARCZ4HO07 | Move      | 72      | Paper    | Normal    | !               | Tie Bomb                           |
+| SEGA1NWB157R | Move      | 81      | Scissors | Normal    | !               | Technique Boost                    |
+| SEGA4M5FPGZM | Super Move| 34/01   | Rock     | Fire      | ----            | Fire Cannon                        |
+| SEGAGZDOJW3B | Super Move| 02      | Scissors | Fire      | ----            | Fire Bomb                          |
+| SEGATISZT9L3 | Super Move| 36/02   | Scissors | Water     | ----            | Tragedy of the Sphere              |
+| SEGAJR91IFFL | Super Move| 03      | Paper    | Water     | ----            | Aqua Whip                          |
+| SEGASYODRU3Y | Super Move| 01      | Rock     | Bolt      | ----            | Lightning Strike                   |
+| SEGAD9ABA24D | Super Move| 39      | Paper    | Bolt      | ----            | Lightning Spear                    |
+| SEGALVKMZDI9 | Super Move| 43/02   | Rock     | Earth     | ----            | Spike Arrows                       |
+| SEGAQP1G1H0S | Super Move| 02      | Scissors | Earth     | ----            | Mole Attack                        |
+| SEGACEM3MLDV | Super Move| 45/02   | Scissors | Grass     | ----            | Big Foot Assault                   |
+| SEGAJAMHT4GM | Super Move| 03      | Paper    | Grass     | ----            | Metal Wing                         |
+| SEGARMWOPON9 | Super Move| 01      | Rock     | Wind      | ----            | Biting Wind                        |
+| SEGAYB17CGCR | Super Move| 47      | Rock     | Water     | ----            | Shock Wave                         |
+| SEGALS8WVD2B | Super Move| 48/03   | Paper    | Wind      | ----            | Tornado Toss                       |
+| SEGAX2OS60HJ | Super Move| 52      | Paper    | Earth     | ----            | Earth Barrier                      |
+| SEGA9DNXWFSO | Super Move| 53      | Rock     | Grass     | ----            | Egg Attack                         |
+| SEGA5WMYVFLA | Super Move| 55      | Rock     | Water     | ----            | Water Sword                        |
+| SEGAPI608L0N | Super Move| 57      | Scissors | Wind      | ----            | Ninja Attack                       |
+| SEGAUP5SR4B7 | Super Move| 58      | Paper    | Fire      | ----            | Volcano Burst                      |
+| SEGAIWDDYXS4 | Super Move| 61      | Scissors | Bolt      | ----            | Electric Charge                    |
+| SEGA5D8FOM6V | Super Move| 69      | Paper    | Earth     | ----            | Earthquake                         |
+| SEGA5PVWCUOB | Super Move| 71      | Scissors | Wind      | ----            | Cyclone                            |
+| SEGALN1S1J7Y | Super Move| 72      | Scissors | Bolt      | ----            | Thunder Bazooka                    |
+| SEGAZ45VLQA6 | Super Move| 75      | Rock     | Fire      | ----            | Magma Blaster                      |
+| SEGAAVYQF3IS | Super Move| 75      | Paper    | Grass     | ----            | Super Impact                       |
+| SEGAJO6WYC81 | Super Move| 78/77   | Scissors | Fire      | ----            | Death Fire                         |
+| SEGAGVW59FZT | Super Move| 79      | Paper    | Water     | ----            | Aqua Vortex                        |
+| SEGA8DGY5JUR | Super Move| 80      | Rock     | Wind      | ----            | Dino Illusion                      |
+| SEGAT6YZKGAT | Super Move| 82      | Rock     | Grass     | ----            | Nature's Blessing                  |
+| SEGAN2A8I8P7 | Super Move| 83/82   | Scissors | Water     | ----            | Futaba Water Cannon                |
+| SEGA0W35YNC5 | Super Move| 86      | Rock     | Bolt      | ----            | Counter Blitz                      |
+| SEGABUW7B23K | Super Move| 86/96   | Paper    | Bolt      | ----            | Gatling Spark                      |
+| SEGAYR2KGG6A | Super Move| 89      | Scissors | Earth     | ----            | Crystal Crusher                    |
+| SEGAOFA2WXHA | Super Move| 91      | Rock     | Earth     | ----            | Quake Saber                        |
+| SEGADNA5VNN8 | Super Move| 105     | Scissors | Grass     | ----            | Emerald Garden                     |
+| SEGA93PXRR82 | Super Move| 100/111 | Paper    | Wind      | ----            | Mayfly                             |
+| SEGA4FQXTA0T | Egg       | EGG-001 | ----     | Fire      | ----            | Fire Egg                           |
+| SEGAH6VL5XN2 | Egg       | EGG-002 | ----     | Fire      | ----            | Fire Egg                           |
+| SEGAOCB6OWPS | Egg       | EGG-003 | ----     | Alpha     | ----            | Alpha Dinosaurs Egg                |
+| SEGAB1Z8LZYG | Egg       | EGG-004 | ----     | Bolt      | ----            | Lightning Egg                      |
+| SEGA8EVXJ7FB | Egg       | EGG-005 | ----     | Fire      | ----            | Fire Egg                           |
+| SEGAG7MN0RXA | Egg       | EGG-006 | ----     | Wind      | ----            | Wind Egg                           |
+| SEGA71SZNSVN | Egg       | EGG-007 | ----     | Earth     | ----            | Earth Egg                          |
+| SEGAK1X7W2HZ | Egg       | EGG-008 | ----     | Water     | ----            | Water Egg                          |
+| SEGAPFOE71QU | Egg       | EGG-009 | ----     | Grass     | ----            | Grass Egg                          |
+| SEGAOYKF6TZK | Egg       | EGG-010 | ----     | Secret    | ----            | Secret Egg                         |
+| SEGA8XYHMLW4 | Fossil    | KS001   | Scissors | Fire      | 1200 / 900      | Tarbosaurus                        |
+| SEGAHJ96ST0L | Fossil    | KS002   | Rock     | Wind      | 1200 / 900      | Monolophosaurus                    |
+| SEGAAQ6H8M9B | Fossil    | KS003   | Scissors | Wind      | 1000 / 1000     | Dilophosaurus                      |
+| SEGA4CX3FUHR | Fossil    | KS004   | Rock     | Earth     | 2000 / 400      | Euoplocephalus                     |
+| SEGA492VEHU7 | Fossil    | KS005   | Paper    | Fire      | 1400 / 700      | Acrocanthosaurus                   |
+| SEGA3KZ9COJV | Fossil    | KS006   | Scissors | Grass     | 2000 / 400      | Saurolophus                        |
+| SEGA4SOT894X | Fossil    | KS008   | Paper    | Fire      | 2000 / 300      | Tyrannosaurus                      |
+| SEGA7HP5QH4M | Character | ???     | ???      | ???       | ???             | Tatsuno Malm / Zoe Drake           |
+| SEGA8HZMRS2M | Character | ???     | ???      | ???       | ???             | Tatsuno Malm / Zoe Drake           |
+| SEGAM8C6EQHM | Character | ???     | ???      | ???       | ???             | Tatsuno Malm / Zoe Drake           |
+| SEGAR0Q6XTE7 | Character | ???     | ???      | ???       | ???             | Tatsuno Malm / Zoe Drake           |
+| SEGAF4XLP2Z8 | ???       | ???     | ???      | ???       | ???             | D-Team Member Card                 |
+| SEGAAIOK0WK8 | ???       | ???     | ???      | ???       | ???             | ???                                |
+| SEGAKXA0L3KE | ???       | ???     | ???      | ???       | ???             | ???                                |
+| SEGAV0XW7G4B | ???       | ???     | ???      | ???       | ???             | ???                                |
+| SEGAXHLF8W4U | ???       | ???     | ???      | ???       | ???             | ???                                |
 
-
-
-
-| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Card Name                       |
-| ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
-| SEGA0HNJOLH7 | Dino      | AN06    |          |           | 1600            | Tank                               |
-| SEGA0W35YNC5 | Bolt	   |         |          |           |                 | Counter Blitz                      |
-| SEGA0Z42L309 | Dino	   |   27    |          |           | 2000            | Euoplocephalus                     |
-| SEGA14I8SEWD | Skill	   |         |          |           |                 | Recovery                           |
-| SEGA190AG42O | Dino	   |         |          |           | 2000            | Deinonychus                        |
-| SEGA1HPY2WVV | Dino      |         |          |           | 1400            | Corythosaurus                      |
-| SEGA1NWB157R | Skill	   |         |          |           |                 | Technique Boost                    |
-| SEGA2U1DCGHM | Skill	   |         |          |           |                 | Critical Block                     |
-| SEGA39DVTFPO | Dino      |         |          |           | 1800            | Altirhinus                         |
-| SEGA3CY29KZ1 | Dino	   |         |          |           | 1200            | Sauropelta                         |
-| SEGA3E0BZ3EN | Dino      |         |          |           | 1400            | Sinraptor                          |
-| SEGA3JH79ZSI | Dino	   | AN04    |          |           | 1600            | Terry                              |
-| SEGA3KZ9COJV | Fossil	   |         |          |           | 2000            | Saurolophus                        |
-| SEGA3O0PTOIU | Dino	   |   20    |          |           | 1400            | Iguanodon                          |
-| SEGA3U3EX03B | Skill	   |         |          |           |                 | Skydive                            |
-| SEGA3U4JSNYN | Dino	   |         |          |           | 1800            | Charonosaurus                      |
-| SEGA492VEHU7 | Fossil	   |         |          |           | 1400            | Acrocanthosaurus                   |
-| SEGA4CX3FUHR | Fossil	   |         |          |           | 2000            | Euoplocephalus                     |
-| SEGA4FQXTA0T | Egg	   |         |          |           |                 | Fire                               |
-| SEGA4IH4WP0G | Skill	   |         |          |           |  500            | Stomping Hammer                    |
-| SEGA4M5FPGZM | Fire	   |         |          |           |                 | Fire Cannon                        |
-| SEGA4MPNH5PB | Dino	   |   07    |          |           | 1800            | Carcharodontosaurus                |
-| SEGA4RTXYUXC | Dino	   |         |          |           | 2000            | Spinosaurus                        |
-| SEGA4SOT894X | Fossil    |         |          |           | 2000            | Tyrannosaurus                      |
-| SEGA50E8BFLE | Dino	   |         |          |           | 1400            | Allosaurus                         |
-| SEGA54B6YWHX | Skill	   |         |          |           |                 | Leaellyn Cure                      |
-| SEGA5D8FOM6V | Earth	   |         |          |           | ----            | Earthquake                         |
-| SEGA5DVF0NPQ | Skill	   |         |          |           |                 | Move Breaker                       |
-| SEGA5PVWCUOB | Wind	   |         |          |           |                 |  Cyclone                           |
-| SEGA5W12WGQ5 | Dino      |         |          |           | 1200            | Camarasaurus                       |
-| SEGA5WMYVFLA | Water	   |         |          |           | ----            | Water Sword                        |
-| SEGA69HADJP4 | Dino      |         |          |           | 2000            | Megaraptor                         |
-| SEGA6GGPXC4U | Skill	   |   01    |          |           |  200            | Tail Smash                         |
-| SEGA6YPD2VYR | Skill	   |         |          |           | 	              | Tie Breaker                        |
-| SEGA71SZNSVN | Egg       |         |          |           |                 | Earth                              |
-| SEGA77YL5U7O | Dino	   |         |          |           | 1000            | Einiosaurus                        |
-| SEGA7AMTDNBW | Skill	   |         |          |           |                 | Haste                              |
-| SEGA7B191V9Y | Skill	   |         |          |           |                 | Venom Fang                         |
-| SEGA7CTESGHS | Dino	   |   25    |          |           | 1000            | Gorgosaurus                        |
-| SEGA7HP5QH4M |           |         |          |           |                 | Character Zoe                      |
-| SEGA7WFFT71H | Dino	   |         |          |           | 1400            | Ankylosaurus                       |
-| SEGA7Y8P9VX6 | Dino	   |         |          |           | 1600            | Anatotitan                         |
-| SEGA87BMGLVU | Skill	   |         |          |           |  500            | Death Grind                        |
-| SEGA8DGY5JUR | Wind	   |         |          |           | ----            | Dino Illusion                      |
-| SEGA8EVXJ7FB | Egg	   |         |          |           |                 | Fire                               |
-| SEGA8HYWB3LY | Dino	   |   10    |          |           | 1800            | Stegosaurus                        |
-| SEGA8HZMRS2M |           |         |          |           |                 | Character Zoe                      |
-| SEGA8ICDMAEJ | Skill	   |         |          |           | 	              | Tag Team                           |
-| SEGA8NCVMX1F | Dino	   |         |          |           | 1800            | Daspletosaurus                     |
-| SEGA8R2QU45B | Dino	   |         |          |           | 1000            | Brachyceratops                     |
-| SEGA8UE3HTUK | Dino	   |         |          |           | 1400            | Nodosaurus                         |
-| SEGA8VMI8KAK | Dino	   |         |          |           | 2000            | Saurolophus                        |
-| SEGA8XO21ARZ | Skill	   |         |          |           | 	              | Life-Force Swap                    |
-| SEGA8XYHMLW4 | Fossil	   |         |          |           | 1200            | Tarbosaurus                        |
-| SEGA93PXRR82 | Wind	   |         |          |           | ----            | Mayfly                             |
-| SEGA95H04KQL | Dino      |         |          |           | 1450            | Acr-Dilophosarus                   |
-| SEGA9B2CB4IX | Dino	   |         |          |           | 1400            | Giganotosaurus                     |
-| SEGA9B6G6VQZ | Dino	   | AN01    |          |           | 1600            | Chomp                              |
-| SEGA9DNXWFSO | Grass	   |   92    |          |           | ----            | Egg Attack                         |
-| SEGA9SYW9V9R | Dino	   |         |          |           | 1000            | Liliensternus                      |
-| SEGAAGBGH3LW | Dino	   |         |          |           | 1200            | Monolophosaurus                    |
-| SEGAAIOK0WK8 |           |         |          |           |                 |                                    |
-| SEGAAQ6H8M9B | Fossil	   |         |          |           | 1000            | Dilophosaurus                      |
-| SEGAAVYQF3IS | Grass     |         |          |           | ----            | Super Impact                       |
-| SEGAAY64VE5C | Dino      |         |          |           | 1500            | Fukiraptor                         |
-| SEGAB1Z8LZYG | Egg       |         |          |           |                 | Lightning                          |
-| SEGABI150950 | Dino      |         |          |           | 1450            | Acr-Ouranosarus                    |
-| SEGABUW7B23K | Bolt	   |         |          |           | 	              | Gatling Spark                      |
-| SEGABY5TAVS3 | Dino	   |         |          |           | 1850            | Isisaurus                          |
-| SEGAC8J4CDQL | Dino	   |         |          |           | 2000            | Pachycephalosaurus                 |
-| SEGAC8UVNUPP | Dino	   |         |          |           | 1200            | Achelousaurus                      |
-| SEGACEM3MLDV | Grass	   |         |          |           | ----            | Big Foot Assault                   |
-| SEGACKT6EP1B | Dino      | AN05    |          |           | 1600            | Spiny                              |
-| SEGACN0ZROC2 | Dino      |         |          |           | 1450            | Mini-King                          |
-| SEGACN6361O6 | Dino	   |         |          |           | 1400            | Kentrosaurus                       |
-| SEGAD8HA6Y59 | Dino      |         |          |           | 1400            | Triceratops                        |
-| SEGAD9ABA24D | Bolt      |         |          |           | ----            | Lightning Spear                    |
-| SEGADNA5VNN8 | Grass     |         |          |           | ----            | Emerald Garden                     |
-| SEGADUFGNJJM | Dino      |         |          |           | 1450            | Mini-King                          |
-| SEGADYE28DRW | Dino      |         |          |           | 1000            | Gojirasaurus                       |
-| SEGADYOCKF1J | Dino      | AN10    |          |           | 2000            | Black Tyrannosaurus                |
-| SEGAE9B81T5T | Dino	   |         |          |           | 1600            | Deltadromeus                       |
-| SEGAEF4BFWU0 | Dino	   |         |          |           | 2000            | Tyrannosaurus                      |
-| SEGAEMY2GPUY | Dino      |         |          |           | 1550            | Chasmosarus                        |
-| SEGAEO392XQT | Dino	   |   19    |          |           | 1000            | Irritator                          |
-| SEGAEQ0BBZ2B | Dino      | AN03    |          |           | 1600            | Paris                              |
-| SEGAER7LCRL2 | Dino      |         |          |           | 1450            | Acr-Eniosarus                      |
-| SEGAF1C7TSUO | Dino      |         |          |           | 2000            | Saurophaganax                      |
-| SEGAF4XLP2Z8 |           |         |          |           |                 | D-Team Member Card                 |
-| SEGAF5BNP16W | Skill	   |   03    |          |           |  800            | Diving Press                       |
-| SEGAFE17ODLA |  Dino     |         |          |           | 1600            | Yangchuanosaurus                   |
-| SEGAFHP7SYJQ | Skill	   |         |          |           | 	              | Defense Boost                      |
-| SEGAFIE9WMK1 | Dino	   |         |          |           | 1800            | Acr-Dinosaur Chasmosaurus          |
-| SEGAFJGQQTM2 | Dino      |         |          |           | 1700            | Acr-Acrocanthosarus                |
-| SEGAFP3DAU7L | Dino	   | AN02    |          |           | 1600            | Ace                                |
-| SEGAFZBUNQIC | Dino      |         |          |           | 1500            | Centrosarus                        |
-| SEGAG7MN0RXA | Egg       |         |          |           |                 | Wind                               |
-| SEGAGA7JZJCT | Dino      |         |          |           | 1400            | Saltasaurus                        |
-| SEGAGB2VU9BV | Dino      |         |          |           | 1200            | Eustreptospondylus                 |
-| SEGAGED1DAVL | Skill	   |         |          |           | 	              | Final Fury                         |
-| SEGAGRQ7RVWY | Dino      |         |          |           | 1600            | Shantungosaurus                    |
-| SEGAGVW59FZT | Water	   |         |          |           | 	              | Aqua Vortex                        |
-| SEGAGZDOJW3B | Fire	   |         |          |           | 	              | Fire Bomb                          |
-| SEGAH1K17EW7 | Dino	   |         |          |           | 1600            | Ceratosaurus                       |
-| SEGAH57IGOMI | Dino      |         |          |           | 1500            | Fkuisarus                          |
-| SEGAH6VL5XN2 | Egg       |         |          |           |                 | Fire                               |
-| SEGAHJ96ST0L | Fossil	   |         |          |           | 1200            | Monolophosaurus                    |
-| SEGAHJR5BHUC | Dino      |         |          |           | 1650            | Pachyrinosarus                     |
-| SEGAHT4AU9JP | Dino	   |         |          |           | 1000            | Alioramus                          |
-| SEGAHYHVOV6N | Dino	   |         |          |           | 1400            | Gastonia                           |
-| SEGAIAIWUJHP | Dino      |         |          |           | 1600            | Jobaria                            |
-| SEGAIDUKH2K9 | Dino      |         |          |           | 1800            | Tarchia                            |
-| SEGAISE6W3Z6 | Dino	   |         |          |           | 1000            | Talarurus                          |
-| SEGAIWDDYXS4 | Bolt      |         |          |           | ----            | Electric Charge                    |
-| SEGAJ1UB94D1 | Skill	   |         |          |           | 	              | Quick Strike                       |
-| SEGAJ84LNKIB | Skill	   |         |          |           |  200            | Neck Crusher                       |
-| SEGAJ9VHC2BK | Skill     |   46    |          |           | ----            | Power Drain                        |
-| SEGAJAF0UYWH | Dino      |         |          |           | 1400            | Maiasaura                          |
-| SEGAJAMHT4GM | Grass	   |         |          |           | 	              | Metal Wing                         |
-| SEGAJFIW9CRI | Skill	   |         |          |           |  500            | Atomic Bomb                        |
-| SEGAJIQWOU02 | Dino      |         |          |           | 1700            | Parashaurolophus                   |
-| SEGAJKCYE1TR | Skill	   |         |          |           |  800            | Dino Swing                         |
-| SEGAJO6WYC81 | Fire	   |         |          |           | 	              | Death Fire                         |
-| SEGAJR91IFFL | Water 	   |         |          |           | ----            | Aqua Whip                          |
-| SEGAK1X7W2HZ | Egg       |         |          |           |                 | Water                              |
-| SEGAK8KGTCXK | Dino	   |         |          |           | 1200            | Patagosaurus                       |
-| SEGAKXA0L3KE |           |         |          |           |                 |                                    |
-| SEGAL1K3DUYH | Dino      |         |          |           | 1600            | Edmontonia                         |
-| SEGAL90WY24W | Dino      |         |          |           | 1400            | Suchomimus                         |
-| SEGALFNC6NIP | Dino      |         |          |           | 1550            | Iguanadon                          |
-| SEGALN1S1J7Y | Bolt      |         |          |           | ----            | Thunder Bazooka                    |
-| SEGALOFWM9U4 | Dino	   |         |          |           | 1800            | Majungasaurus                      |
-| SEGALS8WVD2B | Wind	   |         |          |           | ----            | Tornado Toss                       |
-| SEGALVKMZDI9 | Earth	   |         |          |           | ----            | Spike Arrows                       |
-| SEGALWIRB9EX | Dino	   |         |          |           | 2000            | Saichania                          |
-| SEGALXQFYGSF | Dino      |         |          |           | 1450            | Siamotyrannus                      |
-| SEGAM8C6EQHM |           |         |          |           |                 | haracter Zoe                       |
-| SEGAMG6D1PRQ | Skill	   |         |          |           | 	              | Tie Attack                         |
-| SEGAN0M8COJW | Skill	   |         |          |           | 	              | Attack Boost                       |
-| SEGAN2A8I8P7 | Water	   |         |          |           | 	              | Futaba Water Cannon                |
-| SEGANAKEBCU1 | Dino	   |         |          |           | 1000            | Opisthocoelicaudia                 |
-| SEGANFFE1GIL | Dino	   |         |          |           | 1200            | Monoclonius                        |
-| SEGANN4BIORL | Dino      |         |          |           | 1400            | Acrocanthosaurus                   |
-| SEGAO9OIJEUV | Dino	   |         |          |           | 1200            | Dacentrurus                        |
-| SEGAOCB6OWPS | Egg       |         |          |           |                 | Alpha                              |
-| SEGAOFA2WXHA | Earth	   |         |          |           | ----            | Quake Saber                        |
-| SEGAOFB1X2G1 | Dino      |         |          |           | 1650            | Lambeosarus                        |
-| SEGAOJ0J6XRD | Skill	   |         |          |           | 	              | Light Recovery                     |
-| SEGAOW5047CC | Dino	   |   14    |          |           | 1600            | Baryonyx                           |
-| SEGAOYKF6TZK | Egg       |         |          |           |                 | Secret                             |
-| SEGAP4Q9M9F2 | Dino      |         |          |           | 1550            | Shunosarus                         |
-| SEGAP9S20AK9 | Dino      |         |          |           | 1450            | Acr-Iritator                       |
-| SEGAPFOE71QU | Egg       |         |          |           |                 | Grass                              |
-| SEGAPI608L0N | Wind      |         |          |           | ----            | Ninja Attack                       |
-| SEGAPUJ9JPK7 | Dino	   |         |          |           | 1200            | Fukuiraptor                        |
-| SEGAPUM650DR | Dino      |         |          |           | 1250            | Gorgosarus                         |
-| SEGAPUTIULWF | Dino	   |         |          |           | 2000            | Ampelosaurus                       |
-| SEGAQG2STW0D | Dino	   |         |          |           | 1600            | Shunosaurus                        |
-| SEGAQP1G1H0S | Earth	   |         |          |           | 	              | Mole Attack                        |
-| SEGAR0Q6XTE7 |           |         |          |           |                 | Character Zoe                      |
-| SEGAR2OG7JWH | Skill	   |         |          |           | 	              | Dino Stuffer                       |
-| SEGAR95ZXQV2 | Dino      |         |          |           | 1600            | Arrhinoceratops                    |
-| SEGARCMMAII6 | Dino	   |         |          |           | 2000            | Carnotaurus                        |
-| SEGARCZ4HO07 | Skill	   |         |          |           | 	              | Tie Bomb                           |
-| SEGARMWOPON9 | Wind      |         |          |           | ----            | Biting Wind                        |
-| SEGARZARDFAZ | Skill	   |         |          |           | 	              | Alpha Dice                         |
-| SEGARZLA6RON | Dino	   |         |          |           | 1200            | Tarbosaurus                        |
-| SEGASRWZQGYP | Dino	   |         |          |           | 1400            | Chasmosaurus                       |
-| SEGASVBUSIHI | Skill	   |         |          |           | 200             | Kamikaze Tackle                    |
-| SEGASYODRU3Y | Bolt	   |         |          |           | ----            | Lightning Strike                   |
-| SEGAT6YZKGAT | Grass	   |         |          |           | ----            | Nature's Blessing                  |
-| SEGATG4MZDCU | Skill	   |         |          |           | 	              | Triple Headbutt                    |
-| SEGATISZT9L3 | Water	   |         |          |           | 	              | Tragedy of the Sphere              |
-| SEGATNIBATHJ | Dino      |         |          |           | 1500            | Sinraptor                          |
-| SEGATSU6CXX9 | Dino      |         |          |           | 1500            | Rajasarus                          |
-| SEGATWLQBXRB | Dino      |         |          |           | 1550            | Allosarus                          |
-| SEGATXR4V9A1 | Dino	   |         |          |           | 1800            | Acr-Dinosaur Allosaurus            |
-| SEGAUBXVSTXW | Skill	   |         |          |           | 	              | Move Block                         |
-| SEGAUGF4DXZ9 | Dino	   |         |          |           | 1000            | Muttaburrasaurus                   |
-| SEGAUP5SR4B7 | Fire	   |         |          |           | ----            | Volcano Burst                      |
-| SEGAV0XW7G4B |           |         |          |           |                 |                                    |
-| SEGAV92OTJLZ | Dino	   |         |          |           | 2000            | Therizinosaurus                    |
-| SEGAVT796Q6F | Dino	   |         |          |           | 1200            | Fukuisaurus                        |
-| SEGAW0LPP87B | Skill	   |         |          |           | ----            | Stun Dash                          |
-| SEGAW1P3VOQ1 | Dino      |         |          |           | 1200            | Eucentrosaurus                     |
-| SEGAWCVZE5I4 | Dino	   |         |          |           | 1400            | Neovenator                         |
-| SEGAWETV364B | Dino	   |         |          |           | 1200            | Tsintaosaurus                      |
-| SEGAWGNJK3E8 | Dino	   |         |          |           | 2000            | Pentaceratops                      |
-| SEGAWLUQSUY6 | Dino      |         |          |           | 1450            | Ouranosarus                        |
-| SEGAWNPTNKER | Dino      |         |          |           | 1550            | Yangchuanosarus                    |
-| SEGAX2OS60HJ | Earth	   |         |          |           | ----            | Earth Barrier                      |
-| SEGAXHLF8W4U |           |         |          |           |                 |                                    |
-| SEGAXI2EDT6D | Dino	   |         |          |           | 1400            | Dicraeosaurus                      |
-| SEGAY3CZU7Y5 | Dino      |         |          |           | 1700            | Therizinosarus                     |
-| SEGAY7GQH3TM | Dino      |         |          |           | 1700            | Deinonycus                         |
-| SEGAYB17CGCR | Water	   |         |          |           | ----            | Shock Wave                         |
-| SEGAYCSP42UQ | Dino	   |         |          |           | 1800            | Amargasaurus                       |
-| SEGAYGL1H4LK | Dino	   |         |          |           | 1200            | Albertosaurus                      |
-| SEGAYITU6I7D | Dino      |         |          |           | 1450            | Acr-Wuherosarus                    |
-| SEGAYR2KGG6A | Earth	   |         |          |           | 	              | Crystal Crusher                    |
-| SEGAZ45VLQA6 | Fire	   |         |          |           |                 | Magma Blaster                      |
-| SEGAZK86PO4C | Dino      |         |          |           | 1650            | Utahraptor                         |
-| SEGAZPTWJVRG | Dino	   |   02    |          |           | 2000            | Styracosaurus                      |
-| SEGAZR02QGDH | Dino      |   28    |          |           | 1000            | Dilophosaurus                      |
-| SEGAZSC0KBU3 | Dino      |         |          |           | 1600            | Torosarus                          |
-| SEGAZSIVL6LR | Dino	   |         |          |           | 1800            | Acr-Dinosaur Kentrosaurus          |
-| SEGAZWF51NGB | Dino      |         |          |           | 1000            | Wuerhosaurus                       |
 
 
 LOVE AND BERRY
