@@ -139,7 +139,29 @@
 | SEGALL0EFLN81500 | switch to 'Part One' |
 
 ### DINOSAUR KING ODR and KING 2
-
+| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Name of card                       |
+| ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
+| SEGA2SJ5GHSU | Dino      | 22      | Rock     | Bolt      | 1200 / 900      | Eucentrosaurus (2005 rocket)       |
+| SEGAXO3UGN5E | Dino      | EX02    | Scissors | Bolt      | 1000 / 1000     | Mini-King                          |
+| SEGAS1R4GUTG | Dino      | EX03/27 | Rock     | Grass     | 1200 / 900      | Fukuisaurus                        |
+| SEGA4NF8BZG6 | Dino      | EX04/28 | Paper    | Wind      | 1200 / 900      | Fukuiraptor                        |
+| SEGAZ3K5JDL7 | Dino      | ACT007  | Paper    | Fire      | 2000 / 300      | Alpha Acrocanthosaurus             |
+| SEGAH53LP4LM | Move      | 07      | Scissors | Normal    | 500             | Death grind                        |
+| SEGA7S8W9J1A | Move      | 40      | Paper    | Normal    | !               | Attack boost                       |
+| SEGAHF9UBLAC | Move      | 41      | Rock     | Normal    | !               | Power Drain                        |
+| SEGAO6EUR1N2 | Move      | 42      | Paper    | Normal    | !               | Move Breaker                       |
+| SEGACN6SJK3J | Move      | 47      | Rock     | Normal    | !               | Defense boost                      |
+| SEGAQT5YEWG1 | Move      | 49      | Scissors | Normal    | !               | Venom fang                         |
+| SEGAAQ4P12DN | Move      | 50      | Scissors | Normal    | !               | Light Recovery                     |
+| SEGA1BA2U3C9 | Move      | 56      | Scissors | Normal    | !               | Elemental Power                    |
+| SEGA2ZGCB8ZX | Move      | 59      | Paper    | Normal    | !               | Stun Dash                          |
+| SEGAN9SH4D1L | Move      | 61      | Rock     | Normal    | !               | Tag Team                           |
+| SEGAJZF8MD9H | Super Move| 47      | Rock     | Water     | ----            | Shock Wave                         |
+| SEGAJ1D695S8 | Super Move| 52      | Paper    | Earth     | ----            | Earth Barrier                      |
+| SEGA15FQNVUE | Super Move| 58      | Paper    | Fire      | ----            | Volcano Burst                      |
+| SEGAFH5JBF5S | Super Move| 61      | Scissors | Bolt      | ----            | Electric Charge                    |
+| SEGAV8D7JKJ9 | Super Move| 71      | Scissors | Wind      |                 | Cyclone                            |
+| SEGAN4COI6X5 | Super Move| 82      | Rock     | Grass     | ----            | Nature's Blessing                  |
 
 
 ### DINOSAUR KING 2 (VER 2.500) (only)
