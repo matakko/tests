@@ -83,7 +83,7 @@
 | SEGAVFXCTBL7 | Move      | 12      | Paper    | Normal    | 500             | Atomic Bomb (2005 rocket)          |
 | SEGAABBE4GA3 | Move      | 13      | Paper    | Normal    | 800             | Dino Swing                         |
 | SEGAGWQACOF9 | Move      | 14      | Paper    | Normal    | !               | Haste                              |
-| SEGAVU78R4J0 | Move      | 15      | Paper    | Normal    | 800             | Counterattack Recovery             |
+| SEGAVU78R4J0 | Move      | 15      | Paper    | Normal    | !               | Counterattack Recovery             |
 | SEGA54NDN1G4 | Super Move| 01      | Rock     | Fire      | ----            | Fire Cannon                        |
 | SEGANHGT83V4 | Super Move| 02      | Scissors | Fire      | ----            | Fire Bomb                          |
 | SEGA1DLBVSZ3 | Super Move| 02      | Scissors | Water     | ----            | Tragedy of the Sphere              |
@@ -96,7 +96,7 @@
 | SEGAXR9DTWH6 | Super Move| 03      | Paper    | Grass     | ----            | Metal Wing                         |
 | SEGA87DFVJP5 | Super Move| 01      | Rock     | Wind      | ----            | Biting Wind                        |
 | SEGAGFVQMAL9 | Super Move| 03      | Paper    | Wind      | ----            | Tornado Toss                       |
-| SEGABMJ5KLF8 | Super Move| 53      | Rock     | Grass     |                 | Egg Attack                         |
+| SEGABMJ5KLF8 | Super Move| 53      | Rock     | Grass     | ----            | Egg Attack                         |
 | SEGAL4IHZNG6 | Super Move| 54      | Paper    | Fire      | ----            | Blazing Spin Attack                |
 | SEGAHDLGD8T7 | Super Move| 55      | Rock     | Water     | ----            | Water Sword                        |
 | SEGACWER4NK1 | Super Move| 57      | Scissors | Wind      | ----            | Ninja Attack (2005 Rocket)         |
