@@ -169,6 +169,126 @@
 
 | Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Name of card                       |
 | ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
+| SEGAEF4BFWU0 | Dino      | 01      | Paper    | Fire      | 2000 / 300      | Tyrannosaurus                      |
+| SEGA4RTXYUXC | Dino      | 02      | Rock     | Water     | 2000 / 300      | Spinosaurus                        |
+| SEGAZPTWJVRG | Dino      | 02      | Scissors | Bolt      | 2000 / 300      | Styracosaurus                      |
+| SEGAJIQWOU02 | Dino      | 03      | Rock     | Grass     | 2000 / 300      | Parashaurolophus                   |
+| SEGALWIRB9EX | Dino      | 04      | Paper    | Earth     | 2000 / 300      | Saichania                          |
+| SEGA4MPNH5PB | Dino      | 55/05   | Rock     | Fire      | 1800 / 400      | Carcharodontosaurus                |
+| SEGARCMMAII6 | Dino      | 06      | Scissors | Wind      | 2000 / 300      | Carnotaurus                        |
+| SEGAZK86PO4C | Dino      | 07      | Paper    | Wind      | 1800 / 400      | Utahraptor                         |
+| SEGAYCSP42UQ | Dino      | 08      | Scissors | Water     | 1800 / 400      | Amargasaurus                       |
+| SEGAHJR5BHUC | Dino      | 09      | Paper    | Bolt      | 1800 / 400      | Pachyrinosaurus                    |
+| SEGA8HYWB3LY | Dino      | 10      | Rock     | Earth     | 1800 / 400      | Stegosaurus                        |
+| SEGAOW5047CC | Dino      | 10      | Paper    | Water     | 1600 / 600      | Baryonyx                           |
+| SEGAOFB1X2G1 | Dino      | 11      | Scissors | Grass     | 1800 / 400      | Lambeosaurus                       |
+| SEGAGA7JZJCT | Dino      | 11      | Rock     | Water     | 1400 / 700      | Saltasaurus                        |
+| SEGAL1K3DUYH | Dino      | 12      | Scissors | Earth     | 1600 / 600      | Edmontonia                         |
+| SEGAZSC0KBU3 | Dino      | 15      | Rock     | Bolt      | 1600 / 600      | Torosaurus                         |
+| SEGATSU6CXX9 | Dino      | 16      | Scissors | Fire      | 1400 / 800      | Rajasaurus                         |
+| SEGAGRQ7RVWY | Dino      | 17      | Paper    | Grass     | 1600 / 600      | Shantungosaurus                    |
+| SEGAH1K17EW7 | Dino      | 18      | Rock     | Wind      | 1600 / 600      | Ceratosaurus                       |
+| SEGANN4BIORL | Dino      | 19      | Paper    | Fire      | 1400 / 700      | Acrocanthosaurus                   |
+| SEGAD8HA6Y59 | Dino      | 21      | Scissors | Bolt      | 1400 / 700      | Triceratops                        |
+| SEGABY5TAVS3 | Dino      | 21      | Rock     | Water     | 2000 / 0        | Isisaurus                          |
+| SEGA7WFFT71H | Dino      | 22      | Paper    | Earth     | 1400 / 700      | Ankylosaurus                       |
+| SEGAHT4AU9JP | Dino      | 22      | Rock     | Fire      | 1000 / 1100     | Alioramus                          |
+| SEGAW1P3VOQ1 | Dino      | 22      | Rock     | Bolt      | 1200 / 900      | Eucentrosaurus                     |
+| SEGAJAF0UYWH | Dino      | 23      | Rock     | Grass     | 1400 / 700      | Maiasaura                          |
+| SEGAZWF51NGB | Dino      | 23      | Paper    | Earth     | 1000 / 1000     | Wuerhosaurus                       |
+| SEGAK8KGTCXK | Dino      | 23      | Rock     | Water     | 1200 / 1000     | Patagosaurus                       |
+| SEGAP4Q9M9F2 | Dino      | 23      | Rock     | Water     | 1600 / 700      | Shunosaurus                        |
+| SEGAQG2STW0D | Dino      | 23      | Rock     | Water     | 1600 / 700      | Shunosaurus                        |
+| SEGA50E8BFLE | Dino      | 24      | Scissors | Wind      | 1400 / 700      | Allosaurus                         |
+| SEGATWLQBXRB | Dino      | 24      | Scissors | Wind      | 1400 / 700      | Allosaurus                         |
+| SEGAR95ZXQV2 | Dino      | 24      | Scissors | Bolt      | 1600 / 700      | Arrhinoceratops                    |
+| SEGA9B2CB4IX | Dino      | 25      | Rock     | Fire      | 1400 / 700      | Giganotosaurus                     |
+| SEGA3O0PTOIU | Dino      | 25      | Scissors | Grass     | 1400 / 700      | Iguanodon                          |
+| SEGALFNC6NIP | Dino      | 25      | Scissors | Grass     | 1400 / 700      | Iguanadon                          |
+| SEGA8UE3HTUK | Dino      | 25      | Scissors | Earth     | 1400 / 800      | Nodosaurus                         |
+| SEGAL90WY24W | Dino      | 26      | Scissors | Water     | 1400 / 700      | Suchomimus                         |
+| SEGA39DVTFPO | Dino      | 26      | Paper    | Grass     | 1800 / 500      | Altirhinus                         |
+| SEGASRWZQGYP | Dino      | 27      | Paper    | Bolt      | 1400 / 700      | Chasmosaurus                       |
+| SEGAEMY2GPUY | Dino      | 27      | Paper    | Bolt      | 1400 / 700      | Chasmosaurus                       |
+| SEGA69HADJP4 | Dino      | 27      | Paper    | Wind      | 2000 / 400      | Megaraptor                         |
+| SEGACN6361O6 | Dino      | 28      | Rock     | Earth     | 1400 / 700      | Kentrosaurus                       |
+| SEGA8NCVMX1F | Dino      | 29      | Scissors | Fire      | 1800 / 500      | Daspletosaurus                     |
+| SEGAWCVZE5I4 | Dino      | 30      | Paper    | Wind      | 1400 / 700      | Neovenator                         |
+| SEGAZR02QGDH | Dino      | 30      | Scissors | Wind      | 1000 / 1000     | Dilophosaurus                      |
+| SEGARZLA6RON | Dino      | 31      | Scissors | Fire      | 1200 / 900      | Tarbosaurus                        |
+| SEGA5W12WGQ5 | Dino      | 32      | Paper    | Water     | 1200 / 900      | Camarasaurus                       |
+| SEGANAKEBCU1 | Dino      | 32      | Scissors | Water     | 1000 / 1100     | Opisthocoelicaudia                 |
+| SEGA7CTESGHS | Dino      | 33      | Paper    | Fire      | 1000 / 1000     | Gorgosaurus                        |
+| SEGAPUM650DR | Dino      | 33      | Paper    | Fire      | 1000 / 1000     | Gorgosaurus                        |
+| SEGANFFE1GIL | Dino      | 33      | Paper    | Bolt      | 1200 / 1000     | Monoclonius                        |
+| SEGAPUTIULWF | Dino      | 33      | Scissors | Water     | 2000 / 400      | Ampelosaurus                       |
+| SEGA3CY29KZ1 | Dino      | 34      | Scissors | Earth     | 1200 / 900      | Sauropelta                         |
+| SEGA3U4JSNYN | Dino      | 34      | Rock     | Grass     | 1800 / 500      | Charonosaurus                      |
+| SEGA8R2QU45B | Dino      | 34      | Paper    | Bolt      | 1000 / 1100     | Brachyceratops                     |
+| SEGAIDUKH2K9 | Dino      | 34      | Scissors | Earth     | 1800 / 500      | Tarchia                            |
+| SEGAWETV364B | Dino      | 35      | Paper    | Grass     | 1200 / 900      | Tsintaosaurus                      |
+| SEGAFE17ODLA | Dino      | 35      | Paper    | Fire      | 1600 / 700      | Yangchuanosaurus                   |
+| SEGAWNPTNKER | Dino      | 35      | Paper    | Fire      | 1600 / 700      | Yangchuanosaurus                   |
+| SEGA0Z42L309 | Dino      | 88/35   | Rock     | Earth     | 2000 / 400      | Euoplocephalus                     |
+| SEGAAGBGH3LW | Dino      | 36      | Rock     | Wind      | 1200 / 900      | Monolophosaurus                    |
+| SEGA3E0BZ3EN | Dino      | 36      | Rock     | Wind      | 1400 / 800      | Sinraptor                          |
+| SEGATNIBATHJ | Dino      | 36      | Rock     | Wind      | 1400 / 800      | Sinraptor                          |
+| SEGAWGNJK3E8 | Dino      | 29/36   | Paper    | Bolt      | 2000 / 400      | Pentaceratops                      |
+| SEGAC8UVNUPP | Dino      | 37      | Scissors | Bolt      | 1200 / 1000     | Achelousaurus                      |
+| SEGAO9OIJEUV | Dino      | 37      | Paper    | Earth     | 1200 / 1000     | Dacentrurus                        |
+| SEGAEO392XQT | Dino      | 38      | Rock     | Water     | 1000 / 1000     | Irritator                          |
+| SEGA8VMI8KAK | Dino      | 38      | Scissors | Grass     | 2000 / 400      | Saurolophus                        |
+| SEGAUGF4DXZ9 | Dino      | 38      | Scissors | Grass     | 1000 / 1100     | Muttaburrasaurus                   |
+| SEGALOFWM9U4 | Dino      | 31/38   | Rock     | Wind      | 1800 / 500      | Majungasaurus                      |
+| SEGA77YL5U7O | Dino      | 39      | Scissors | Bolt      | 1000 / 1000     | Einiosaurus                        |
+| SEGA7Y8P9VX6 | Dino      | 33/40   | Rock     | Grass     | 1600 / 700      | Anatotitan                         |
+| SEGA1HPY2WVV | Dino      | 89/40   | Paper    | Grass     | 1400 / 800      | Corythosaurus                      |
+| SEGAWLUQSUY6 | Dino      | 41      | Rock     | Grass     | 1000 / 1000     | Ouranosaurus                       |
+| SEGAXI2EDT6D | Dino      | 34/41   | Paper    | Water     | 1400 / 800      | Dicraeosaurus                      |
+| SEGAE9B81T5T | Dino      | 42      | Scissors | Wind      | 1600 / 700      | Deltadromeus                       |
+| SEGAYGL1H4LK | Dino      | 35/42   | Paper    | Fire      | 1200 / 1000     | Albertosaurus                      |
+| SEGAGB2VU9BV | Dino      | 90/43   | Scissors | Wind      | 1200 / 1000     | Eustreptospondylus                 |
+| SEGAISE6W3Z6 | Dino      | 37/44   | Rock     | Earth     | 1000 / 1100     | Talarurus                          |
+| SEGA9SYW9V9R | Dino      | 46      | Paper    | Wind      | 1000 / 1100     | Liliensternus                      |
+| SEGAHYHVOV6N | Dino      | 47      | Rock     | Earth     | 1400 / 800      | Gastonia                           |
+| SEGALXQFYGSF | Dino      | ------- | Rock     | Fire      | 1200 / 1000     | Siamotyrannus                      |
+| SEGAFZBUNQIC | Dino      |2006 EX01| Rock     | Bolt      | 1200 / 900      | Centrosaurus                       |
+| SEGACN0ZROC2 | Dino      | EX02    | Scissors | Bolt      | 1000 / 1000     | Mini-King                          |
+| SEGADUFGNJJM | Dino      | EX02    | Scissors | Bolt      | 1000 / 1000     | Mini-King                          |
+| SEGAVT796Q6F | Dino      | EX03/27 | Rock     | Grass     | 1200 / 900      | Fukuisaurus                        |
+| SEGAH57IGOMI | Dino      | EX03/27 | Rock     | Grass     | 1200 / 900      | Fukuisaurus                        |
+| SEGAAY64VE5C | Dino      | EX04/28 | Paper    | Wind      | 1200 / 900      | Fukuiraptor                        |
+| SEGAPUJ9JPK7 | Dino      | EX04/28 | Paper    | Wind      | 1200 / 900      | Fukuiraptor                        |
+| SEGAF1C7TSUO | Dino      |2007 EX05| Scissors | Fire      | 2000 / 400      | Saurophaganax                      |
+| SEGADYE28DRW | Dino      |2007 EX06| Rock     | Wind      | 1000 / 1100     | Gojirasaurus                       |
+| SEGAIAIWUJHP | Dino      |2008 EX08| Rock     | Water     | 1800 / 500      | Jobaria                            |
+| SEGAY7GQH3TM | Dino      |S01/S02  | Paper    | Secret    | 2000 / 1000     | Deinonycus                         |
+| SEGA190AG42O | Dino      |S01/S02  | Paper    | Secret    | 2000 / 1000     | Deinonychus                        |
+| SEGAY3CZU7Y5 | Dino      |SP06/SP05| Rock     | Secret    | 2000 / 1000     | Therizinosaurus                    |
+| SEGAV92OTJLZ | Dino      |SP06/SP05| Rock     | Secret    | 2000 / 1000     | Therizinosaurus                    |
+| SEGAC8J4CDQL | Dino      |S04/SP04 | Scissors | Secret    | 2000 / 1000     | Pachycephalosaurus                 |
+| SEGA9B6G6VQZ | Dino      | AN01    | Scissors | Bolt      | 1600 / 700      | Chomp                              |
+| SEGAFP3DAU7L | Dino      | AN02    | Rock     | Wind      | 1600 / 700      | Ace                                |
+| SEGAEQ0BBZ2B | Dino      | AN03    | Paper    | Grass     | 1600 / 700      | Paris                              |
+| SEGA3JH79ZSI | Dino      | AN04    | Paper    | Fire      | 1600 / 700      | Terry                              |
+| SEGACKT6EP1B | Dino      | AN05    | Scissors | Water     | 1600 / 700      | Spiny                              |
+| SEGA0HNJOLH7 | Dino      | AN09    | Rock     | Earth     | 1600 / 700      | Tank                               |
+| SEGADYOCKF1J | Dino      | AN10    | Paper    | Fire      | 2000 / 0        | Black Tyrannosaurus                |
+| SEGAP9S20AK9 | Dino      | ACT001  | Rock     | Water     | 1000 / 1000     | Alpha Irritator                    |
+| SEGABI150950 | Dino      | ACT002  | Rock     | Grass     | 1000 / 1000     | Alpha Ouranosaurus                 |
+| SEGAYITU6I7D | Dino      | ACT004  | Paper    | Earth     | 1000 / 1000     | Alpha Wuerhosaurus                 |
+| SEGAER7LCRL2 | Dino      | ACT005  | Scissors | Bolt      | 1000 / 1000     | Alpha Einiosaurus                  |
+| SEGA95H04KQL | Dino      | ACT006  | Scissors | Wind      | 1000 / 1000     | Alpha Dilophosaurus                |
+| SEGAFJGQQTM2 | Dino      | ACT007S | Paper    | Fire      | 2000 / 300      | Alpha Acrocanthosaurus             |
+| SEGATXR4V9A1 | Dino      | ACT008  | Scissors | Wind      | 1800 / 500      | Alpha Allosaurus                   |
+| SEGAFIE9WMK1 | Dino      | ACT009  | Paper    | Bolt      | 1800 / 500      | Alpha Chasmosaurus                 |
+| SEGAZSIVL6LR | Dino      | ACT010  | Rock     | Earth     | 1800 / 500      | Alpha Kentrosaurus                 |
+
+
+
+
+| Codes        | Type      | No.     | Sign     | Attribute | Strength / Tech | Name of card                       |
+| ------------ | --------- | ------- | -------- | --------- | --------------- | ---------------------------------- |
 | SEGA0HNJOLH7 | Dino      | AN06    |          |           | 1600            | Tank                               |
 | SEGA0W35YNC5 | Bolt	   |         |          |           |                 | Counter Blitz                      |
 | SEGA0Z42L309 | Dino	   |   27    |          |           | 2000            | Euoplocephalus                     |
